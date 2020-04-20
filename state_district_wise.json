@@ -722,31 +722,31 @@
   "Uttar Pradesh": {
     "districtData": {
       "Agra": {
-        "confirmed": 242,
+        "confirmed": 243,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ghaziabad": {
-        "confirmed": 41,
+        "confirmed": 46,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Lucknow": {
-        "confirmed": 162,
+        "confirmed": 164,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Gautam Buddha Nagar": {
-        "confirmed": 95,
+        "confirmed": 100,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Kheri": {
@@ -757,10 +757,10 @@
         }
       },
       "Moradabad": {
-        "confirmed": 57,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Varanasi": {
@@ -771,10 +771,10 @@
         }
       },
       "Kanpur Nagar": {
-        "confirmed": 30,
+        "confirmed": 60,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 30
         }
       },
       "Pilibhit": {
@@ -806,10 +806,10 @@
         }
       },
       "Meerut": {
-        "confirmed": 74,
+        "confirmed": 75,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bareilly": {
@@ -820,10 +820,10 @@
         }
       },
       "Bulandshahr": {
-        "confirmed": 15,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Basti": {
@@ -848,10 +848,10 @@
         }
       },
       "Firozabad": {
-        "confirmed": 48,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       "Azamgarh": {
@@ -876,10 +876,10 @@
         }
       },
       "Hapur": {
-        "confirmed": 16,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ghazipur": {
@@ -1072,10 +1072,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 85,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 84
+          "confirmed": 25
         }
       }
     }
