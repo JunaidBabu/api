@@ -17,12 +17,14 @@ git config user.email "${GITHUB_ACTOR}@bots.github.com"
 
 git checkout "$gh_pages_branch"
 
+ls
+
 mkdir tmp
 mkdir tmp/resources
 mkdir tmp/v2
 mkdir tmp/updatelog
 
-cp ./data.json .tmp/data_prev.json
+cp ./data.json ./tmp/data_prev.json
 
 git checkout "$main_branch"
 
