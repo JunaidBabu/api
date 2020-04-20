@@ -883,10 +883,10 @@
         }
       },
       "Ghazipur": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Banda": {
@@ -932,24 +932,24 @@
         }
       },
       "Auraiya": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Mathura": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Budaun": {
-        "confirmed": 8,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Kaushambi": {
@@ -960,10 +960,10 @@
         }
       },
       "Bijnor": {
-        "confirmed": 22,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Prayagraj": {
@@ -988,17 +988,17 @@
         }
       },
       "Amroha": {
-        "confirmed": 10,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Rampur": {
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bhadohi": {
@@ -1037,10 +1037,10 @@
         }
       },
       "Kannauj": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Sant Kabir Nagar": {
@@ -1072,10 +1072,24 @@
         }
       },
       "Unknown": {
-        "confirmed": 26,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 25
+          "confirmed": 0
+        }
+      },
+      "Etah": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
+      },
+      "Sultanpur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
