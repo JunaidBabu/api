@@ -26,6 +26,7 @@ mkdir tmp/updatelog
 
 cp ./data.json ./tmp/data_prev.json
 cp -r updatelog/ ./tmp/updatelog/
+tree
 
 git checkout "$main_branch"
 
