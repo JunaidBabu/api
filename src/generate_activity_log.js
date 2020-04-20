@@ -4,7 +4,7 @@ const moment = require('moment-timezone');
 const data = require('../tmp/data.json');
 const data_prev = require('../tmp/data_prev.json');
 
-update_log_file = './tmp/updatelog/log.json';
+update_log_file = '../tmp/updatelog/log.json';
 var update_log = require(update_log_file);
 BOT_TOKEN = process.argv[2];
 
