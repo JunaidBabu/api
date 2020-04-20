@@ -2,9 +2,13 @@ const fetch = require('node-fetch');
 const moment = require('moment-timezone');
 var fs = require('fs');
 
-var dir = './csv/';
+// var dir = __dirname + '/../tmp/csv/';
+// if (!fs.existsSync(dir)) {
+//     fs.mkdirSync(dir, { recursive: true });
+// }
+var dir = './tmp/csv/';
 if (!fs.existsSync(dir)) {
-    fs.mkdirSync(dir);
+    fs.mkdirSync(dir, { recursive: true });
 }
 
 const now = moment().unix()
@@ -35,21 +39,21 @@ const all_sheets = [
 ];
 
 all_sheets.forEach(element => {
-    console.log("Reading: "+element[0]);
+    console.log("Reading: " + element[0]);
     var temp_url = "https://docs.google.com/spreadsheets/d/e/" + PUBLISHED_SHEET_ID + "/pub?gid=" + element[1] + "&single=false&output=csv";
     console.log(temp_url);
     url = encodeURI(temp_url);
     let settings = { method: "Get" };
     fetch(url, settings).then(res => res.text())
         .then(csv => {
-            if(csv.includes("</html>")){
+            if (csv.includes("</html>")) {
                 console.error("probably not csv!");
                 process.exit(1);
                 return;
-            }else{
-                fs.writeFileSync(today_dir + "/"+element[0]+".csv", csv);
-                fs.writeFileSync(latest_dir + "/"+element[0]+".csv", csv);
-                console.log("Write completed: "+element[0]);
+            } else {
+                fs.writeFileSync(today_dir + "/" + element[0] + ".csv", csv);
+                fs.writeFileSync(latest_dir + "/" + element[0] + ".csv", csv);
+                console.log("Write completed: " + element[0]);
             }
         });
 });

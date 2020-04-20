@@ -1,5 +1,5 @@
-const { task, fetchData, writeData } = require("./lib");
-const c = require("./lib/constants");
+const { task, fetchData, writeData } = require("../lib");
+const c = require("../lib/constants");
 
 
 (async function main() {

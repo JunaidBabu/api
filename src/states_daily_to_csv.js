@@ -1,4 +1,4 @@
-const daily = require("./states_daily.json");
+const daily = require("../tmp/states_daily.json");
 const fs = require('fs');
 
 var confirmed_csv = "date,TT,";
@@ -47,7 +47,11 @@ daily.states_daily.forEach(element => {
 // console.log(confirmed_csv);
 // console.log(recovered_csv);
 // console.log(deceased_csv);
+const csv_path = "tmp/states_daily_csv/";
+if (!fs.existsSync(csv_path)) {
+    fs.mkdirSync(csv_path, { recursive: true });
+}
 
-fs.writeFileSync('states_daily_csv/confirmed.csv', confirmed_csv);
-fs.writeFileSync('states_daily_csv/recovered.csv', recovered_csv);
-fs.writeFileSync('states_daily_csv/deceased.csv', deceased_csv);
+fs.writeFileSync(csv_path+'confirmed.csv', confirmed_csv);
+fs.writeFileSync(csv_path+'recovered.csv', recovered_csv);
+fs.writeFileSync(csv_path+'deceased.csv', deceased_csv);
