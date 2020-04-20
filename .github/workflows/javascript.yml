@@ -3,7 +3,7 @@ name: Sheet to Json Workflow
 on:
   schedule:
     # every 10 minutes the job will run
-    - cron:  '*/10 * * * *'
+    - cron: "*/10 * * * *"
   push:
     branches:
       - master
@@ -14,24 +14,37 @@ jobs:
     timeout-minutes: 9
 
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
+      - name: Cache node modules
+        uses: actions/cache@v1
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/.npm # npm cache files are stored in `~/.npm` on Linux/macOS
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+
+      - name: Install Dependencies
+        run: npm install
+
       - name: push
         run: |
-           bash ./pushthejson
-           echo "the job completed"
+          bash ./pushthejson
+          echo "the job completed"
         env:
-            GITHUB_TOKEN: ${{ secrets.github_token }}
-            BOT_TOKEN: ${{ secrets.bot_token }}
-            SHEET_ID: ${{ secrets.SHEET_ID }}
-            RESOURCES_SHEET_ID: ${{ secrets.RESOURCES_SHEET_ID }}
-            STUCK_BOT: ${{ secrets.STUCK_BOT }} 
+          GITHUB_TOKEN: ${{ secrets.github_token }}
+          BOT_TOKEN: ${{ secrets.bot_token }}
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          RESOURCES_SHEET_ID: ${{ secrets.RESOURCES_SHEET_ID }}
+          STUCK_BOT: ${{ secrets.STUCK_BOT }}
       - name: show job status
         if: always()
-        run: node lib/notify_tg.js $STUCK_BOT $status 
-        env: 
+        run: node lib/notify_tg.js $STUCK_BOT $status
+        env:
           status: ${{job.status}}
-          STUCK_BOT: ${{ secrets.STUCK_BOT }} 
-
-
+          STUCK_BOT: ${{ secrets.STUCK_BOT }}
 #trigger the action
 #trigger the action by remove this line
