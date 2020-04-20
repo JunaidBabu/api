@@ -44,7 +44,9 @@ jobs:
           STUCK_BOT: ${{ secrets.STUCK_BOT }}
       - name: show job status
         if: always()
-        run: node lib/notify_tg.js $STUCK_BOT $status
+        run: |
+          git checkout master
+          node lib/notify_tg.js $STUCK_BOT $status
         env:
           status: ${{job.status}}
           STUCK_BOT: ${{ secrets.STUCK_BOT }}
