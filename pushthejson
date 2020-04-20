@@ -28,7 +28,7 @@ cp ./data.json ./tmp/data_prev.json
 
 git checkout "$main_branch"
 
-node src/sheets-to-csv.js
+# node src/sheets-to-csv.js
 node src/sheet-to-json_generic.js
 node src/raw_data-to-state_district_wise_data.js
 node src/generate_activity_log.js ${BOT_TOKEN}
