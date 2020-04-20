@@ -32,9 +32,8 @@ node src/raw_data-to-state_district_wise_data.js
 node src/generate_activity_log.js ${BOT_TOKEN}
 node src/states_daily_to_csv.js
 
-
-
-rm ./data_prev.json
+cp -r tmp/* .
+rm -r tmp/
 
 git checkout "$gh_pages_branch"
 
