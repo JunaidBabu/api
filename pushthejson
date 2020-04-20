@@ -29,14 +29,15 @@ cp -r updatelog/ ./tmp/
 
 git checkout "$main_branch"
 
-# node src/sheets-to-csv.js
+node src/sheets-to-csv.js
 node src/sheet-to-json_generic.js
 node src/raw_data-to-state_district_wise_data.js
-# node src/generate_activity_log.js ${BOT_TOKEN}
+node src/generate_activity_log.js ${BOT_TOKEN}
 node src/states_daily_to_csv.js
 
 git checkout "$gh_pages_branch"
 
+rm tmp/data_prev.json
 cp -r tmp/* .
 rm -r tmp/
 
