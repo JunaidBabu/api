@@ -29,124 +29,124 @@
   "Andhra Pradesh": {
     "districtData": {
       "Anantapur": {
-        "active": 0,
-        "confirmed": 33,
-        "deceased": 0,
-        "recovered": 0,
+        "active": 31,
+        "confirmed": 36,
+        "deceased": 3,
+        "recovered": 2,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 3,
+          "deceased": 3,
+          "recovered": 2
         }
       },
       "Chittoor": {
-        "active": 0,
+        "active": 49,
         "confirmed": 53,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "East Godavari": {
-        "active": 0,
+        "active": 18,
         "confirmed": 26,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       "Guntur": {
-        "active": 0,
-        "confirmed": 148,
-        "deceased": 0,
-        "recovered": 0,
+        "active": 137,
+        "confirmed": 157,
+        "deceased": 6,
+        "recovered": 15,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 9,
+          "deceased": 6,
+          "recovered": 15
         }
       },
       "Krishna": {
-        "active": 0,
-        "confirmed": 80,
-        "deceased": 0,
-        "recovered": 0,
+        "active": 63,
+        "confirmed": 83,
+        "deceased": 6,
+        "recovered": 14,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 3,
+          "deceased": 6,
+          "recovered": 14
         }
       },
       "Kurnool": {
-        "active": 0,
-        "confirmed": 174,
-        "deceased": 0,
-        "recovered": 0,
+        "active": 175,
+        "confirmed": 184,
+        "deceased": 5,
+        "recovered": 4,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 10,
+          "deceased": 5,
+          "recovered": 4
         }
       },
       "Prakasam": {
-        "active": 0,
+        "active": 42,
         "confirmed": 44,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "S.P.S. Nellore": {
-        "active": 0,
+        "active": 64,
         "confirmed": 68,
-        "deceased": 0,
-        "recovered": 0,
+        "deceased": 2,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 2,
+          "recovered": 2
         }
       },
       "Visakhapatnam": {
-        "active": 0,
+        "active": 3,
         "confirmed": 21,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 18,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 18
         }
       },
       "West Godavari": {
-        "active": 0,
-        "confirmed": 35,
+        "active": 30,
+        "confirmed": 39,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 9
         }
       },
       "Y.S.R.": {
-        "active": 0,
-        "confirmed": 40,
+        "active": 27,
+        "confirmed": 46,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 19,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 19
         }
       }
     },
@@ -1739,6 +1739,17 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 7,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
