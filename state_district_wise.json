@@ -1969,7 +1969,7 @@
     "districtData": {
       "Agar Malwa": {
         "active": 0,
-        "confirmed": 4,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -1991,7 +1991,7 @@
       },
       "Barwani": {
         "active": 0,
-        "confirmed": 22,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2013,7 +2013,7 @@
       },
       "Bhopal": {
         "active": 0,
-        "confirmed": 197,
+        "confirmed": 254,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2035,7 +2035,7 @@
       },
       "Dewas": {
         "active": 0,
-        "confirmed": 18,
+        "confirmed": 19,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2046,7 +2046,7 @@
       },
       "Dhar": {
         "active": 0,
-        "confirmed": 10,
+        "confirmed": 36,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2068,7 +2068,7 @@
       },
       "Hoshangabad": {
         "active": 0,
-        "confirmed": 19,
+        "confirmed": 25,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2079,7 +2079,7 @@
       },
       "Indore": {
         "active": 0,
-        "confirmed": 841,
+        "confirmed": 897,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2090,7 +2090,7 @@
       },
       "Jabalpur": {
         "active": 0,
-        "confirmed": 13,
+        "confirmed": 21,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2101,7 +2101,7 @@
       },
       "Khandwa": {
         "active": 0,
-        "confirmed": 33,
+        "confirmed": 32,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2112,7 +2112,7 @@
       },
       "Khargone": {
         "active": 0,
-        "confirmed": 39,
+        "confirmed": 41,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2134,7 +2134,7 @@
       },
       "Morena": {
         "active": 0,
-        "confirmed": 14,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2145,7 +2145,7 @@
       },
       "Raisen": {
         "active": 0,
-        "confirmed": 8,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2156,7 +2156,7 @@
       },
       "Ratlam": {
         "active": 0,
-        "confirmed": 12,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2189,7 +2189,7 @@
       },
       "Shajapur": {
         "active": 0,
-        "confirmed": 5,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2233,7 +2233,7 @@
       },
       "Ujjain": {
         "active": 0,
-        "confirmed": 31,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2266,7 +2266,7 @@
       },
       "Unknown": {
         "active": 0,
-        "confirmed": 175,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
