@@ -22,17 +22,6 @@
           "deceased": 0,
           "recovered": 0
         }
-      },
-      "Unknown": {
-        "active": 0,
-        "confirmed": 16,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
       }
     },
     "statecode": "AN"
@@ -640,6 +629,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 2037,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "DL"
@@ -649,6 +649,17 @@
       "North Goa": {
         "active": 0,
         "confirmed": 4,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -933,6 +944,17 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 127,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 127,
           "deceased": 0,
           "recovered": 0
         }
@@ -1221,6 +1243,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 3,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "HP"
@@ -1399,7 +1432,18 @@
     "districtData": {
       "Bokaro": {
         "active": 0,
-        "confirmed": 10,
+        "confirmed": 11,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Deoghar": {
+        "active": 0,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -1432,7 +1476,7 @@
       },
       "Hazaribagh": {
         "active": 0,
-        "confirmed": 2,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -1454,7 +1498,7 @@
       },
       "Ranchi": {
         "active": 0,
-        "confirmed": 24,
+        "confirmed": 25,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -1470,6 +1514,17 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2175,6 +2230,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 175,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "MP"
@@ -2532,6 +2598,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 810,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "MH"
@@ -2572,6 +2649,17 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 5,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2699,6 +2787,17 @@
       "Sundargarh": {
         "active": 0,
         "confirmed": 3,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2940,6 +3039,17 @@
       "Sri Muktsar Sahib": {
         "active": 0,
         "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -3253,6 +3363,17 @@
       "Evacuees*": {
         "active": 0,
         "confirmed": 61,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 52,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -3963,6 +4084,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 22,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "TG"
@@ -4567,6 +4699,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "UP"
@@ -4728,6 +4871,17 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 365,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 53,
           "deceased": 0,
           "recovered": 0
         }
