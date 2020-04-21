@@ -13,6 +13,14 @@ const c = require("../lib/constants");
   });
 
   await task({
+    sheet: c.SHEET_2,
+    tabs: {
+      districts: c.SHEET_DISTRICT_WISE
+    },
+    file: c.FILE_DISTRICTS
+  });
+
+  await task({
     sheet: c.SHEET,
     tabs: {
       travel_history: c.SHEET_TRAVEL_HISTORY
@@ -29,15 +37,17 @@ const c = require("../lib/constants");
   });
 
   // need to remove objects with empty states or empty totaltested
-  var data = await fetchData({sheet:c.SHEET, tabs:{
-    states_tested_data: c.SHEET_StateWise_Tested_Numbers_Data
-  }});
-  data.states_tested_data.forEach(function(item, index, object)  {
-    if(!item.totaltested || !item.state){
-      object.splice(index,1);
+  var data = await fetchData({
+    sheet: c.SHEET, tabs: {
+      states_tested_data: c.SHEET_StateWise_Tested_Numbers_Data
     }
   });
-  await writeData({file:c.FILE_STATEWISE_TESTED_DATA, data});
+  data.states_tested_data.forEach(function (item, index, object) {
+    if (!item.totaltested || !item.state) {
+      object.splice(index, 1);
+    }
+  });
+  await writeData({ file: c.FILE_STATEWISE_TESTED_DATA, data });
 
   await task({
     sheet: c.SHEET,
@@ -57,19 +67,19 @@ const c = require("../lib/constants");
 
   await task({
     sheet: c.SHEET,
-    tabs: { deaths_recoveries: c.SHEET_DEATHS_AND_RECOVERIES},
+    tabs: { deaths_recoveries: c.SHEET_DEATHS_AND_RECOVERIES },
     file: c.FILE_DEATHS_RECOVERIES
   });
 
   await task({
     sheet: c.SHEET,
-    tabs: { sources_list: c.SHEET_SOURCES_LIST},
+    tabs: { sources_list: c.SHEET_SOURCES_LIST },
     file: c.FILE_SOURCES_LIST
   });
 
   await task({
     sheet: c.SHEET_RESOURCES,
-    tabs: { resources: c.SHEET_RESOURCES_SHEET},
+    tabs: { resources: c.SHEET_RESOURCES_SHEET },
     file: c.FILE_RESOURCES_ESSENTIALS
   });
 
