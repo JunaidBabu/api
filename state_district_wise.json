@@ -1024,6 +1024,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 135,
+        "confirmed": 135,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 135,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "GJ"
@@ -1848,12 +1859,12 @@
         }
       },
       "Kannur": {
-        "active": 54,
-        "confirmed": 102,
+        "active": 61,
+        "confirmed": 109,
         "deceased": 0,
         "recovered": 48,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -1893,22 +1904,22 @@
       },
       "Kozhikode": {
         "active": 9,
-        "confirmed": 20,
+        "confirmed": 22,
         "deceased": 0,
-        "recovered": 11,
+        "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Malappuram": {
-        "active": 7,
-        "confirmed": 21,
+        "active": 8,
+        "confirmed": 22,
         "deceased": 0,
         "recovered": 14,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1969,12 +1980,12 @@
         }
       },
       "Unknown": {
-        "active": 11,
-        "confirmed": 11,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 11,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2683,6 +2694,17 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 431,
+        "confirmed": 431,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 431,
           "deceased": 0,
           "recovered": 0
         }
@@ -4130,12 +4152,12 @@
         }
       },
       "Unknown": {
-        "active": 78,
-        "confirmed": 78,
+        "active": 93,
+        "confirmed": 93,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 15,
           "deceased": 0,
           "recovered": 0
         }
