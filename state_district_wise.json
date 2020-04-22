@@ -4173,12 +4173,12 @@
   "Uttar Pradesh": {
     "districtData": {
       "Agra": {
-        "active": 282,
-        "confirmed": 306,
+        "active": 300,
+        "confirmed": 324,
         "deceased": 6,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 18,
           "deceased": 0,
           "recovered": 0
         }
@@ -4360,23 +4360,23 @@
         }
       },
       "Gautam Buddha Nagar": {
-        "active": 59,
-        "confirmed": 102,
+        "active": 60,
+        "confirmed": 103,
         "deceased": 0,
         "recovered": 43,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Ghaziabad": {
-        "active": 33,
-        "confirmed": 46,
+        "active": 35,
+        "confirmed": 48,
         "deceased": 0,
         "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -4459,12 +4459,12 @@
         }
       },
       "Kanpur Nagar": {
-        "active": 73,
-        "confirmed": 75,
+        "active": 79,
+        "confirmed": 81,
         "deceased": 1,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -4503,12 +4503,12 @@
         }
       },
       "Lucknow": {
-        "active": 159,
-        "confirmed": 169,
+        "active": 160,
+        "confirmed": 170,
         "deceased": 1,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4580,12 +4580,12 @@
         }
       },
       "Moradabad": {
-        "active": 67,
-        "confirmed": 73,
+        "active": 88,
+        "confirmed": 94,
         "deceased": 5,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 21,
           "deceased": 0,
           "recovered": 0
         }
@@ -4745,23 +4745,23 @@
         }
       },
       "Varanasi": {
-        "active": 9,
-        "confirmed": 16,
+        "active": 12,
+        "confirmed": 19,
         "deceased": 1,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Unknown": {
-        "active": 113,
-        "confirmed": 113,
+        "active": 61,
+        "confirmed": 61,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 112,
+          "confirmed": 60,
           "deceased": 0,
           "recovered": 0
         }
