@@ -1623,12 +1623,12 @@
         }
       },
       "Bengaluru": {
-        "active": 100,
-        "confirmed": 100,
+        "active": 102,
+        "confirmed": 102,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1711,12 +1711,12 @@
         }
       },
       "Kalaburagi": {
-        "active": 30,
-        "confirmed": 30,
+        "active": 35,
+        "confirmed": 35,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -2818,14 +2818,14 @@
         }
       },
       "Khordha": {
-        "active": 27,
+        "active": 25,
         "confirmed": 46,
         "deceased": 1,
-        "recovered": 18,
+        "recovered": 20,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Puri": {
@@ -3273,14 +3273,14 @@
         }
       },
       "Jodhpur": {
-        "active": 251,
+        "active": 236,
         "confirmed": 279,
         "deceased": 2,
-        "recovered": 26,
+        "recovered": 41,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 15
         }
       },
       "Karauli": {
