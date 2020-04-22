@@ -13738,10 +13738,10 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "0",
+			"active": "4",
 			"activeyesterday": "0",
-			"confirmed": "",
-			"confirmedyesterday": "",
+			"confirmed": "4",
+			"confirmedyesterday": "4",
 			"deceased": "",
 			"deceasedyesterday": "",
 			"deltaactive": "0",
@@ -13757,10 +13757,10 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "1",
+			"active": "12",
 			"activeyesterday": "1",
-			"confirmed": "1",
-			"confirmedyesterday": "1",
+			"confirmed": "12",
+			"confirmedyesterday": "12",
 			"deceased": "",
 			"deceasedyesterday": "",
 			"deltaactive": "0",
@@ -13776,10 +13776,10 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "1",
+			"active": "79",
 			"activeyesterday": "1",
-			"confirmed": "1",
-			"confirmedyesterday": "1",
+			"confirmed": "79",
+			"confirmedyesterday": "79",
 			"deceased": "",
 			"deceasedyesterday": "",
 			"deltaactive": "0",
@@ -13795,10 +13795,10 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "0",
+			"active": "5",
 			"activeyesterday": "0",
-			"confirmed": "",
-			"confirmedyesterday": "",
+			"confirmed": "5",
+			"confirmedyesterday": "5",
 			"deceased": "",
 			"deceasedyesterday": "",
 			"deltaactive": "0",
@@ -13833,10 +13833,10 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "1",
+			"active": "7",
 			"activeyesterday": "1",
-			"confirmed": "1",
-			"confirmedyesterday": "1",
+			"confirmed": "7",
+			"confirmedyesterday": "7",
 			"deceased": "",
 			"deceasedyesterday": "",
 			"deltaactive": "0",
@@ -13852,10 +13852,10 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "11",
+			"active": "184",
 			"activeyesterday": "11",
-			"confirmed": "11",
-			"confirmedyesterday": "11",
+			"confirmed": "184",
+			"confirmedyesterday": "184",
 			"deceased": "",
 			"deceasedyesterday": "",
 			"deltaactive": "0",
@@ -13890,10 +13890,10 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "3",
+			"active": "22",
 			"activeyesterday": "3",
-			"confirmed": "3",
-			"confirmedyesterday": "3",
+			"confirmed": "22",
+			"confirmedyesterday": "22",
 			"deceased": "",
 			"deceasedyesterday": "",
 			"deltaactive": "0",
@@ -13928,10 +13928,10 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "0",
+			"active": "2",
 			"activeyesterday": "0",
-			"confirmed": "",
-			"confirmedyesterday": "",
+			"confirmed": "2",
+			"confirmedyesterday": "2",
 			"deceased": "",
 			"deceasedyesterday": "",
 			"deltaactive": "0",
@@ -13947,10 +13947,10 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "5",
+			"active": "6",
 			"activeyesterday": "5",
-			"confirmed": "5",
-			"confirmedyesterday": "5",
+			"confirmed": "6",
+			"confirmedyesterday": "6",
 			"deceased": "",
 			"deceasedyesterday": "",
 			"deltaactive": "0",
@@ -13966,10 +13966,10 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "4",
+			"active": "47",
 			"activeyesterday": "4",
-			"confirmed": "4",
-			"confirmedyesterday": "4",
+			"confirmed": "47",
+			"confirmedyesterday": "47",
 			"deceased": "",
 			"deceasedyesterday": "",
 			"deltaactive": "0",
@@ -13985,10 +13985,10 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "0",
+			"active": "7",
 			"activeyesterday": "0",
-			"confirmed": "",
-			"confirmedyesterday": "",
+			"confirmed": "7",
+			"confirmedyesterday": "7",
 			"deceased": "",
 			"deceasedyesterday": "",
 			"deltaactive": "0",
@@ -14004,10 +14004,10 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "0",
+			"active": "1",
 			"activeyesterday": "0",
-			"confirmed": "",
-			"confirmedyesterday": "",
+			"confirmed": "1",
+			"confirmedyesterday": "1",
 			"deceased": "",
 			"deceasedyesterday": "",
 			"deltaactive": "0",
@@ -14042,10 +14042,10 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "1",
+			"active": "12",
 			"activeyesterday": "1",
-			"confirmed": "1",
-			"confirmedyesterday": "1",
+			"confirmed": "12",
+			"confirmedyesterday": "12",
 			"deceased": "",
 			"deceasedyesterday": "",
 			"deltaactive": "0",
@@ -14764,14 +14764,14 @@
 			"statecode": "UT"
 		},
 		{
-			"active": "396",
+			"active": "35",
 			"activeyesterday": "365",
-			"confirmed": "396",
+			"confirmed": "35",
 			"confirmedyesterday": "365",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "31",
-			"deltaconfirmed": "31",
+			"deltaactive": "-330",
+			"deltaconfirmed": "-330",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",
