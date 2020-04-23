@@ -473,12 +473,12 @@
         }
       },
       "Patna": {
-        "active": 11,
-        "confirmed": 16,
+        "active": 19,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
