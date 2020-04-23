@@ -597,101 +597,134 @@
   },
   "Delhi": {
     "districtData": {
-      "East Delhi": {
-        "active": 1,
-        "confirmed": 1,
+      "Central Delhi": {
+        "active": 184,
+        "confirmed": 184,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 184,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "East Delhi": {
+        "active": 38,
+        "confirmed": 38,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 37,
           "deceased": 0,
           "recovered": 0
         }
       },
       "New Delhi": {
-        "active": 5,
-        "confirmed": 5,
+        "active": 37,
+        "confirmed": 37,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 32,
           "deceased": 0,
           "recovered": 0
         }
       },
       "North Delhi": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 60,
+        "confirmed": 60,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 57,
           "deceased": 0,
           "recovered": 0
         }
       },
       "North East Delhi": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 25,
+        "confirmed": 25,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 24,
           "deceased": 0,
           "recovered": 0
         }
       },
       "North West Delhi": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 32,
+        "confirmed": 32,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 29,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Shahdara": {
+        "active": 48,
+        "confirmed": 48,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 48,
           "deceased": 0,
           "recovered": 0
         }
       },
       "South Delhi": {
-        "active": 26,
-        "confirmed": 26,
+        "active": 70,
+        "confirmed": 70,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 44,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "South East Delhi": {
+        "active": 130,
+        "confirmed": 130,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 130,
           "deceased": 0,
           "recovered": 0
         }
       },
       "South West Delhi": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 42,
+        "confirmed": 42,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 39,
           "deceased": 0,
           "recovered": 0
         }
       },
       "West Delhi": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 122,
+        "confirmed": 122,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 120,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Unknown": {
-        "active": 2204,
-        "confirmed": 2204,
+        "active": 1460,
+        "confirmed": 1460,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -744,
           "deceased": 0,
           "recovered": 0
         }
