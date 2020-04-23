@@ -4437,12 +4437,12 @@
         }
       },
       "Bijnor": {
-        "active": 26,
-        "confirmed": 26,
+        "active": 29,
+        "confirmed": 29,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -4481,12 +4481,12 @@
         }
       },
       "Etawah": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4905,17 +4905,6 @@
         "recovered": 6,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": 2,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
