@@ -39,14 +39,14 @@
 			"statecode": "AN"
 		},
 		{
-			"active": "6",
+			"active": "10",
 			"activeyesterday": "6",
-			"confirmed": "16",
+			"confirmed": "20",
 			"confirmedyesterday": "16",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "4",
+			"deltaconfirmed": "4",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "South Andaman",
