@@ -603,7 +603,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 184,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -614,7 +614,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 37,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -625,7 +625,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 32,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -636,7 +636,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 57,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -647,7 +647,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 24,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -658,7 +658,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 29,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -669,7 +669,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 48,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -680,7 +680,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 44,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -691,7 +691,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 130,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -702,7 +702,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 39,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -713,7 +713,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 120,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -724,7 +724,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": -744,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
