@@ -1545,6 +1545,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 20,
+        "confirmed": 20,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 20,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "JK"
@@ -1618,12 +1629,12 @@
         }
       },
       "Ranchi": {
-        "active": 25,
-        "confirmed": 25,
+        "active": 29,
+        "confirmed": 29,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1856,6 +1867,17 @@
       "Vijayapura": {
         "active": 37,
         "confirmed": 37,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
