@@ -14099,14 +14099,14 @@
 			"statecode": "AN"
 		},
 		{
-			"active": "0",
+			"active": "80",
 			"activeyesterday": "0",
-			"confirmed": "0",
+			"confirmed": "80",
 			"confirmedyesterday": "0",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "80",
+			"deltaconfirmed": "80",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",
