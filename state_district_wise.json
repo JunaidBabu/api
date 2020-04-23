@@ -1863,6 +1863,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 16,
+        "confirmed": 16,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 16,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "KA"

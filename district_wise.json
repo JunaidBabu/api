@@ -14384,14 +14384,14 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "0",
+			"active": "16",
 			"activeyesterday": "0",
-			"confirmed": "0",
+			"confirmed": "16",
 			"confirmedyesterday": "0",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "16",
+			"deltaconfirmed": "16",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",
