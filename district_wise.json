@@ -8893,14 +8893,14 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "7",
+			"active": "11",
 			"activeyesterday": "7",
-			"confirmed": "8",
+			"confirmed": "12",
 			"confirmedyesterday": "8",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "4",
+			"deltaconfirmed": "4",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Jajapur",
