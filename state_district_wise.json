@@ -2122,14 +2122,14 @@
         }
       },
       "Bhopal": {
-        "active": 261,
-        "confirmed": 303,
+        "active": 243,
+        "confirmed": 323,
         "deceased": 7,
-        "recovered": 35,
+        "recovered": 73,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 20,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 38
         }
       },
       "Burhanpur": {
@@ -2155,12 +2155,12 @@
         }
       },
       "Dewas": {
-        "active": 14,
-        "confirmed": 20,
+        "active": 15,
+        "confirmed": 21,
         "deceased": 6,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2188,69 +2188,69 @@
         }
       },
       "Gwalior": {
-        "active": 1,
-        "confirmed": 3,
+        "active": 2,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Hoshangabad": {
-        "active": 24,
-        "confirmed": 25,
+        "active": 25,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Indore": {
-        "active": 797,
-        "confirmed": 923,
-        "deceased": 52,
-        "recovered": 74,
+        "active": 810,
+        "confirmed": 945,
+        "deceased": 53,
+        "recovered": 82,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 22,
+          "deceased": 1,
+          "recovered": 8
         }
       },
       "Jabalpur": {
-        "active": 19,
-        "confirmed": 26,
+        "active": 23,
+        "confirmed": 30,
         "deceased": 1,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Khandwa": {
-        "active": 24,
-        "confirmed": 32,
+        "active": 27,
+        "confirmed": 35,
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Khargone": {
-        "active": 35,
-        "confirmed": 41,
-        "deceased": 3,
-        "recovered": 3,
+        "active": 39,
+        "confirmed": 51,
+        "deceased": 5,
+        "recovered": 7,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 10,
+          "deceased": 2,
+          "recovered": 4
         }
       },
       "Mandsaur": {
@@ -2309,12 +2309,12 @@
         }
       },
       "Sagar": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -2364,25 +2364,25 @@
         }
       },
       "Ujjain": {
-        "active": 29,
-        "confirmed": 41,
+        "active": 64,
+        "confirmed": 76,
         "deceased": 7,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 35,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Vidisha": {
-        "active": 13,
+        "active": 12,
         "confirmed": 13,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Other Region*": {
@@ -2840,12 +2840,12 @@
   "Odisha": {
     "districtData": {
       "Baleshwar": {
-        "active": 8,
-        "confirmed": 8,
+        "active": 10,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3186,6 +3186,17 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 5,
+        "confirmed": 5,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
