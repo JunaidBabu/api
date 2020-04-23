@@ -484,12 +484,12 @@
         }
       },
       "Rohtas": {
-        "active": 5,
-        "confirmed": 5,
+        "active": 7,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -938,12 +938,12 @@
         }
       },
       "Mahisagar": {
-        "active": 12,
-        "confirmed": 12,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1070,12 +1070,12 @@
         }
       },
       "Vadodara": {
-        "active": 151,
-        "confirmed": 215,
+        "active": 154,
+        "confirmed": 218,
         "deceased": 11,
         "recovered": 53,
         "delta": {
-          "confirmed": 7,
+          "confirmed": 10,
           "deceased": 1,
           "recovered": 45
         }
