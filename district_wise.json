@@ -14707,14 +14707,14 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "-204",
+			"active": "-191",
 			"activeyesterday": "-204",
-			"confirmed": "73",
+			"confirmed": "86",
 			"confirmedyesterday": "73",
 			"deceased": "25",
 			"deceasedyesterday": "25",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "13",
+			"deltaconfirmed": "13",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",
