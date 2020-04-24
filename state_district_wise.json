@@ -1305,7 +1305,7 @@
           "recovered": 0
         }
       },
-      "Italians*": {
+      "Italians": {
         "active": 0,
         "confirmed": 14,
         "deceased": 0,
@@ -1591,14 +1591,14 @@
         }
       },
       "Unknown": {
-        "active": 7,
-        "confirmed": 7,
+        "active": 11,
+        "confirmed": 27,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 16,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 20,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 16
         }
       }
     },
@@ -2095,10 +2095,10 @@
   "Ladakh": {
     "districtData": {
       "Kargil": {
-        "active": 1,
+        "active": 0,
         "confirmed": 4,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2106,10 +2106,10 @@
         }
       },
       "Leh": {
-        "active": 3,
+        "active": 2,
         "confirmed": 14,
         "deceased": 0,
-        "recovered": 11,
+        "recovered": 12,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2396,7 +2396,7 @@
           "recovered": 0
         }
       },
-      "Other Region*": {
+      "Other Region": {
         "active": 3,
         "confirmed": 3,
         "deceased": 0,
@@ -2764,7 +2764,7 @@
           "recovered": 0
         }
       },
-      "Other States*": {
+      "Other States": {
         "active": 19,
         "confirmed": 21,
         "deceased": 2,
@@ -3492,7 +3492,7 @@
           "recovered": 0
         }
       },
-      "Italians*": {
+      "Italians": {
         "active": 0,
         "confirmed": 2,
         "deceased": 0,
@@ -3503,7 +3503,7 @@
           "recovered": 0
         }
       },
-      "Evacuees*": {
+      "Evacuees": {
         "active": 36,
         "confirmed": 61,
         "deceased": 0,
