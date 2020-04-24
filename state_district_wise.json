@@ -752,14 +752,14 @@
         }
       },
       "Unknown": {
-        "active": 730,
-        "confirmed": 1588,
-        "deceased": 50,
-        "recovered": 808,
+        "active": 816,
+        "confirmed": 1726,
+        "deceased": 53,
+        "recovered": 857,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 138,
+          "deceased": 3,
+          "recovered": 49
         }
       }
     },
@@ -3548,12 +3548,12 @@
         }
       },
       "Unknown": {
-        "active": 6,
-        "confirmed": 8,
+        "active": 32,
+        "confirmed": 34,
         "deceased": 2,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 26,
           "deceased": 0,
           "recovered": 0
         }
