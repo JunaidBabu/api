@@ -2796,6 +2796,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 204,
+        "confirmed": 390,
+        "deceased": 18,
+        "recovered": 168,
+        "delta": {
+          "confirmed": 390,
+          "deceased": 18,
+          "recovered": 117
+        }
       }
     },
     "statecode": "MH"
@@ -4919,23 +4930,23 @@
           "deceased": 0,
           "recovered": 9
         }
-      },
-      "Unknown": {
-        "active": -24,
-        "confirmed": 1,
-        "deceased": 1,
-        "recovered": 24,
-        "delta": {
-          "confirmed": 1,
-          "deceased": 1,
-          "recovered": 4
-        }
       }
     },
     "statecode": "UP"
   },
   "Uttarakhand": {
     "districtData": {
+      "Ayodhya": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Almora": {
         "active": 1,
         "confirmed": 1,
@@ -5001,31 +5012,9 @@
           "deceased": 0,
           "recovered": 0
         }
-      },
-      "Ayodhya": {
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 1,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": -26,
-        "confirmed": -1,
-        "deceased": 0,
-        "recovered": 25,
-        "delta": {
-          "confirmed": -1,
-          "deceased": 0,
-          "recovered": 1
-        }
       }
     },
-    "statecode": "UT"
+    "statecode": "UP"
   },
   "West Bengal": {
     "districtData": {
