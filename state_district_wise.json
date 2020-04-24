@@ -3004,12 +3004,12 @@
   "Punjab": {
     "districtData": {
       "Amritsar": {
-        "active": 10,
-        "confirmed": 13,
+        "active": 11,
+        "confirmed": 14,
         "deceased": 2,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3070,25 +3070,25 @@
         }
       },
       "Hoshiarpur": {
-        "active": 2,
+        "active": 1,
         "confirmed": 7,
         "deceased": 1,
-        "recovered": 4,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Jalandhar": {
-        "active": 51,
-        "confirmed": 59,
+        "active": 54,
+        "confirmed": 63,
         "deceased": 2,
-        "recovered": 6,
+        "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Kapurthala": {
@@ -3103,23 +3103,23 @@
         }
       },
       "Ludhiana": {
-        "active": 9,
-        "confirmed": 16,
+        "active": 10,
+        "confirmed": 17,
         "deceased": 4,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Mansa": {
-        "active": 10,
-        "confirmed": 11,
+        "active": 12,
+        "confirmed": 13,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3147,12 +3147,12 @@
         }
       },
       "Patiala": {
-        "active": 48,
-        "confirmed": 49,
+        "active": 54,
+        "confirmed": 55,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -3169,25 +3169,25 @@
         }
       },
       "S.A.S. Nagar": {
-        "active": 46,
-        "confirmed": 62,
+        "active": 47,
+        "confirmed": 63,
         "deceased": 2,
         "recovered": 14,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Sangrur": {
-        "active": 3,
+        "active": 2,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Shahid Bhagat Singh Nagar": {
@@ -3208,17 +3208,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": 1,
-        "confirmed": 15,
-        "deceased": 1,
-        "recovered": 13,
-        "delta": {
-          "confirmed": 15,
           "deceased": 0,
           "recovered": 0
         }
@@ -3946,6 +3935,17 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": -475,
+        "confirmed": 72,
+        "deceased": 22,
+        "recovered": 525,
+        "delta": {
+          "confirmed": 72,
+          "deceased": 2,
+          "recovered": 114
         }
       }
     },
