@@ -1931,12 +1931,12 @@
         }
       },
       "Unknown": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 20,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 18,
           "deceased": 0,
           "recovered": 0
         }
