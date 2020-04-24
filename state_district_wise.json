@@ -13,12 +13,12 @@
         }
       },
       "South Andaman": {
-        "active": 10,
-        "confirmed": 20,
+        "active": 11,
+        "confirmed": 21,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1415,10 +1415,10 @@
         }
       },
       "Badgam": {
-        "active": 14,
+        "active": 5,
         "confirmed": 14,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 9,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1426,8 +1426,30 @@
         }
       },
       "Bandipore": {
-        "active": 97,
+        "active": 80,
         "confirmed": 99,
+        "deceased": 1,
+        "recovered": 18,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Baramula": {
+        "active": 44,
+        "confirmed": 50,
+        "deceased": 2,
+        "recovered": 4,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Ganderbal": {
+        "active": 12,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -1436,33 +1458,11 @@
           "recovered": 0
         }
       },
-      "Baramula": {
-        "active": 50,
-        "confirmed": 50,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Ganderbal": {
-        "active": 14,
-        "confirmed": 14,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
       "Jammu": {
-        "active": 26,
+        "active": 21,
         "confirmed": 26,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1481,10 +1481,10 @@
         }
       },
       "Kishtwar": {
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1503,10 +1503,10 @@
         }
       },
       "Kupwara": {
-        "active": 41,
+        "active": 35,
         "confirmed": 41,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1514,10 +1514,10 @@
         }
       },
       "Pulwama": {
-        "active": 1,
+        "active": 0,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1525,10 +1525,10 @@
         }
       },
       "Rajouri": {
-        "active": 4,
+        "active": 1,
         "confirmed": 4,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1558,10 +1558,10 @@
         }
       },
       "Shupiyan": {
-        "active": 51,
+        "active": 49,
         "confirmed": 55,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1569,10 +1569,10 @@
         }
       },
       "Srinagar": {
-        "active": 76,
+        "active": 51,
         "confirmed": 79,
-        "deceased": 0,
-        "recovered": 3,
+        "deceased": 1,
+        "recovered": 27,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1580,10 +1580,10 @@
         }
       },
       "Udhampur": {
-        "active": 20,
+        "active": 11,
         "confirmed": 20,
-        "deceased": 0,
-        "recovered": 0,
+        "deceased": 1,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1744,23 +1744,23 @@
         }
       },
       "Bengaluru": {
-        "active": 69,
-        "confirmed": 122,
+        "active": 59,
+        "confirmed": 112,
         "deceased": 4,
         "recovered": 49,
         "delta": {
-          "confirmed": 11,
+          "confirmed": 1,
           "deceased": 4,
           "recovered": 49
         }
       },
       "Bengaluru Rural": {
-        "active": 1,
-        "confirmed": 5,
+        "active": 8,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 4
         }
@@ -1777,34 +1777,45 @@
         }
       },
       "Chikkaballapura": {
-        "active": 2,
-        "confirmed": 14,
+        "active": 5,
+        "confirmed": 17,
         "deceased": 2,
         "recovered": 10,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 4,
           "deceased": 2,
           "recovered": 10
         }
       },
+      "Chitradurga": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Dakshina Kannada": {
-        "active": 5,
-        "confirmed": 17,
+        "active": 4,
+        "confirmed": 16,
         "deceased": 1,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "deceased": 1,
           "recovered": 11
         }
       },
       "Davanagere": {
-        "active": 1,
-        "confirmed": 3,
+        "active": 0,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 2
         }
@@ -1832,12 +1843,12 @@
         }
       },
       "Kalaburagi": {
-        "active": 28,
-        "confirmed": 35,
+        "active": 29,
+        "confirmed": 36,
         "deceased": 4,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 4,
           "recovered": 3
         }
@@ -1876,12 +1887,12 @@
         }
       },
       "Tumakuru": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1898,12 +1909,12 @@
         }
       },
       "Uttara Kannada": {
-        "active": 1,
-        "confirmed": 10,
+        "active": 2,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 9
         }
@@ -1916,17 +1927,6 @@
         "delta": {
           "confirmed": 1,
           "deceased": 2,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": 2,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
           "recovered": 0
         }
       }
