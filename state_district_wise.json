@@ -40,14 +40,14 @@
   "Andhra Pradesh": {
     "districtData": {
       "Anantapur": {
-        "active": 32,
-        "confirmed": 42,
-        "deceased": 3,
-        "recovered": 7,
+        "active": 31,
+        "confirmed": 46,
+        "deceased": 4,
+        "recovered": 11,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 4,
+          "deceased": 1,
+          "recovered": 4
         }
       },
       "Chittoor": {
@@ -62,67 +62,67 @@
         }
       },
       "East Godavari": {
-        "active": 24,
-        "confirmed": 32,
+        "active": 26,
+        "confirmed": 34,
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Guntur": {
-        "active": 164,
-        "confirmed": 195,
+        "active": 175,
+        "confirmed": 206,
         "deceased": 8,
         "recovered": 23,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Krishna": {
-        "active": 56,
-        "confirmed": 88,
+        "active": 70,
+        "confirmed": 102,
         "deceased": 7,
         "recovered": 25,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Kurnool": {
-        "active": 223,
-        "confirmed": 234,
-        "deceased": 7,
+        "active": 249,
+        "confirmed": 261,
+        "deceased": 8,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 27,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Prakasam": {
-        "active": 49,
-        "confirmed": 50,
+        "active": 52,
+        "confirmed": 53,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
       },
       "S.P.S. Nellore": {
-        "active": 59,
-        "confirmed": 67,
+        "active": 60,
+        "confirmed": 68,
         "deceased": 2,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1722,12 +1722,12 @@
   "Karnataka": {
     "districtData": {
       "Bagalkote": {
-        "active": 21,
-        "confirmed": 21,
+        "active": 23,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1744,23 +1744,23 @@
         }
       },
       "Belagavi": {
-        "active": 43,
-        "confirmed": 43,
+        "active": 45,
+        "confirmed": 45,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Bengaluru": {
-        "active": 111,
-        "confirmed": 111,
+        "active": 122,
+        "confirmed": 122,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
@@ -1788,12 +1788,12 @@
         }
       },
       "Chikkaballapura": {
-        "active": 13,
-        "confirmed": 13,
+        "active": 14,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1887,12 +1887,12 @@
         }
       },
       "Tumakuru": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1920,23 +1920,23 @@
         }
       },
       "Vijayapura": {
-        "active": 37,
-        "confirmed": 37,
+        "active": 38,
+        "confirmed": 38,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Unknown": {
-        "active": 20,
-        "confirmed": 20,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 18,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
