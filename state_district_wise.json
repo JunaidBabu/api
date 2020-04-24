@@ -4251,14 +4251,14 @@
         }
       },
       "Unknown": {
-        "active": -191,
+        "active": -230,
         "confirmed": 86,
         "deceased": 25,
-        "recovered": 252,
+        "recovered": 291,
         "delta": {
           "confirmed": 13,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 39
         }
       }
     },
