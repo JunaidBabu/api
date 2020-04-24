@@ -2873,12 +2873,12 @@
         }
       },
       "Bhadrak": {
-        "active": 9,
-        "confirmed": 11,
+        "active": 10,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3229,10 +3229,10 @@
         }
       },
       "Alwar": {
-        "active": 3,
+        "active": 2,
         "confirmed": 7,
         "deceased": 1,
-        "recovered": 3,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3240,10 +3240,10 @@
         }
       },
       "Banswara": {
-        "active": 56,
+        "active": 45,
         "confirmed": 61,
         "deceased": 0,
-        "recovered": 5,
+        "recovered": 16,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3262,12 +3262,12 @@
         }
       },
       "Bharatpur": {
-        "active": 104,
-        "confirmed": 106,
+        "active": 101,
+        "confirmed": 107,
         "deceased": 1,
-        "recovered": 1,
+        "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3284,10 +3284,10 @@
         }
       },
       "Bikaner": {
-        "active": 5,
+        "active": 4,
         "confirmed": 37,
         "deceased": 1,
-        "recovered": 31,
+        "recovered": 32,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3306,10 +3306,10 @@
         }
       },
       "Dausa": {
-        "active": 21,
+        "active": 15,
         "confirmed": 21,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3339,10 +3339,10 @@
         }
       },
       "Hanumangarh": {
-        "active": 10,
+        "active": 8,
         "confirmed": 10,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3350,13 +3350,13 @@
         }
       },
       "Jaipur": {
-        "active": 674,
-        "confirmed": 740,
-        "deceased": 14,
-        "recovered": 52,
+        "active": 606,
+        "confirmed": 753,
+        "deceased": 15,
+        "recovered": 132,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 13,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -3372,21 +3372,21 @@
         }
       },
       "Jhalawar": {
-        "active": 8,
-        "confirmed": 20,
+        "active": 10,
+        "confirmed": 24,
         "deceased": 0,
-        "recovered": 12,
+        "recovered": 14,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Jhunjhunu": {
-        "active": 20,
+        "active": 13,
         "confirmed": 41,
         "deceased": 0,
-        "recovered": 21,
+        "recovered": 28,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3405,10 +3405,10 @@
         }
       },
       "Karauli": {
-        "active": 2,
+        "active": 1,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3416,21 +3416,21 @@
         }
       },
       "Kota": {
-        "active": 64,
-        "confirmed": 122,
+        "active": 77,
+        "confirmed": 140,
         "deceased": 3,
-        "recovered": 55,
+        "recovered": 60,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 18,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Nagaur": {
-        "active": 92,
+        "active": 89,
         "confirmed": 93,
         "deceased": 1,
-        "recovered": 0,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3438,10 +3438,10 @@
         }
       },
       "Pali": {
-        "active": 1,
+        "active": 0,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3471,21 +3471,21 @@
         }
       },
       "Sikar": {
-        "active": 3,
+        "active": 2,
         "confirmed": 4,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 1,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Tonk": {
-        "active": 99,
+        "active": 95,
         "confirmed": 115,
         "deceased": 1,
-        "recovered": 15,
+        "recovered": 19,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3515,10 +3515,10 @@
         }
       },
       "Evacuees*": {
-        "active": 37,
+        "active": 36,
         "confirmed": 61,
         "deceased": 0,
-        "recovered": 24,
+        "recovered": 25,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
