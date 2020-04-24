@@ -314,10 +314,10 @@
         }
       },
       "Unknown": {
-        "active": 1,
+        "active": -12,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 13,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -526,6 +526,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 13,
+        "confirmed": 15,
+        "deceased": 0,
+        "recovered": 2,
+        "delta": {
+          "confirmed": 15,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "BR"
@@ -730,10 +741,10 @@
         }
       },
       "Unknown": {
-        "active": 1588,
+        "active": 730,
         "confirmed": 1588,
-        "deceased": 0,
-        "recovered": 0,
+        "deceased": 50,
+        "recovered": 808,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1388,10 +1399,10 @@
         }
       },
       "Unknown": {
-        "active": 1,
+        "active": -3,
         "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
+        "deceased": 1,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1695,10 +1706,10 @@
         }
       },
       "Unknown": {
-        "active": 3,
+        "active": -8,
         "confirmed": 3,
-        "deceased": 0,
-        "recovered": 0,
+        "deceased": 3,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2830,9 +2841,9 @@
         }
       },
       "Unknown": {
-        "active": 5,
+        "active": 4,
         "confirmed": 5,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
@@ -3526,12 +3537,12 @@
         }
       },
       "Unknown": {
-        "active": 8,
+        "active": 6,
         "confirmed": 8,
-        "deceased": 0,
+        "deceased": 2,
         "recovered": 0,
         "delta": {
-          "confirmed": 8,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4251,10 +4262,10 @@
         }
       },
       "Unknown": {
-        "active": 73,
+        "active": -204,
         "confirmed": 73,
-        "deceased": 0,
-        "recovered": 0,
+        "deceased": 25,
+        "recovered": 252,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4267,25 +4278,25 @@
   "Tripura": {
     "districtData": {
       "Gomati": {
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "North Tripura": {
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     },
@@ -5129,12 +5140,12 @@
         }
       },
       "Unknown": {
-        "active": 126,
+        "active": 8,
         "confirmed": 126,
-        "deceased": 0,
-        "recovered": 0,
+        "deceased": 15,
+        "recovered": 103,
         "delta": {
-          "confirmed": 58,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
