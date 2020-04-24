@@ -440,12 +440,12 @@
         }
       },
       "Munger": {
-        "active": 30,
-        "confirmed": 37,
+        "active": 45,
+        "confirmed": 52,
         "deceased": 1,
         "recovered": 6,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 21,
           "deceased": 0,
           "recovered": 0
         }
@@ -523,17 +523,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": 13,
-        "confirmed": 15,
-        "deceased": 0,
-        "recovered": 2,
-        "delta": {
-          "confirmed": 15,
           "deceased": 0,
           "recovered": 0
         }
@@ -1366,47 +1355,47 @@
         }
       },
       "Sirmaur": {
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Solan": {
-        "active": 2,
+        "active": 6,
         "confirmed": 9,
         "deceased": 0,
-        "recovered": 7,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Una": {
-        "active": 14,
-        "confirmed": 16,
-        "deceased": 0,
-        "recovered": 2,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": -3,
-        "confirmed": 1,
-        "deceased": 1,
         "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -4
+        }
+      },
+      "Una": {
+        "active": 8,
+        "confirmed": 16,
+        "deceased": 0,
+        "recovered": 8,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 6
+        }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 1,
+        "deceased": 1,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": -3
         }
       }
     },
@@ -2884,12 +2873,12 @@
         }
       },
       "Bhadrak": {
-        "active": 10,
-        "confirmed": 12,
+        "active": 14,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
