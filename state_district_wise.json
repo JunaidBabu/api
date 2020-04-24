@@ -13,12 +13,12 @@
         }
       },
       "South Andaman": {
-        "active": 11,
-        "confirmed": 21,
+        "active": 15,
+        "confirmed": 25,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -329,6 +329,17 @@
   },
   "Bihar": {
     "districtData": {
+      "Aurangabad": {
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Banka": {
         "active": 2,
         "confirmed": 2,
@@ -374,12 +385,12 @@
         }
       },
       "Buxar": {
-        "active": 10,
-        "confirmed": 10,
+        "active": 20,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
@@ -439,13 +450,24 @@
           "recovered": 0
         }
       },
+      "Madhepura": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Munger": {
-        "active": 45,
-        "confirmed": 52,
+        "active": 46,
+        "confirmed": 53,
         "deceased": 1,
         "recovered": 6,
         "delta": {
-          "confirmed": 21,
+          "confirmed": 22,
           "deceased": 0,
           "recovered": 0
         }
@@ -473,12 +495,12 @@
         }
       },
       "Patna": {
-        "active": 19,
-        "confirmed": 24,
+        "active": 21,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -495,12 +517,12 @@
         }
       },
       "Saran": {
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1404,12 +1426,12 @@
   "Jammu and Kashmir": {
     "districtData": {
       "Anantnag": {
-        "active": 9,
-        "confirmed": 9,
+        "active": 16,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -1426,25 +1448,25 @@
         }
       },
       "Bandipore": {
-        "active": 80,
-        "confirmed": 99,
+        "active": 85,
+        "confirmed": 108,
         "deceased": 1,
-        "recovered": 18,
+        "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Baramula": {
-        "active": 44,
-        "confirmed": 50,
+        "active": 38,
+        "confirmed": 52,
         "deceased": 2,
-        "recovered": 4,
+        "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       "Ganderbal": {
@@ -1503,12 +1525,12 @@
         }
       },
       "Kupwara": {
-        "active": 35,
-        "confirmed": 41,
+        "active": 39,
+        "confirmed": 45,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1559,13 +1581,13 @@
       },
       "Shupiyan": {
         "active": 49,
-        "confirmed": 55,
+        "confirmed": 60,
         "deceased": 0,
-        "recovered": 6,
+        "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Srinagar": {
@@ -1588,17 +1610,6 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": 11,
-        "confirmed": 27,
-        "deceased": 0,
-        "recovered": 16,
-        "delta": {
-          "confirmed": 20,
-          "deceased": 0,
-          "recovered": 16
         }
       }
     },
@@ -1695,12 +1706,12 @@
         }
       },
       "Unknown": {
-        "active": -8,
-        "confirmed": 3,
+        "active": -4,
+        "confirmed": 7,
         "deceased": 3,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -4894,6 +4905,17 @@
         "recovered": 6,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 74,
+        "confirmed": 94,
+        "deceased": 0,
+        "recovered": 20,
+        "delta": {
+          "confirmed": 94,
           "deceased": 0,
           "recovered": 0
         }
