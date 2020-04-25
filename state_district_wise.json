@@ -40,14 +40,14 @@
   "Andhra Pradesh": {
     "districtData": {
       "Anantapur": {
-        "active": 31,
-        "confirmed": 46,
+        "active": 34,
+        "confirmed": 51,
         "deceased": 4,
-        "recovered": 11,
+        "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Chittoor": {
@@ -62,67 +62,78 @@
         }
       },
       "East Godavari": {
-        "active": 26,
-        "confirmed": 34,
+        "active": 25,
+        "confirmed": 37,
         "deceased": 0,
-        "recovered": 8,
+        "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Guntur": {
-        "active": 175,
-        "confirmed": 206,
+        "active": 178,
+        "confirmed": 209,
         "deceased": 8,
         "recovered": 23,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Krishna": {
-        "active": 70,
-        "confirmed": 102,
-        "deceased": 7,
-        "recovered": 25,
+        "active": 90,
+        "confirmed": 127,
+        "deceased": 8,
+        "recovered": 29,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 25,
+          "deceased": 1,
+          "recovered": 4
         }
       },
       "Kurnool": {
-        "active": 249,
-        "confirmed": 261,
-        "deceased": 8,
-        "recovered": 4,
+        "active": 259,
+        "confirmed": 275,
+        "deceased": 9,
+        "recovered": 7,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 14,
+          "deceased": 1,
+          "recovered": 3
         }
       },
       "Prakasam": {
-        "active": 52,
+        "active": 41,
         "confirmed": 53,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 12,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 11
         }
       },
       "S.P.S. Nellore": {
-        "active": 60,
-        "confirmed": 68,
+        "active": 62,
+        "confirmed": 72,
         "deceased": 2,
-        "recovered": 6,
+        "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
+          "deceased": 0,
+          "recovered": 2
+        }
+      },
+      "Srikakulam": {
+        "active": 3,
+        "confirmed": 3,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -150,12 +161,12 @@
         }
       },
       "Y.S.R.": {
-        "active": 23,
-        "confirmed": 51,
+        "active": 27,
+        "confirmed": 55,
         "deceased": 0,
         "recovered": 28,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -385,12 +396,12 @@
         }
       },
       "Buxar": {
-        "active": 22,
-        "confirmed": 22,
+        "active": 20,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
