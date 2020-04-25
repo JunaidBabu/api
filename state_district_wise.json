@@ -2457,12 +2457,12 @@
         }
       },
       "Amravati": {
-        "active": 6,
-        "confirmed": 7,
+        "active": 12,
+        "confirmed": 13,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -2567,23 +2567,23 @@
         }
       },
       "Kolhapur": {
-        "active": 7,
-        "confirmed": 9,
+        "active": 8,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Latur": {
-        "active": 0,
-        "confirmed": 8,
+        "active": 1,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2700,20 +2700,20 @@
       },
       "Ratnagiri": {
         "active": 5,
-        "confirmed": 7,
+        "confirmed": 8,
         "deceased": 1,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Sangli": {
-        "active": -1,
+        "active": 0,
         "confirmed": 26,
         "deceased": 1,
-        "recovered": 26,
+        "recovered": 25,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2798,12 +2798,12 @@
         }
       },
       "Unknown": {
-        "active": -118,
-        "confirmed": 5,
+        "active": -127,
+        "confirmed": -4,
         "deceased": 0,
         "recovered": 123,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -9,
           "deceased": 0,
           "recovered": 0
         }
