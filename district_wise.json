@@ -14783,14 +14783,14 @@
 			"statecode": "UT"
 		},
 		{
-			"active": "5",
+			"active": "62",
 			"activeyesterday": "8",
-			"confirmed": "126",
+			"confirmed": "183",
 			"confirmedyesterday": "126",
 			"deceased": "18",
 			"deceasedyesterday": "15",
-			"deltaactive": "-3",
-			"deltaconfirmed": "0",
+			"deltaactive": "54",
+			"deltaconfirmed": "57",
 			"deltadeceased": "3",
 			"deltarecovered": "0",
 			"district": "Unknown",
