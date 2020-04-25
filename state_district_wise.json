@@ -1295,12 +1295,12 @@
         }
       },
       "Panipat": {
-        "active": 2,
-        "confirmed": 7,
+        "active": 3,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1328,12 +1328,12 @@
         }
       },
       "Sonipat": {
-        "active": 9,
-        "confirmed": 13,
+        "active": 13,
+        "confirmed": 17,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
