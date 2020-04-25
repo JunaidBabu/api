@@ -817,25 +817,25 @@
   "Gujarat": {
     "districtData": {
       "Ahmadabad": {
-        "active": 1807,
+        "active": 1802,
         "confirmed": 2003,
-        "deceased": 83,
-        "recovered": 113,
+        "deceased": 86,
+        "recovered": 115,
         "delta": {
           "confirmed": 182,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 3,
+          "recovered": 2
         }
       },
       "Anand": {
-        "active": 26,
+        "active": 24,
         "confirmed": 41,
-        "deceased": 2,
-        "recovered": 13,
+        "deceased": 3,
+        "recovered": 14,
         "delta": {
           "confirmed": 5,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 1
         }
       },
       "Aravalli": {
@@ -861,14 +861,14 @@
         }
       },
       "Bharuch": {
-        "active": 24,
+        "active": 17,
         "confirmed": 29,
         "deceased": 2,
-        "recovered": 3,
+        "recovered": 10,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       "Bhavnagar": {
@@ -916,14 +916,14 @@
         }
       },
       "Gandhinagar": {
-        "active": 10,
+        "active": 9,
         "confirmed": 23,
         "deceased": 2,
-        "recovered": 11,
+        "recovered": 12,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Gir Somnath": {
@@ -1059,14 +1059,14 @@
         }
       },
       "Rajkot": {
-        "active": 29,
+        "active": 27,
         "confirmed": 41,
         "deceased": 0,
-        "recovered": 12,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Sabar Kantha": {
@@ -1081,14 +1081,14 @@
         }
       },
       "Surat": {
-        "active": 467,
+        "active": 465,
         "confirmed": 496,
-        "deceased": 14,
-        "recovered": 15,
+        "deceased": 15,
+        "recovered": 16,
         "delta": {
           "confirmed": 34,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 1
         }
       },
       "Surendranagar": {
@@ -1125,14 +1125,14 @@
         }
       },
       "Vadodara": {
-        "active": 166,
+        "active": 162,
         "confirmed": 230,
-        "deceased": 11,
-        "recovered": 53,
+        "deceased": 12,
+        "recovered": 56,
         "delta": {
           "confirmed": 7,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 3
         }
       },
       "Valsad": {
@@ -2655,12 +2655,12 @@
         }
       },
       "Nandurbar": {
-        "active": 11,
-        "confirmed": 7,
+        "active": 10,
+        "confirmed": 11,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -2776,7 +2776,7 @@
         }
       },
       "Solapur": {
-        "active": 46,
+        "active": 42,
         "confirmed": 46,
         "deceased": 4,
         "recovered": 0,
@@ -2824,17 +2824,6 @@
         "confirmed": 25,
         "deceased": 2,
         "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": -115,
-        "confirmed": 4,
-        "deceased": 0,
-        "recovered": 119,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3016,14 +3005,14 @@
         }
       },
       "Sundargarh": {
-        "active": 1,
+        "active": 0,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     },
