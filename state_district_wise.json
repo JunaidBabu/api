@@ -2025,8 +2025,8 @@
       },
       "Kannur": {
         "active": 56,
-        "confirmed": 110,
-        "deceased": 0,
+        "confirmed": 111,
+        "deceased": 1,
         "recovered": 54,
         "delta": {
           "confirmed": 1,
@@ -2456,6 +2456,17 @@
         "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 21,
+        "confirmed": 99,
+        "deceased": 7,
+        "recovered": 71,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3586,23 +3597,23 @@
         }
       },
       "Chengalpattu": {
-        "active": 54,
-        "confirmed": 54,
+        "active": 55,
+        "confirmed": 55,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Chennai": {
-        "active": 358,
-        "confirmed": 457,
+        "active": 401,
+        "confirmed": 500,
         "deceased": 0,
         "recovered": 99,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 43,
           "deceased": 0,
           "recovered": 0
         }
@@ -3674,12 +3685,12 @@
         }
       },
       "Kancheepuram": {
-        "active": 11,
-        "confirmed": 11,
+        "active": 18,
+        "confirmed": 18,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -3707,12 +3718,12 @@
         }
       },
       "Madurai": {
-        "active": 28,
-        "confirmed": 56,
+        "active": 32,
+        "confirmed": 60,
         "deceased": 0,
         "recovered": 28,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -3740,12 +3751,12 @@
         }
       },
       "Perambalur": {
-        "active": 5,
-        "confirmed": 5,
+        "active": 7,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3806,12 +3817,12 @@
         }
       },
       "Tenkasi": {
-        "active": 30,
-        "confirmed": 30,
+        "active": 35,
+        "confirmed": 35,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -3927,12 +3938,12 @@
         }
       },
       "Tiruvannamalai": {
-        "active": 10,
-        "confirmed": 10,
+        "active": 11,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3949,34 +3960,23 @@
         }
       },
       "Viluppuram": {
-        "active": 28,
-        "confirmed": 46,
+        "active": 29,
+        "confirmed": 47,
         "deceased": 0,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Virudhunagar": {
-        "active": 23,
-        "confirmed": 23,
+        "active": 25,
+        "confirmed": 25,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": -576,
-        "confirmed": 66,
-        "deceased": 23,
-        "recovered": 619,
-        "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }

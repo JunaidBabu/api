@@ -18335,13 +18335,13 @@
 			"nationality": "",
 			"notes": "P4933. Native of Puducherry's Mahe died at Pariyaram Medical College in Kannur. He was in very critical condition and his kidneys were not functioning. He was on ventilator for the last few days",
 			"patientnumbercouldbemappedlater": "",
-			"patientstatus": "NotCountedbyAnyState#",
+			"patientstatus": "Deceased",
 			"slno": "1040",
 			"source1": "https://twitter.com/ANI/status/1248831262955130881",
 			"source2": "https://english.manoramaonline.com/news/kerala/2020/04/11/kerala-third-coronavirus-death-kannur-pariyaram-mahe.html",
 			"source3": "https://dashboard.kerala.gov.in/",
-			"state": "Kerala/Puducherry?",
-			"statecode": ""
+			"state": "Kerala",
+			"statecode": "KL"
 		},
 		{
 			"agebracket": "",
