@@ -517,12 +517,12 @@
         }
       },
       "Patna": {
-        "active": 22,
-        "confirmed": 27,
+        "active": 23,
+        "confirmed": 28,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -577,12 +577,12 @@
   "Chandigarh": {
     "districtData": {
       "Chandigarh": {
-        "active": 12,
-        "confirmed": 27,
+        "active": 13,
+        "confirmed": 28,
         "deceased": 0,
         "recovered": 15,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 1
         }
@@ -1788,23 +1788,23 @@
         }
       },
       "Belagavi": {
-        "active": 47,
-        "confirmed": 51,
+        "active": 50,
+        "confirmed": 54,
         "deceased": 1,
         "recovered": 3,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Bengaluru": {
-        "active": 73,
-        "confirmed": 126,
+        "active": 80,
+        "confirmed": 133,
         "deceased": 4,
         "recovered": 49,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 0
         }
@@ -1931,12 +1931,12 @@
         }
       },
       "Mysuru": {
-        "active": 55,
-        "confirmed": 88,
+        "active": 56,
+        "confirmed": 89,
         "deceased": 0,
         "recovered": 33,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2150,34 +2150,23 @@
   "Ladakh": {
     "districtData": {
       "Kargil": {
-        "active": 0,
-        "confirmed": 4,
+        "active": 1,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Leh": {
-        "active": 2,
-        "confirmed": 14,
+        "active": 3,
+        "confirmed": 15,
         "deceased": 0,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": 2,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3043,12 +3032,12 @@
         }
       },
       "Puducherry": {
-        "active": 6,
-        "confirmed": 6,
+        "active": 7,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
