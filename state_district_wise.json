@@ -13,12 +13,12 @@
         }
       },
       "South Andaman": {
-        "active": 17,
-        "confirmed": 27,
+        "active": 21,
+        "confirmed": 31,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1152,12 +1152,12 @@
   "Haryana": {
     "districtData": {
       "Ambala": {
-        "active": 1,
-        "confirmed": 12,
+        "active": 2,
+        "confirmed": 13,
         "deceased": 1,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1207,12 +1207,12 @@
         }
       },
       "Gurugram": {
-        "active": 12,
-        "confirmed": 47,
+        "active": 16,
+        "confirmed": 51,
         "deceased": 0,
         "recovered": 35,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1273,25 +1273,25 @@
         }
       },
       "Nuh": {
-        "active": 22,
+        "active": 19,
         "confirmed": 57,
         "deceased": 0,
-        "recovered": 35,
+        "recovered": 38,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Palwal": {
-        "active": 7,
+        "active": 5,
         "confirmed": 34,
         "deceased": 0,
-        "recovered": 27,
+        "recovered": 29,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Panchkula": {
@@ -1339,12 +1339,12 @@
         }
       },
       "Sonipat": {
-        "active": 13,
-        "confirmed": 17,
+        "active": 15,
+        "confirmed": 19,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -2221,12 +2221,12 @@
         }
       },
       "Chhindwara": {
-        "active": 3,
-        "confirmed": 4,
+        "active": 4,
+        "confirmed": 5,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2265,12 +2265,12 @@
         }
       },
       "Hoshangabad": {
-        "active": 25,
-        "confirmed": 26,
+        "active": 29,
+        "confirmed": 30,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -2287,23 +2287,23 @@
         }
       },
       "Jabalpur": {
-        "active": 23,
-        "confirmed": 31,
+        "active": 35,
+        "confirmed": 43,
         "deceased": 1,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Khandwa": {
-        "active": 23,
-        "confirmed": 35,
+        "active": 24,
+        "confirmed": 36,
         "deceased": 0,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2331,12 +2331,12 @@
         }
       },
       "Morena": {
-        "active": 2,
-        "confirmed": 16,
+        "active": 0,
+        "confirmed": 13,
         "deceased": 0,
-        "recovered": 14,
+        "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -3,
           "deceased": 0,
           "recovered": 0
         }
@@ -2419,12 +2419,12 @@
         }
       },
       "Ujjain": {
-        "active": 86,
-        "confirmed": 102,
+        "active": 87,
+        "confirmed": 103,
         "deceased": 11,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2445,17 +2445,6 @@
         "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": -62,
-        "confirmed": 16,
-        "deceased": 7,
-        "recovered": 71,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
