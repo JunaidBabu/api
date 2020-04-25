@@ -1962,6 +1962,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 14,
+        "confirmed": 15,
+        "deceased": 0,
+        "recovered": 1,
+        "delta": {
+          "confirmed": 15,
+          "deceased": 0,
+          "recovered": 1
+        }
       }
     },
     "statecode": "KA"
@@ -4679,14 +4690,14 @@
         }
       },
       "Mahrajganj": {
-        "active": 6,
+        "active": 0,
         "confirmed": 6,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "Mainpuri": {
@@ -4866,14 +4877,14 @@
         }
       },
       "Shamli": {
-        "active": 25,
+        "active": 12,
         "confirmed": 27,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 15,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 13
         }
       },
       "Shrawasti": {
@@ -4921,14 +4932,14 @@
         }
       },
       "Varanasi": {
-        "active": 10,
+        "active": 19,
         "confirmed": 26,
         "deceased": 1,
-        "recovered": 15,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -9
         }
       },
       "Ayodhya": {
