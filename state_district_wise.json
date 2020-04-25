@@ -1766,23 +1766,23 @@
         }
       },
       "Belagavi": {
-        "active": 41,
-        "confirmed": 45,
+        "active": 47,
+        "confirmed": 51,
         "deceased": 1,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Bengaluru": {
-        "active": 67,
-        "confirmed": 120,
+        "active": 73,
+        "confirmed": 126,
         "deceased": 4,
         "recovered": 49,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -1810,12 +1810,12 @@
         }
       },
       "Chikkaballapura": {
-        "active": 5,
-        "confirmed": 17,
+        "active": 6,
+        "confirmed": 18,
         "deceased": 2,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1832,12 +1832,12 @@
         }
       },
       "Dakshina Kannada": {
-        "active": 3,
-        "confirmed": 16,
+        "active": 4,
+        "confirmed": 17,
         "deceased": 2,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1898,12 +1898,12 @@
         }
       },
       "Mandya": {
-        "active": 15,
-        "confirmed": 15,
+        "active": 16,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1961,17 +1961,6 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": 14,
-        "confirmed": 15,
-        "deceased": 0,
-        "recovered": 1,
-        "delta": {
-          "confirmed": 15,
-          "deceased": 0,
-          "recovered": 1
         }
       }
     },
@@ -4426,25 +4415,25 @@
         }
       },
       "Bara Banki": {
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Bareilly": {
-        "active": 6,
+        "active": 0,
         "confirmed": 6,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "Basti": {
@@ -4602,14 +4591,14 @@
         }
       },
       "Hathras": {
-        "active": 4,
+        "active": 0,
         "confirmed": 4,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Jaunpur": {
