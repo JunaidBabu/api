@@ -1728,8 +1728,8 @@
         }
       },
       "Unknown": {
-        "active": -2,
-        "confirmed": 9,
+        "active": 2,
+        "confirmed": 13,
         "deceased": 3,
         "recovered": 8,
         "delta": {
@@ -4925,6 +4925,17 @@
         "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 134,
+        "confirmed": 157,
+        "deceased": 1,
+        "recovered": 22,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
