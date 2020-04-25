@@ -13,23 +13,12 @@
         }
       },
       "South Andaman": {
-        "active": 21,
-        "confirmed": 31,
+        "active": 22,
+        "confirmed": 32,
         "deceased": 0,
         "recovered": 10,
         "delta": {
           "confirmed": 4,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -1147,10 +1136,10 @@
         }
       },
       "Unknown": {
-        "active": 230,
+        "active": 233,
         "confirmed": 256,
         "deceased": 6,
-        "recovered": 20,
+        "recovered": 17,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1454,10 +1443,10 @@
         }
       },
       "Unknown": {
-        "active": 0,
+        "active": -5,
         "confirmed": 1,
         "deceased": 1,
-        "recovered": 0,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2441,14 +2430,14 @@
         }
       },
       "Vidisha": {
-        "active": 12,
+        "active": 0,
         "confirmed": 13,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 13,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 12
         }
       },
       "Other Region": {
@@ -2824,6 +2813,17 @@
         "confirmed": 25,
         "deceased": 2,
         "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 552,
+        "confirmed": 811,
+        "deceased": 22,
+        "recovered": 237,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3998,12 +3998,12 @@
         }
       },
       "Hyderabad": {
-        "active": 526,
-        "confirmed": 526,
+        "active": 532,
+        "confirmed": 532,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -4273,21 +4273,21 @@
         }
       },
       "Warangal Urban": {
-        "active": 21,
-        "confirmed": 21,
+        "active": 22,
+        "confirmed": 22,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Unknown": {
-        "active": -230,
+        "active": -246,
         "confirmed": 86,
         "deceased": 25,
-        "recovered": 291,
+        "recovered": 307,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
