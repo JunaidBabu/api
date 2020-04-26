@@ -14365,10 +14365,10 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "-1",
-			"activeyesterday": "-1",
-			"confirmed": "0",
-			"confirmedyesterday": "0",
+			"active": "-2",
+			"activeyesterday": "-2",
+			"confirmed": "-1",
+			"confirmedyesterday": "-1",
 			"deceased": "1",
 			"deceasedyesterday": "1",
 			"deltaactive": "0",
@@ -14384,10 +14384,10 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "2",
-			"activeyesterday": "2",
-			"confirmed": "13",
-			"confirmedyesterday": "13",
+			"active": "3",
+			"activeyesterday": "3",
+			"confirmed": "14",
+			"confirmedyesterday": "14",
 			"deceased": "3",
 			"deceasedyesterday": "3",
 			"deltaactive": "0",
