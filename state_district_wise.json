@@ -3568,6 +3568,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 10,
+        "confirmed": 11,
+        "deceased": 1,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 11,
+          "deceased": 1,
+          "recovered": 0
+        }
       }
     },
     "statecode": "RJ"
