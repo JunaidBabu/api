@@ -2254,12 +2254,12 @@
         }
       },
       "Dindori": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2353,12 +2353,12 @@
         }
       },
       "Raisen": {
-        "active": 25,
-        "confirmed": 26,
+        "active": 27,
+        "confirmed": 28,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -2452,12 +2452,12 @@
         }
       },
       "Other Region": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 0
         }
@@ -5217,13 +5217,13 @@
         }
       },
       "Unknown": {
-        "active": 100,
+        "active": 98,
         "confirmed": 223,
-        "deceased": 18,
+        "deceased": 20,
         "recovered": 105,
         "delta": {
           "confirmed": 40,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 2
         }
       }
