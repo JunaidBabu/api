@@ -1410,9 +1410,9 @@
         }
       },
       "Solan": {
-        "active": 6,
+        "active": 5,
         "confirmed": 9,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 3,
         "delta": {
           "confirmed": 0,
@@ -5022,6 +5022,17 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 4
+        }
+      },
+      "Unknown": {
+        "active": -1,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 3,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": -23
         }
       }
     },
