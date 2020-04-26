@@ -193,14 +193,14 @@
         }
       },
       "Dhubri": {
-        "active": 4,
+        "active": 1,
         "confirmed": 4,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Goalpara": {
@@ -215,14 +215,14 @@
         }
       },
       "Golaghat": {
-        "active": 1,
+        "active": -3,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Hailakandi": {
@@ -314,14 +314,14 @@
         }
       },
       "Unknown": {
-        "active": -12,
+        "active": -13,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 13,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     },
@@ -3427,13 +3427,13 @@
         }
       },
       "Jodhpur": {
-        "active": 288,
+        "active": 287,
         "confirmed": 341,
-        "deceased": 3,
+        "deceased": 4,
         "recovered": 50,
         "delta": {
           "confirmed": 15,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -3570,13 +3570,13 @@
         }
       },
       "Unknown": {
-        "active": 10,
+        "active": 11,
         "confirmed": 11,
-        "deceased": 1,
+        "deceased": 0,
         "recovered": 0,
         "delta": {
           "confirmed": 11,
-          "deceased": 1,
+          "deceased": 0,
           "recovered": 0
         }
       }
