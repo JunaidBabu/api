@@ -1962,6 +1962,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": -23,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 25,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 19
+        }
       }
     },
     "statecode": "KA"
@@ -2199,12 +2210,12 @@
         }
       },
       "Bhopal": {
-        "active": 275,
-        "confirmed": 388,
+        "active": 302,
+        "confirmed": 415,
         "deceased": 9,
         "recovered": 104,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 27,
           "deceased": 0,
           "recovered": 0
         }
@@ -2265,12 +2276,12 @@
         }
       },
       "Indore": {
-        "active": 921,
-        "confirmed": 1085,
+        "active": 1012,
+        "confirmed": 1176,
         "deceased": 57,
         "recovered": 107,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 91,
           "deceased": 0,
           "recovered": 0
         }
@@ -2298,14 +2309,14 @@
         }
       },
       "Khargone": {
-        "active": 47,
-        "confirmed": 60,
+        "active": 43,
+        "confirmed": 61,
         "deceased": 6,
-        "recovered": 7,
+        "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Mandsaur": {
@@ -2438,6 +2449,17 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 6,
+        "confirmed": 26,
+        "deceased": 4,
+        "recovered": 16,
+        "delta": {
+          "confirmed": 26,
+          "deceased": 4,
+          "recovered": 16
         }
       }
     },
@@ -3383,12 +3405,12 @@
         }
       },
       "Jaipur": {
-        "active": 648,
-        "confirmed": 800,
+        "active": 647,
+        "confirmed": 799,
         "deceased": 19,
         "recovered": 133,
         "delta": {
-          "confirmed": 8,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -3568,17 +3590,6 @@
           "deceased": 0,
           "recovered": 0
         }
-      },
-      "Unknown": {
-        "active": -1,
-        "confirmed": -1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": -1,
-          "deceased": 0,
-          "recovered": 0
-        }
       }
     },
     "statecode": "RJ"
@@ -3608,12 +3619,12 @@
         }
       },
       "Chennai": {
-        "active": 401,
-        "confirmed": 500,
+        "active": 429,
+        "confirmed": 528,
         "deceased": 0,
         "recovered": 99,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 28,
           "deceased": 0,
           "recovered": 0
         }
@@ -3674,12 +3685,12 @@
         }
       },
       "Kallakurichi": {
-        "active": 5,
-        "confirmed": 5,
+        "active": 6,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3718,12 +3729,12 @@
         }
       },
       "Madurai": {
-        "active": 32,
-        "confirmed": 60,
+        "active": 47,
+        "confirmed": 75,
         "deceased": 0,
         "recovered": 28,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 15,
           "deceased": 0,
           "recovered": 0
         }
@@ -3740,12 +3751,12 @@
         }
       },
       "Namakkal": {
-        "active": 55,
-        "confirmed": 55,
+        "active": 59,
+        "confirmed": 59,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -3979,6 +3990,17 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": -687,
+        "confirmed": 16,
+        "deceased": 24,
+        "recovered": 679,
+        "delta": {
+          "confirmed": 16,
+          "deceased": 1,
+          "recovered": 60
         }
       }
     },
