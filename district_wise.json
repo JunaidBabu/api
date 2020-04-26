@@ -2433,7 +2433,7 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "11",
+			"active": "4",
 			"activeyesterday": "11",
 			"confirmed": "28",
 			"confirmedyesterday": "28",
@@ -2445,8 +2445,8 @@
 			"deltarecovered": "0",
 			"district": "Korba",
 			"districtnotes": "",
-			"recovered": "17",
-			"recoveredyesterday": "17",
+			"recovered": "24",
+			"recoveredyesterday": "24",
 			"slno": "129",
 			"state": "Chhattisgarh",
 			"statecode": "CT"
@@ -4048,7 +4048,7 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "3",
+			"active": "2",
 			"activeyesterday": "3",
 			"confirmed": "6",
 			"confirmedyesterday": "6",
@@ -4060,8 +4060,8 @@
 			"deltarecovered": "0",
 			"district": "Chamba",
 			"districtnotes": "",
-			"recovered": "3",
-			"recoveredyesterday": "3",
+			"recovered": "4",
+			"recoveredyesterday": "4",
 			"slno": "213",
 			"state": "Himachal Pradesh",
 			"statecode": "HP"
@@ -4200,10 +4200,10 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "0",
+			"active": "1",
 			"activeyesterday": "0",
-			"confirmed": "1",
-			"confirmedyesterday": "1",
+			"confirmed": "2",
+			"confirmedyesterday": "2",
 			"deceased": "",
 			"deceasedyesterday": "",
 			"deltaactive": "0",
@@ -4238,7 +4238,7 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "8",
+			"active": "5",
 			"activeyesterday": "8",
 			"confirmed": "16",
 			"confirmedyesterday": "16",
@@ -4250,8 +4250,8 @@
 			"deltarecovered": "0",
 			"district": "Una",
 			"districtnotes": "",
-			"recovered": "8",
-			"recoveredyesterday": "8",
+			"recovered": "11",
+			"recoveredyesterday": "11",
 			"slno": "223",
 			"state": "Himachal Pradesh",
 			"statecode": "HP"
@@ -14213,19 +14213,19 @@
 			"statecode": "CH"
 		},
 		{
-			"active": "-7",
+			"active": "0",
 			"activeyesterday": "-6",
 			"confirmed": "0",
 			"confirmedyesterday": "1",
 			"deceased": "0",
 			"deceasedyesterday": "0",
-			"deltaactive": "-1",
+			"deltaactive": "6",
 			"deltaconfirmed": "-1",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "-7",
 			"district": "Unknown",
 			"districtnotes": "",
-			"recovered": "7",
+			"recovered": "0",
 			"recoveredyesterday": "7",
 			"slno": "734",
 			"state": "Chhattisgarh",
@@ -14346,19 +14346,19 @@
 			"statecode": "HR"
 		},
 		{
-			"active": "-5",
+			"active": "-1",
 			"activeyesterday": "-5",
-			"confirmed": "1",
+			"confirmed": "0",
 			"confirmedyesterday": "1",
 			"deceased": "1",
 			"deceasedyesterday": "1",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "4",
+			"deltaconfirmed": "-1",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "-5",
 			"district": "Unknown",
 			"districtnotes": "",
-			"recovered": "5",
+			"recovered": "0",
 			"recoveredyesterday": "5",
 			"slno": "741",
 			"state": "Himachal Pradesh",
