@@ -817,14 +817,14 @@
   "Gujarat": {
     "districtData": {
       "Ahmadabad": {
-        "active": 1980,
+        "active": 1937,
         "confirmed": 2181,
-        "deceased": 86,
-        "recovered": 115,
+        "deceased": 104,
+        "recovered": 140,
         "delta": {
           "confirmed": 178,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 18,
+          "recovered": 25
         }
       },
       "Anand": {
@@ -861,14 +861,14 @@
         }
       },
       "Bharuch": {
-        "active": 17,
+        "active": 13,
         "confirmed": 29,
         "deceased": 2,
-        "recovered": 10,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Bhavnagar": {
@@ -949,14 +949,14 @@
         }
       },
       "Kachchh": {
-        "active": 4,
+        "active": 2,
         "confirmed": 6,
         "deceased": 1,
-        "recovered": 1,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Kheda": {
