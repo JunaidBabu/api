@@ -14118,14 +14118,14 @@
 			"statecode": "AN"
 		},
 		{
-			"active": "0",
+			"active": "81",
 			"activeyesterday": "0",
-			"confirmed": "0",
+			"confirmed": "81",
 			"confirmedyesterday": "0",
 			"deceased": "0",
 			"deceasedyesterday": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "81",
+			"deltaconfirmed": "81",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",
