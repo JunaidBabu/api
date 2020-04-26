@@ -2994,14 +2994,14 @@
         }
       },
       "Khordha": {
-        "active": 23,
+        "active": 22,
         "confirmed": 46,
         "deceased": 1,
-        "recovered": 22,
+        "recovered": 23,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Puri": {
@@ -4031,12 +4031,12 @@
         }
       },
       "Hyderabad": {
-        "active": 532,
-        "confirmed": 532,
+        "active": 543,
+        "confirmed": 543,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
@@ -4317,14 +4317,14 @@
         }
       },
       "Unknown": {
-        "active": -243,
-        "confirmed": 97,
+        "active": -255,
+        "confirmed": 86,
         "deceased": 25,
-        "recovered": 315,
+        "recovered": 316,
         "delta": {
-          "confirmed": 11,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 8
+          "recovered": 9
         }
       }
     },
@@ -4984,6 +4984,17 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 20,
+        "confirmed": 50,
+        "deceased": 2,
+        "recovered": 28,
+        "delta": {
+          "confirmed": 50,
+          "deceased": 2,
+          "recovered": 28
         }
       }
     },
