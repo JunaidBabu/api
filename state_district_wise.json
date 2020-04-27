@@ -2013,13 +2013,13 @@
         }
       },
       "Kannur": {
-        "active": 55,
+        "active": 54,
         "confirmed": 111,
-        "deceased": 1,
+        "deceased": 2,
         "recovered": 55,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 1
         }
       },
