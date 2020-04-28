@@ -3147,14 +3147,14 @@
         }
       },
       "Ludhiana": {
-        "active": 8,
+        "active": 10,
         "confirmed": 18,
         "deceased": 4,
-        "recovered": 6,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -2
         }
       },
       "Mansa": {
