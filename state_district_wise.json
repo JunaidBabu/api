@@ -2863,24 +2863,24 @@
   "Meghalaya": {
     "districtData": {
       "East Khasi Hills": {
-        "active": 7,
-        "confirmed": 7,
-        "deceased": 0,
+        "active": 10,
+        "confirmed": 11,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 4,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Unknown": {
-        "active": 4,
-        "confirmed": 5,
-        "deceased": 1,
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": -4,
+          "deceased": -1,
           "recovered": 0
         }
       }
