@@ -2057,14 +2057,14 @@
         }
       },
       "Kozhikode": {
-        "active": 9,
+        "active": 7,
         "confirmed": 24,
         "deceased": 0,
-        "recovered": 15,
+        "recovered": 17,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Malappuram": {
@@ -2101,14 +2101,14 @@
         }
       },
       "Thiruvananthapuram": {
-        "active": 1,
+        "active": 3,
         "confirmed": 15,
         "deceased": 1,
-        "recovered": 13,
+        "recovered": 11,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -2
         }
       },
       "Thrissur": {
