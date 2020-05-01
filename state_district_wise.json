@@ -3590,6 +3590,28 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Others state": {
+        "active": -2,
+        "confirmed": 2,
+        "deceased": 2,
+        "recovered": 2,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": -2,
+        "confirmed": -2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": -2,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "RJ"
