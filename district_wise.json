@@ -1,7 +1,6 @@
 {
 	"districts": [
 		{
-			"_chk2m": "Nicobars",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -21,7 +20,6 @@
 			"statecode": "AN"
 		},
 		{
-			"_chk2m": "North and Middle Andaman",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -41,7 +39,6 @@
 			"statecode": "AN"
 		},
 		{
-			"_chk2m": "South Andaman",
 			"active": "22",
 			"activeyesterday": "22",
 			"confirmed": "32",
@@ -61,7 +58,6 @@
 			"statecode": "AN"
 		},
 		{
-			"_chk2m": "Anantapur",
 			"active": "35",
 			"activeyesterday": "35",
 			"confirmed": "53",
@@ -81,7 +77,6 @@
 			"statecode": "AP"
 		},
 		{
-			"_chk2m": "Chittoor",
 			"active": "60",
 			"activeyesterday": "60",
 			"confirmed": "73",
@@ -101,7 +96,6 @@
 			"statecode": "AP"
 		},
 		{
-			"_chk2m": "East Godavari",
 			"active": "27",
 			"activeyesterday": "27",
 			"confirmed": "39",
@@ -121,7 +115,6 @@
 			"statecode": "AP"
 		},
 		{
-			"_chk2m": "Guntur",
 			"active": "177",
 			"activeyesterday": "177",
 			"confirmed": "214",
@@ -141,7 +134,6 @@
 			"statecode": "AP"
 		},
 		{
-			"_chk2m": "Krishna",
 			"active": "140",
 			"activeyesterday": "140",
 			"confirmed": "177",
@@ -161,7 +153,6 @@
 			"statecode": "AP"
 		},
 		{
-			"_chk2m": "Kurnool",
 			"active": "239",
 			"activeyesterday": "239",
 			"confirmed": "279",
@@ -181,7 +172,6 @@
 			"statecode": "AP"
 		},
 		{
-			"_chk2m": "Prakasam",
 			"active": "33",
 			"activeyesterday": "33",
 			"confirmed": "56",
@@ -201,7 +191,6 @@
 			"statecode": "AP"
 		},
 		{
-			"_chk2m": "S.P.S. Nellore",
 			"active": "47",
 			"activeyesterday": "47",
 			"confirmed": "72",
@@ -221,7 +210,6 @@
 			"statecode": "AP"
 		},
 		{
-			"_chk2m": "Srikakulam",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "3",
@@ -241,7 +229,6 @@
 			"statecode": "AP"
 		},
 		{
-			"_chk2m": "Visakhapatnam",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "22",
@@ -261,7 +248,6 @@
 			"statecode": "AP"
 		},
 		{
-			"_chk2m": "Vizianagaram",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -281,7 +267,6 @@
 			"statecode": "AP"
 		},
 		{
-			"_chk2m": "West Godavari",
 			"active": "41",
 			"activeyesterday": "41",
 			"confirmed": "51",
@@ -301,7 +286,6 @@
 			"statecode": "AP"
 		},
 		{
-			"_chk2m": "Y.S.R Kadapa",
 			"active": "30",
 			"activeyesterday": "30",
 			"confirmed": "58",
@@ -321,7 +305,6 @@
 			"statecode": "AP"
 		},
 		{
-			"_chk2m": "Anjaw",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -341,7 +324,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Changlang",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -361,7 +343,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "East Kameng",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -381,7 +362,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "East Siang",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -401,7 +381,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Kamle",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -421,7 +400,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Kra Daadi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -441,7 +419,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Kurung Kumey",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -461,7 +438,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Lepa Rada",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -481,7 +457,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Lohit",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -501,7 +476,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Longding",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -521,7 +495,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Lower Dibang Valley",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -541,7 +514,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Lower Siang",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -561,7 +533,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Lower Subansiri",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -581,7 +552,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Namsai",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -601,7 +571,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Pakke Kessang",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -621,7 +590,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Papum Pare",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -641,7 +609,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Shi Yomi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -661,7 +628,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Siang",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -681,7 +647,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Tawang",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -701,7 +666,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Tirap",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -721,7 +685,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Upper Dibang Valley",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -741,7 +704,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Upper Siang",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -761,7 +723,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Upper Subansiri",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -781,7 +742,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "West Kameng",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -801,7 +761,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "West Siang",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -821,7 +780,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Baksa",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -841,7 +799,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Barpeta",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -861,7 +818,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Biswanath",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -881,7 +837,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Bongaigaon",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -901,7 +856,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Cachar",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "2",
@@ -921,7 +875,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Charaideo",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -941,7 +894,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Chirang",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -961,7 +913,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Darrang",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -981,7 +932,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Dhemaji",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1001,7 +951,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Dhubri",
 			"active": "4",
 			"activeyesterday": "4",
 			"confirmed": "4",
@@ -1021,7 +970,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Dibrugarh",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1041,7 +989,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Dima Hasao",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1061,7 +1008,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Goalpara",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "4",
@@ -1081,7 +1027,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Golaghat",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -1101,7 +1046,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Hailakandi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -1121,7 +1065,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Hojai",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1141,7 +1084,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Jorhat",
 			"active": "8",
 			"activeyesterday": "8",
 			"confirmed": "8",
@@ -1161,7 +1103,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Kamrup",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -1181,7 +1122,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Kamrup Metropolitan",
 			"active": "6",
 			"activeyesterday": "6",
 			"confirmed": "6",
@@ -1201,7 +1141,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Karbi Anglong",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1221,7 +1160,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Karimganj",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1241,7 +1179,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Kokrajhar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1261,7 +1198,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Lakhimpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -1281,7 +1217,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Majuli",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1301,7 +1236,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Morigaon",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "3",
@@ -1321,7 +1255,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Nagaon",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1341,7 +1274,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Nalbari",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "3",
@@ -1361,7 +1293,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Sivasagar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1381,7 +1312,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Sonitpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1401,7 +1331,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "South Salmara Mankachar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -1421,7 +1350,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Tinsukia",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1441,7 +1369,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Udalguri",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1461,7 +1388,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "West Karbi Anglong",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1481,7 +1407,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Araria",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1501,7 +1426,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Arwal",
 			"active": "4",
 			"activeyesterday": "4",
 			"confirmed": "4",
@@ -1521,7 +1445,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Aurangabad",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "2",
@@ -1541,7 +1464,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Banka",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "2",
@@ -1561,7 +1483,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Begusarai",
 			"active": "8",
 			"activeyesterday": "8",
 			"confirmed": "9",
@@ -1581,7 +1502,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Bhagalpur",
 			"active": "4",
 			"activeyesterday": "4",
 			"confirmed": "5",
@@ -1601,7 +1521,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Bhojpur",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "2",
@@ -1621,7 +1540,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Buxar",
 			"active": "24",
 			"activeyesterday": "24",
 			"confirmed": "25",
@@ -1641,7 +1559,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Darbhanga",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1661,7 +1578,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "East Champaran",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "5",
@@ -1681,7 +1597,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Gaya",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "6",
@@ -1701,7 +1616,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Gopalganj",
 			"active": "9",
 			"activeyesterday": "9",
 			"confirmed": "12",
@@ -1721,7 +1635,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Jamui",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1741,7 +1654,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Jehanabad",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -1761,7 +1673,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Kaimur",
 			"active": "14",
 			"activeyesterday": "14",
 			"confirmed": "14",
@@ -1781,7 +1692,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Katihar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1801,7 +1711,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Khagaria",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1821,7 +1730,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Kishanganj",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1841,7 +1749,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Lakhisarai",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -1861,7 +1768,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Madhepura",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -1881,7 +1787,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Madhubani",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1901,7 +1806,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Munger",
 			"active": "56",
 			"activeyesterday": "56",
 			"confirmed": "68",
@@ -1921,7 +1825,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Muzaffarpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -1941,7 +1844,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Nalanda",
 			"active": "28",
 			"activeyesterday": "28",
 			"confirmed": "34",
@@ -1961,7 +1863,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Nawada",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "3",
@@ -1981,7 +1882,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Patna",
 			"active": "28",
 			"activeyesterday": "28",
 			"confirmed": "33",
@@ -2001,7 +1901,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Purnia",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2021,7 +1920,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Rohtas",
 			"active": "15",
 			"activeyesterday": "15",
 			"confirmed": "15",
@@ -2041,7 +1939,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Saharsa",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2061,7 +1958,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Samastipur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2081,7 +1977,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Saran",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "3",
@@ -2101,7 +1996,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Sheikhpura",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2121,7 +2015,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Sheohar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2141,7 +2034,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Sitamarhi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2161,7 +2053,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Siwan",
 			"active": "12",
 			"activeyesterday": "12",
 			"confirmed": "30",
@@ -2181,7 +2072,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Supaul",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2201,7 +2091,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Vaishali",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "2",
@@ -2221,7 +2110,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "West Champaran",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2241,7 +2129,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Chandigarh",
 			"active": "19",
 			"activeyesterday": "19",
 			"confirmed": "36",
@@ -2261,7 +2148,6 @@
 			"statecode": "CH"
 		},
 		{
-			"_chk2m": "Balod",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2281,7 +2167,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Baloda Bazar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2301,7 +2186,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Balrampur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2321,7 +2205,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Bametara",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2341,7 +2224,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Bastar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2361,7 +2243,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Bijapur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2381,7 +2262,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Bilaspur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -2401,7 +2281,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Dakshin Bastar Dantewada",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2421,7 +2300,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Dhamtari",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2441,7 +2319,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Durg",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -2461,7 +2338,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Gariaband",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2481,7 +2357,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Janjgir Champa",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2501,7 +2376,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Jashpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2521,7 +2395,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Kabeerdham",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2541,7 +2414,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Kondagaon",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2561,7 +2433,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Korba",
 			"active": "4",
 			"activeyesterday": "4",
 			"confirmed": "28",
@@ -2581,7 +2452,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Koriya",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2601,7 +2471,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Mahasamund",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2621,7 +2490,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Mungeli",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2641,7 +2509,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Narayanpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2661,7 +2528,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Raigad",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -2681,7 +2547,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Raipur",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "6",
@@ -2701,7 +2566,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Rajnandgaon",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -2721,7 +2585,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Sukma",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2741,7 +2604,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Surajpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2761,7 +2623,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Surguja",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2781,7 +2642,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Uttar Bastar Kanker",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2801,7 +2661,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Dadra and Nagar Haveli",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2821,7 +2680,6 @@
 			"statecode": "DN"
 		},
 		{
-			"_chk2m": "Daman",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2841,7 +2699,6 @@
 			"statecode": "DD"
 		},
 		{
-			"_chk2m": "Diu",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -2861,7 +2718,6 @@
 			"statecode": "DD"
 		},
 		{
-			"_chk2m": "Central Delhi",
 			"active": "184",
 			"activeyesterday": "184",
 			"confirmed": "184",
@@ -2881,7 +2737,6 @@
 			"statecode": "DL"
 		},
 		{
-			"_chk2m": "East Delhi",
 			"active": "38",
 			"activeyesterday": "38",
 			"confirmed": "38",
@@ -2901,7 +2756,6 @@
 			"statecode": "DL"
 		},
 		{
-			"_chk2m": "New Delhi",
 			"active": "37",
 			"activeyesterday": "37",
 			"confirmed": "37",
@@ -2921,7 +2775,6 @@
 			"statecode": "DL"
 		},
 		{
-			"_chk2m": "North Delhi",
 			"active": "60",
 			"activeyesterday": "60",
 			"confirmed": "60",
@@ -2941,7 +2794,6 @@
 			"statecode": "DL"
 		},
 		{
-			"_chk2m": "North East Delhi",
 			"active": "25",
 			"activeyesterday": "25",
 			"confirmed": "25",
@@ -2961,7 +2813,6 @@
 			"statecode": "DL"
 		},
 		{
-			"_chk2m": "North West Delhi",
 			"active": "32",
 			"activeyesterday": "32",
 			"confirmed": "32",
@@ -2981,7 +2832,6 @@
 			"statecode": "DL"
 		},
 		{
-			"_chk2m": "Shahdara",
 			"active": "48",
 			"activeyesterday": "48",
 			"confirmed": "48",
@@ -3001,7 +2851,6 @@
 			"statecode": "DL"
 		},
 		{
-			"_chk2m": "South Delhi",
 			"active": "70",
 			"activeyesterday": "70",
 			"confirmed": "70",
@@ -3021,7 +2870,6 @@
 			"statecode": "DL"
 		},
 		{
-			"_chk2m": "South East Delhi",
 			"active": "130",
 			"activeyesterday": "130",
 			"confirmed": "130",
@@ -3041,7 +2889,6 @@
 			"statecode": "DL"
 		},
 		{
-			"_chk2m": "South West Delhi",
 			"active": "42",
 			"activeyesterday": "42",
 			"confirmed": "42",
@@ -3061,7 +2908,6 @@
 			"statecode": "DL"
 		},
 		{
-			"_chk2m": "West Delhi",
 			"active": "122",
 			"activeyesterday": "122",
 			"confirmed": "122",
@@ -3081,7 +2927,6 @@
 			"statecode": "DL"
 		},
 		{
-			"_chk2m": "North Goa",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "6",
@@ -3101,7 +2946,6 @@
 			"statecode": "GA"
 		},
 		{
-			"_chk2m": "South Goa",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -3121,7 +2965,6 @@
 			"statecode": "GA"
 		},
 		{
-			"_chk2m": "Ahmedabad",
 			"active": "1937",
 			"activeyesterday": "1937",
 			"confirmed": "2181",
@@ -3141,7 +2984,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Amreli",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -3161,7 +3003,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Anand",
 			"active": "32",
 			"activeyesterday": "32",
 			"confirmed": "49",
@@ -3181,7 +3022,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Aravalli",
 			"active": "17",
 			"activeyesterday": "17",
 			"confirmed": "18",
@@ -3201,7 +3041,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Banaskantha",
 			"active": "27",
 			"activeyesterday": "27",
 			"confirmed": "28",
@@ -3221,7 +3060,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Bharuch",
 			"active": "13",
 			"activeyesterday": "13",
 			"confirmed": "29",
@@ -3241,7 +3079,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Bhavnagar",
 			"active": "17",
 			"activeyesterday": "17",
 			"confirmed": "40",
@@ -3261,7 +3098,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Botad",
 			"active": "11",
 			"activeyesterday": "11",
 			"confirmed": "12",
@@ -3281,7 +3117,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Chhota Udaipur",
 			"active": "10",
 			"activeyesterday": "10",
 			"confirmed": "13",
@@ -3301,7 +3136,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Devbhumi Dwarka",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -3321,7 +3155,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Dahod",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "4",
@@ -3341,7 +3174,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Gandhinagar",
 			"active": "11",
 			"activeyesterday": "11",
 			"confirmed": "25",
@@ -3361,7 +3193,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Gir Somnath",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "3",
@@ -3381,7 +3212,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Jamnagar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -3401,7 +3231,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Junagadh",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -3421,7 +3250,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Kutch",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "6",
@@ -3441,7 +3269,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Kheda",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "6",
@@ -3461,7 +3288,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Mehsana",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "7",
@@ -3481,7 +3307,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Mahisagar",
 			"active": "10",
 			"activeyesterday": "10",
 			"confirmed": "10",
@@ -3501,7 +3326,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Morbi",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -3521,7 +3345,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Narmada",
 			"active": "12",
 			"activeyesterday": "12",
 			"confirmed": "12",
@@ -3541,7 +3364,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Navsari",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "3",
@@ -3561,7 +3383,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Panchmahal",
 			"active": "15",
 			"activeyesterday": "15",
 			"confirmed": "17",
@@ -3581,7 +3402,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Patan",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "17",
@@ -3601,7 +3421,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Porbandar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "3",
@@ -3621,7 +3440,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Rajkot",
 			"active": "31",
 			"activeyesterday": "31",
 			"confirmed": "45",
@@ -3641,7 +3459,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Sabarkantha",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "3",
@@ -3661,7 +3478,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Surat",
 			"active": "495",
 			"activeyesterday": "495",
 			"confirmed": "526",
@@ -3681,7 +3497,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Surendranagar",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -3701,7 +3516,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Tapi",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -3721,7 +3535,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Dang",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -3741,7 +3554,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Vadodara",
 			"active": "166",
 			"activeyesterday": "166",
 			"confirmed": "234",
@@ -3761,7 +3573,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Valsad",
 			"active": "4",
 			"activeyesterday": "4",
 			"confirmed": "5",
@@ -3781,7 +3592,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Ambala",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "13",
@@ -3801,7 +3611,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Bhiwani",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "3",
@@ -3821,7 +3630,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Charkhi Dadri",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -3841,7 +3649,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Faridabad",
 			"active": "16",
 			"activeyesterday": "16",
 			"confirmed": "45",
@@ -3861,7 +3668,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Fatehabad",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -3881,7 +3687,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Gurugram",
 			"active": "16",
 			"activeyesterday": "16",
 			"confirmed": "51",
@@ -3901,7 +3706,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Hisar",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "4",
@@ -3921,7 +3725,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Jhajjar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -3941,7 +3744,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Jind",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "2",
@@ -3961,7 +3763,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Kaithal",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "2",
@@ -3981,7 +3782,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Karnal",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "6",
@@ -4001,7 +3801,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Kurukshetra",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "2",
@@ -4021,7 +3820,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Mahendragarh",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -4041,7 +3839,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Nuh",
 			"active": "18",
 			"activeyesterday": "18",
 			"confirmed": "57",
@@ -4061,7 +3858,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Palwal",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "34",
@@ -4081,7 +3877,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Panchkula",
 			"active": "8",
 			"activeyesterday": "8",
 			"confirmed": "18",
@@ -4101,7 +3896,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Panipat",
 			"active": "7",
 			"activeyesterday": "7",
 			"confirmed": "12",
@@ -4121,7 +3915,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Rewari",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -4141,7 +3934,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Rohtak",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "4",
@@ -4161,7 +3953,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Sirsa",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "4",
@@ -4181,7 +3972,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Sonipat",
 			"active": "16",
 			"activeyesterday": "16",
 			"confirmed": "20",
@@ -4201,7 +3991,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Yamunanagar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "3",
@@ -4221,7 +4010,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Other State",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "14",
@@ -4241,7 +4029,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Bilaspur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -4261,7 +4048,6 @@
 			"statecode": "HP"
 		},
 		{
-			"_chk2m": "Chamba",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "6",
@@ -4281,7 +4067,6 @@
 			"statecode": "HP"
 		},
 		{
-			"_chk2m": "Hamirpur",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "2",
@@ -4301,7 +4086,6 @@
 			"statecode": "HP"
 		},
 		{
-			"_chk2m": "Kangra",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "5",
@@ -4321,7 +4105,6 @@
 			"statecode": "HP"
 		},
 		{
-			"_chk2m": "Kinnaur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -4341,7 +4124,6 @@
 			"statecode": "HP"
 		},
 		{
-			"_chk2m": "Kullu",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -4361,7 +4143,6 @@
 			"statecode": "HP"
 		},
 		{
-			"_chk2m": "Lahul and Spiti",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -4381,7 +4162,6 @@
 			"statecode": "HP"
 		},
 		{
-			"_chk2m": "Mandi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -4401,7 +4181,6 @@
 			"statecode": "HP"
 		},
 		{
-			"_chk2m": "Shimla",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -4421,7 +4200,6 @@
 			"statecode": "HP"
 		},
 		{
-			"_chk2m": "Sirmaur",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "2",
@@ -4441,7 +4219,6 @@
 			"statecode": "HP"
 		},
 		{
-			"_chk2m": "Solan",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "9",
@@ -4461,7 +4238,6 @@
 			"statecode": "HP"
 		},
 		{
-			"_chk2m": "Una",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "16",
@@ -4481,7 +4257,6 @@
 			"statecode": "HP"
 		},
 		{
-			"_chk2m": "Anantnag",
 			"active": "48",
 			"activeyesterday": "48",
 			"confirmed": "48",
@@ -4501,7 +4276,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Badgam",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "14",
@@ -4521,7 +4295,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Bandipore",
 			"active": "100",
 			"activeyesterday": "100",
 			"confirmed": "124",
@@ -4541,7 +4314,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Baramula",
 			"active": "42",
 			"activeyesterday": "42",
 			"confirmed": "62",
@@ -4561,7 +4333,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Doda",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -4581,7 +4352,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Ganderbal",
 			"active": "12",
 			"activeyesterday": "12",
 			"confirmed": "14",
@@ -4601,7 +4371,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Jammu",
 			"active": "12",
 			"activeyesterday": "12",
 			"confirmed": "26",
@@ -4621,7 +4390,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Kathua",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -4641,7 +4409,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Kishtwar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -4661,7 +4428,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Kulgam",
 			"active": "6",
 			"activeyesterday": "6",
 			"confirmed": "6",
@@ -4681,7 +4447,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Kupwara",
 			"active": "39",
 			"activeyesterday": "39",
 			"confirmed": "47",
@@ -4701,7 +4466,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Mirpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -4721,7 +4485,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Muzaffarabad",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -4741,7 +4504,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Pulwama",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "3",
@@ -4761,7 +4523,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Punch",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -4781,7 +4542,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Rajouri",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "4",
@@ -4801,7 +4561,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Ramban",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -4821,7 +4580,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Reasi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -4841,7 +4599,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Samba",
 			"active": "4",
 			"activeyesterday": "4",
 			"confirmed": "4",
@@ -4861,7 +4618,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Shupiyan",
 			"active": "52",
 			"activeyesterday": "52",
 			"confirmed": "63",
@@ -4881,7 +4637,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Srinagar",
 			"active": "47",
 			"activeyesterday": "47",
 			"confirmed": "85",
@@ -4901,7 +4656,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Udhampur",
 			"active": "10",
 			"activeyesterday": "10",
 			"confirmed": "20",
@@ -4921,7 +4675,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Bokaro",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "10",
@@ -4941,7 +4694,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Chatra",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -4961,7 +4713,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Deoghar",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "2",
@@ -4981,7 +4732,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Dhanbad",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "2",
@@ -5001,7 +4751,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Dumka",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5021,7 +4770,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Garhwa",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "3",
@@ -5041,7 +4789,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Giridih",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -5061,7 +4808,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Godda",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5081,7 +4827,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Gumla",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5101,7 +4846,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Hazaribagh",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "3",
@@ -5121,7 +4865,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Jamtara",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5141,7 +4884,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Khunti",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5161,7 +4903,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Koderma",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -5181,7 +4922,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Latehar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5201,7 +4941,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Lohardaga",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5221,7 +4960,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Pakur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5241,7 +4979,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Palamu",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "3",
@@ -5261,7 +4998,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "West Singhbhum",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5281,7 +5017,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Purbi Singhbhum",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5301,7 +5036,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Ramgarh",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5321,7 +5055,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Ranchi",
 			"active": "47",
 			"activeyesterday": "47",
 			"confirmed": "55",
@@ -5341,7 +5074,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Sahibganj",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5361,7 +5093,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Saraikela-Kharsawan",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5381,7 +5112,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Simdega",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "2",
@@ -5401,7 +5131,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Bagalkote",
 			"active": "17",
 			"activeyesterday": "17",
 			"confirmed": "24",
@@ -5421,7 +5150,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Ballari",
 			"active": "8",
 			"activeyesterday": "8",
 			"confirmed": "13",
@@ -5441,7 +5169,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Belagavi",
 			"active": "47",
 			"activeyesterday": "47",
 			"confirmed": "54",
@@ -5461,7 +5188,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Bengaluru Urban",
 			"active": "71",
 			"activeyesterday": "71",
 			"confirmed": "133",
@@ -5481,7 +5207,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Bengaluru Rural",
 			"active": "4",
 			"activeyesterday": "4",
 			"confirmed": "12",
@@ -5501,7 +5226,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Bidar",
 			"active": "6",
 			"activeyesterday": "6",
 			"confirmed": "15",
@@ -5521,7 +5245,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Chamarajanagara",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5541,7 +5264,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Chikkaballapura",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "18",
@@ -5561,7 +5283,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Chikkamagaluru",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5581,7 +5302,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Chitradurga",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -5601,7 +5321,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Dakshina Kannada",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "18",
@@ -5621,7 +5340,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Davanagere",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "2",
@@ -5641,7 +5359,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Dharwad",
 			"active": "7",
 			"activeyesterday": "7",
 			"confirmed": "9",
@@ -5661,7 +5378,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Gadag",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "4",
@@ -5681,7 +5397,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Hassan",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5701,7 +5416,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Haveri",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5721,7 +5435,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Kalaburagi",
 			"active": "27",
 			"activeyesterday": "27",
 			"confirmed": "38",
@@ -5741,7 +5454,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Kodagu",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -5761,7 +5473,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Kolar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5781,7 +5492,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Koppal",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5801,7 +5511,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Mandya",
 			"active": "12",
 			"activeyesterday": "12",
 			"confirmed": "16",
@@ -5821,7 +5530,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Mysuru",
 			"active": "51",
 			"activeyesterday": "51",
 			"confirmed": "89",
@@ -5841,7 +5549,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Raichur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5861,7 +5568,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Ramanagara",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5881,7 +5587,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Shivamogga",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -5901,7 +5606,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Tumakuru",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "3",
@@ -5921,7 +5625,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Udupi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "3",
@@ -5941,7 +5644,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Uttara Kannada",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "11",
@@ -5961,7 +5663,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Vijayapura",
 			"active": "37",
 			"activeyesterday": "37",
 			"confirmed": "39",
@@ -5981,7 +5682,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Yadgir",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -6001,7 +5701,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Alappuzha",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "5",
@@ -6021,7 +5720,6 @@
 			"statecode": "KL"
 		},
 		{
-			"_chk2m": "Ernakulam",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "24",
@@ -6041,7 +5739,6 @@
 			"statecode": "KL"
 		},
 		{
-			"_chk2m": "Idukki",
 			"active": "10",
 			"activeyesterday": "10",
 			"confirmed": "20",
@@ -6061,7 +5758,6 @@
 			"statecode": "KL"
 		},
 		{
-			"_chk2m": "Kannur",
 			"active": "54",
 			"activeyesterday": "54",
 			"confirmed": "111",
@@ -6081,7 +5777,6 @@
 			"statecode": "KL"
 		},
 		{
-			"_chk2m": "Kasaragod",
 			"active": "15",
 			"activeyesterday": "15",
 			"confirmed": "175",
@@ -6101,7 +5796,6 @@
 			"statecode": "KL"
 		},
 		{
-			"_chk2m": "Kollam",
 			"active": "6",
 			"activeyesterday": "6",
 			"confirmed": "14",
@@ -6121,7 +5815,6 @@
 			"statecode": "KL"
 		},
 		{
-			"_chk2m": "Kottayam",
 			"active": "11",
 			"activeyesterday": "11",
 			"confirmed": "14",
@@ -6141,7 +5834,6 @@
 			"statecode": "KL"
 		},
 		{
-			"_chk2m": "Kozhikode",
 			"active": "7",
 			"activeyesterday": "9",
 			"confirmed": "24",
@@ -6161,7 +5853,6 @@
 			"statecode": "KL"
 		},
 		{
-			"_chk2m": "Malappuram",
 			"active": "6",
 			"activeyesterday": "6",
 			"confirmed": "22",
@@ -6181,7 +5872,6 @@
 			"statecode": "KL"
 		},
 		{
-			"_chk2m": "Palakkad",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "12",
@@ -6201,7 +5891,6 @@
 			"statecode": "KL"
 		},
 		{
-			"_chk2m": "Pathanamthitta",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "17",
@@ -6221,7 +5910,6 @@
 			"statecode": "KL"
 		},
 		{
-			"_chk2m": "Thiruvananthapuram",
 			"active": "3",
 			"activeyesterday": "1",
 			"confirmed": "15",
@@ -6241,7 +5929,6 @@
 			"statecode": "KL"
 		},
 		{
-			"_chk2m": "Thrissur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "13",
@@ -6261,7 +5948,6 @@
 			"statecode": "KL"
 		},
 		{
-			"_chk2m": "Wayanad",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "3",
@@ -6281,7 +5967,6 @@
 			"statecode": "KL"
 		},
 		{
-			"_chk2m": "Kargil",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "5",
@@ -6301,7 +5986,6 @@
 			"statecode": "LA"
 		},
 		{
-			"_chk2m": "Leh",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "15",
@@ -6321,7 +6005,6 @@
 			"statecode": "LA"
 		},
 		{
-			"_chk2m": "Lakshadweep",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -6341,7 +6024,6 @@
 			"statecode": "LD"
 		},
 		{
-			"_chk2m": "Agar Malwa",
 			"active": "10",
 			"activeyesterday": "10",
 			"confirmed": "11",
@@ -6361,7 +6043,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Alirajpur",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "3",
@@ -6381,7 +6062,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Anuppur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -6401,7 +6081,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Ashoknagar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -6421,7 +6100,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Balaghat",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -6441,7 +6119,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Barwani",
 			"active": "17",
 			"activeyesterday": "17",
 			"confirmed": "24",
@@ -6461,7 +6138,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Betul",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -6481,7 +6157,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Bhind",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -6501,7 +6176,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Bhopal",
 			"active": "302",
 			"activeyesterday": "302",
 			"confirmed": "415",
@@ -6521,7 +6195,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Burhanpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -6541,7 +6214,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Chhatarpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -6561,7 +6233,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Chhindwara",
 			"active": "4",
 			"activeyesterday": "4",
 			"confirmed": "5",
@@ -6581,7 +6252,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Damoh",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -6601,7 +6271,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Datia",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -6621,7 +6290,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Dewas",
 			"active": "13",
 			"activeyesterday": "13",
 			"confirmed": "23",
@@ -6641,7 +6309,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Dhar",
 			"active": "35",
 			"activeyesterday": "35",
 			"confirmed": "36",
@@ -6661,7 +6328,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Dindori",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -6681,7 +6347,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Guna",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -6701,7 +6366,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Gwalior",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "4",
@@ -6721,7 +6385,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Harda",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -6741,7 +6404,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Hoshangabad",
 			"active": "21",
 			"activeyesterday": "21",
 			"confirmed": "32",
@@ -6761,7 +6423,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Indore",
 			"active": "1012",
 			"activeyesterday": "1012",
 			"confirmed": "1176",
@@ -6781,7 +6442,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Jabalpur",
 			"active": "51",
 			"activeyesterday": "51",
 			"confirmed": "59",
@@ -6801,7 +6461,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Jhabua",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -6821,7 +6480,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Katni",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -6841,7 +6499,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Khandwa",
 			"active": "23",
 			"activeyesterday": "23",
 			"confirmed": "36",
@@ -6861,7 +6518,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Khargone",
 			"active": "43",
 			"activeyesterday": "43",
 			"confirmed": "61",
@@ -6881,7 +6537,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Mandla",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -6901,7 +6556,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Mandsaur",
 			"active": "8",
 			"activeyesterday": "8",
 			"confirmed": "9",
@@ -6921,7 +6575,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Morena",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "13",
@@ -6941,7 +6594,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Narsinghpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -6961,7 +6613,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Neemuch",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -6981,7 +6632,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Niwari",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -7001,7 +6651,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Panna",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -7021,7 +6670,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Raisen",
 			"active": "27",
 			"activeyesterday": "27",
 			"confirmed": "28",
@@ -7041,7 +6689,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Rajgarh",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -7061,7 +6708,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Ratlam",
 			"active": "13",
 			"activeyesterday": "13",
 			"confirmed": "13",
@@ -7081,7 +6727,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Rewa",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -7101,7 +6746,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Sagar",
 			"active": "4",
 			"activeyesterday": "4",
 			"confirmed": "5",
@@ -7121,7 +6765,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Satna",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -7141,7 +6784,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Sehore",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -7161,7 +6803,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Seoni",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -7181,7 +6822,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Shahdol",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -7201,7 +6841,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Shajapur",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "6",
@@ -7221,7 +6860,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Sheopur",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "4",
@@ -7241,7 +6879,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Shivpuri",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "2",
@@ -7261,7 +6898,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Sidhi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -7281,7 +6917,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Singrauli",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -7301,7 +6936,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Tikamgarh",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "2",
@@ -7321,7 +6955,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Ujjain",
 			"active": "84",
 			"activeyesterday": "84",
 			"confirmed": "106",
@@ -7341,7 +6974,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Umaria",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -7361,7 +6993,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Vidisha",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "13",
@@ -7381,7 +7012,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Other State",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "2",
@@ -7401,7 +7031,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Ahmednagar",
 			"active": "12",
 			"activeyesterday": "12",
 			"confirmed": "36",
@@ -7421,7 +7050,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Akola",
 			"active": "21",
 			"activeyesterday": "21",
 			"confirmed": "29",
@@ -7441,7 +7069,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Amravati",
 			"active": "15",
 			"activeyesterday": "15",
 			"confirmed": "20",
@@ -7461,7 +7088,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Aurangabad",
 			"active": "23",
 			"activeyesterday": "23",
 			"confirmed": "50",
@@ -7481,7 +7107,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Bhandara",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -7501,7 +7126,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Beed",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -7521,7 +7145,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Buldhana",
 			"active": "6",
 			"activeyesterday": "6",
 			"confirmed": "21",
@@ -7541,7 +7164,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Chandrapur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "2",
@@ -7561,7 +7183,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Dhule",
 			"active": "22",
 			"activeyesterday": "22",
 			"confirmed": "25",
@@ -7581,7 +7202,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Gadchiroli",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -7601,7 +7221,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Gondia",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -7621,7 +7240,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Hingoli",
 			"active": "7",
 			"activeyesterday": "7",
 			"confirmed": "8",
@@ -7641,7 +7259,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Jalgaon",
 			"active": "14",
 			"activeyesterday": "14",
 			"confirmed": "19",
@@ -7661,7 +7278,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Jalna",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "2",
@@ -7681,7 +7297,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Kolhapur",
 			"active": "7",
 			"activeyesterday": "7",
 			"confirmed": "10",
@@ -7701,7 +7316,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Latur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "9",
@@ -7721,7 +7335,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Mumbai",
 			"active": "4652",
 			"activeyesterday": "4652",
 			"confirmed": "5407",
@@ -7741,7 +7354,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Mumbai Suburban",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -7761,7 +7373,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Nagpur",
 			"active": "86",
 			"activeyesterday": "86",
 			"confirmed": "107",
@@ -7781,7 +7392,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Nanded",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -7801,7 +7411,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Nandurbar",
 			"active": "10",
 			"activeyesterday": "10",
 			"confirmed": "11",
@@ -7821,7 +7430,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Nashik",
 			"active": "117",
 			"activeyesterday": "117",
 			"confirmed": "131",
@@ -7841,7 +7449,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Osmanabad",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "3",
@@ -7861,7 +7468,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Palghar",
 			"active": "111",
 			"activeyesterday": "111",
 			"confirmed": "141",
@@ -7881,7 +7487,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Parbhani",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -7901,7 +7506,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Pune",
 			"active": "770",
 			"activeyesterday": "770",
 			"confirmed": "1052",
@@ -7921,7 +7525,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Raigad",
 			"active": "38",
 			"activeyesterday": "38",
 			"confirmed": "57",
@@ -7941,7 +7544,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Ratnagiri",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "8",
@@ -7961,7 +7563,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Sangli",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "27",
@@ -7981,7 +7582,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Satara",
 			"active": "24",
 			"activeyesterday": "24",
 			"confirmed": "29",
@@ -8001,7 +7601,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Sindhudurg",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -8021,7 +7620,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Solapur",
 			"active": "42",
 			"activeyesterday": "42",
 			"confirmed": "47",
@@ -8041,7 +7639,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Thane",
 			"active": "605",
 			"activeyesterday": "605",
 			"confirmed": "738",
@@ -8061,7 +7658,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Wardha",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8081,7 +7677,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Washim",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -8101,7 +7696,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Yavatmal",
 			"active": "38",
 			"activeyesterday": "38",
 			"confirmed": "48",
@@ -8121,7 +7715,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Other State",
 			"active": "23",
 			"activeyesterday": "23",
 			"confirmed": "25",
@@ -8141,7 +7734,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Bishnupur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8161,7 +7753,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "Chandel",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8181,7 +7772,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "Churachandpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8201,7 +7791,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "Imphal East",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -8221,7 +7810,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "Imphal West",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -8241,7 +7829,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "Jiribam",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8261,7 +7848,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "Kakching",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8281,7 +7867,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "Kamjong",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8301,7 +7886,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "Kangpokpi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8321,7 +7905,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "Noney",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8341,7 +7924,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "Pherzawl",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8361,7 +7943,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "Senapati",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8381,7 +7962,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "Tamenglong",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8401,7 +7981,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "Tengnoupal",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8421,7 +8000,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "Thoubal",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8441,7 +8019,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "Ukhrul",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8461,7 +8038,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "East Garo Hills",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8481,7 +8057,6 @@
 			"statecode": "ML"
 		},
 		{
-			"_chk2m": "East Jaintia Hills",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8501,7 +8076,6 @@
 			"statecode": "ML"
 		},
 		{
-			"_chk2m": "East Khasi Hills",
 			"active": "10",
 			"activeyesterday": "7",
 			"confirmed": "11",
@@ -8521,7 +8095,6 @@
 			"statecode": "ML"
 		},
 		{
-			"_chk2m": "North Garo Hills",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8541,7 +8114,6 @@
 			"statecode": "ML"
 		},
 		{
-			"_chk2m": "Ribhoi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8561,7 +8133,6 @@
 			"statecode": "ML"
 		},
 		{
-			"_chk2m": "South Garo Hills",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8581,7 +8152,6 @@
 			"statecode": "ML"
 		},
 		{
-			"_chk2m": "South West Garo Hills",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8601,7 +8171,6 @@
 			"statecode": "ML"
 		},
 		{
-			"_chk2m": "South West Khasi Hills",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8621,7 +8190,6 @@
 			"statecode": "ML"
 		},
 		{
-			"_chk2m": "West Garo Hills",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8641,7 +8209,6 @@
 			"statecode": "ML"
 		},
 		{
-			"_chk2m": "West Jaintia Hills",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8661,7 +8228,6 @@
 			"statecode": "ML"
 		},
 		{
-			"_chk2m": "West Khasi Hills",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8681,7 +8247,6 @@
 			"statecode": "ML"
 		},
 		{
-			"_chk2m": "Aizawl",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -8701,7 +8266,6 @@
 			"statecode": "MZ"
 		},
 		{
-			"_chk2m": "Champhai",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8721,7 +8285,6 @@
 			"statecode": "MZ"
 		},
 		{
-			"_chk2m": "Kolasib",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8741,7 +8304,6 @@
 			"statecode": "MZ"
 		},
 		{
-			"_chk2m": "Lawngtlai",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8761,7 +8323,6 @@
 			"statecode": "MZ"
 		},
 		{
-			"_chk2m": "Lunglei",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8781,7 +8342,6 @@
 			"statecode": "MZ"
 		},
 		{
-			"_chk2m": "Mamit",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8801,7 +8361,6 @@
 			"statecode": "MZ"
 		},
 		{
-			"_chk2m": "Saiha",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8821,7 +8380,6 @@
 			"statecode": "MZ"
 		},
 		{
-			"_chk2m": "Serchhip",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8898,7 +8456,6 @@
 			"statecode": "MZ"
 		},
 		{
-			"_chk2m": "Dimapur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8918,7 +8475,6 @@
 			"statecode": "NL"
 		},
 		{
-			"_chk2m": "Kiphire",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8938,7 +8494,6 @@
 			"statecode": "NL"
 		},
 		{
-			"_chk2m": "Kohima",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8958,7 +8513,6 @@
 			"statecode": "NL"
 		},
 		{
-			"_chk2m": "Longleng",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8978,7 +8532,6 @@
 			"statecode": "NL"
 		},
 		{
-			"_chk2m": "Mokokchung",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -8998,7 +8551,6 @@
 			"statecode": "NL"
 		},
 		{
-			"_chk2m": "Mon",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9018,7 +8570,6 @@
 			"statecode": "NL"
 		},
 		{
-			"_chk2m": "Peren",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9038,7 +8589,6 @@
 			"statecode": "NL"
 		},
 		{
-			"_chk2m": "Phek",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9058,7 +8608,6 @@
 			"statecode": "NL"
 		},
 		{
-			"_chk2m": "Tuensang",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9078,7 +8627,6 @@
 			"statecode": "NL"
 		},
 		{
-			"_chk2m": "Wokha",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9098,7 +8646,6 @@
 			"statecode": "NL"
 		},
 		{
-			"_chk2m": "Zunheboto",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9118,7 +8665,6 @@
 			"statecode": "NL"
 		},
 		{
-			"_chk2m": "Angul",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9138,7 +8684,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Balangir",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9158,7 +8703,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Balasore",
 			"active": "10",
 			"activeyesterday": "10",
 			"confirmed": "10",
@@ -9178,7 +8722,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Bargarh",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9198,7 +8741,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Boudh",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9218,7 +8760,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Bhadrak",
 			"active": "14",
 			"activeyesterday": "14",
 			"confirmed": "16",
@@ -9238,7 +8779,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Cuttack",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -9258,7 +8798,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Deogarh",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9278,7 +8817,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Dhenkanal",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -9298,7 +8836,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Gajapati",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9318,7 +8855,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Ganjam",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9338,7 +8874,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Jagatsinghpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9358,7 +8893,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Jajpur",
 			"active": "17",
 			"activeyesterday": "17",
 			"confirmed": "18",
@@ -9378,7 +8912,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Jharsuguda",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9398,7 +8931,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Kalahandi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "2",
@@ -9418,7 +8950,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Kandhamal",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9438,7 +8969,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Kendrapara",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "2",
@@ -9458,7 +8988,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Kendujhar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9478,7 +9007,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Khordha",
 			"active": "22",
 			"activeyesterday": "22",
 			"confirmed": "46",
@@ -9498,7 +9026,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Koraput",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9518,7 +9045,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Malkangiri",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9538,7 +9064,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Mayurbhanj",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9558,7 +9083,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Nabarangapur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9578,7 +9102,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Nayagarh",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9598,7 +9121,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Nuapada",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9618,7 +9140,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Puri",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -9638,7 +9159,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Rayagada",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9658,7 +9178,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Sambalpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9678,7 +9197,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Subarnapur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9698,7 +9216,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Sundargarh",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "6",
@@ -9718,7 +9235,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Karaikal",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9738,7 +9254,6 @@
 			"statecode": "PY"
 		},
 		{
-			"_chk2m": "Mahe",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -9758,7 +9273,6 @@
 			"statecode": "PY"
 		},
 		{
-			"_chk2m": "Puducherry",
 			"active": "7",
 			"activeyesterday": "7",
 			"confirmed": "7",
@@ -9778,7 +9292,6 @@
 			"statecode": "PY"
 		},
 		{
-			"_chk2m": "Yanam",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9798,7 +9311,6 @@
 			"statecode": "PY"
 		},
 		{
-			"_chk2m": "Amritsar",
 			"active": "11",
 			"activeyesterday": "11",
 			"confirmed": "14",
@@ -9818,7 +9330,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Barnala",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "2",
@@ -9838,7 +9349,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Bathinda",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9858,7 +9368,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Faridkot",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "3",
@@ -9878,7 +9387,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Fatehgarh Sahib",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "2",
@@ -9898,7 +9406,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Fazilka",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -9918,7 +9425,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Firozpur",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -9938,7 +9444,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Gurdaspur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -9958,7 +9463,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Hoshiarpur",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "7",
@@ -9978,7 +9482,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Jalandhar",
 			"active": "68",
 			"activeyesterday": "68",
 			"confirmed": "78",
@@ -9998,7 +9501,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Kapurthala",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "3",
@@ -10018,7 +9520,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Ludhiana",
 			"active": "10",
 			"activeyesterday": "8",
 			"confirmed": "18",
@@ -10038,7 +9539,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Mansa",
 			"active": "10",
 			"activeyesterday": "10",
 			"confirmed": "13",
@@ -10058,7 +9558,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Moga",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "4",
@@ -10078,7 +9577,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Pathankot",
 			"active": "15",
 			"activeyesterday": "15",
 			"confirmed": "25",
@@ -10098,7 +9596,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Patiala",
 			"active": "60",
 			"activeyesterday": "60",
 			"confirmed": "61",
@@ -10118,7 +9615,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Rupnagar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "3",
@@ -10138,7 +9634,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "S.A.S. Nagar",
 			"active": "39",
 			"activeyesterday": "39",
 			"confirmed": "63",
@@ -10158,7 +9653,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Sangrur",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "3",
@@ -10178,7 +9672,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Shahid Bhagat Singh Nagar",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "20",
@@ -10198,7 +9691,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Sri Muktsar Sahib",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -10218,7 +9710,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Tarn Taran",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -10238,7 +9729,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Ajmer",
 			"active": "118",
 			"activeyesterday": "118",
 			"confirmed": "123",
@@ -10258,7 +9748,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Alwar",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "7",
@@ -10278,7 +9767,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Banswara",
 			"active": "41",
 			"activeyesterday": "41",
 			"confirmed": "62",
@@ -10298,7 +9786,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Baran",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -10318,7 +9805,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Barmer",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "2",
@@ -10338,7 +9824,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Bharatpur",
 			"active": "104",
 			"activeyesterday": "104",
 			"confirmed": "110",
@@ -10358,7 +9843,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Bhilwara",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "33",
@@ -10378,7 +9862,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Bikaner",
 			"active": "4",
 			"activeyesterday": "4",
 			"confirmed": "37",
@@ -10398,7 +9881,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Bundi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -10418,7 +9900,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Chittorgarh",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -10438,7 +9919,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Churu",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "14",
@@ -10458,7 +9938,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Dausa",
 			"active": "14",
 			"activeyesterday": "14",
 			"confirmed": "21",
@@ -10478,7 +9957,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Dholpur",
 			"active": "4",
 			"activeyesterday": "4",
 			"confirmed": "5",
@@ -10498,7 +9976,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Dungarpur",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "6",
@@ -10518,7 +9995,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Ganganagar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -10538,7 +10014,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Hanumangarh",
 			"active": "9",
 			"activeyesterday": "9",
 			"confirmed": "11",
@@ -10558,7 +10033,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Jaipur",
 			"active": "565",
 			"activeyesterday": "565",
 			"confirmed": "808",
@@ -10578,7 +10052,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Jaisalmer",
 			"active": "8",
 			"activeyesterday": "8",
 			"confirmed": "34",
@@ -10598,7 +10071,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Jalore",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -10618,7 +10090,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Jhalawar",
 			"active": "14",
 			"activeyesterday": "14",
 			"confirmed": "30",
@@ -10638,7 +10109,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Jhunjhunu",
 			"active": "10",
 			"activeyesterday": "10",
 			"confirmed": "42",
@@ -10658,7 +10128,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Jodhpur",
 			"active": "309",
 			"activeyesterday": "309",
 			"confirmed": "364",
@@ -10678,7 +10147,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Karauli",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "3",
@@ -10698,7 +10166,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Kota",
 			"active": "74",
 			"activeyesterday": "74",
 			"confirmed": "158",
@@ -10718,7 +10185,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Nagaur",
 			"active": "105",
 			"activeyesterday": "105",
 			"confirmed": "113",
@@ -10738,7 +10204,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Pali",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "2",
@@ -10758,7 +10223,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Pratapgarh",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "2",
@@ -10778,7 +10242,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Rajsamand",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -10798,7 +10261,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Sawai Madhopur",
 			"active": "8",
 			"activeyesterday": "8",
 			"confirmed": "8",
@@ -10818,7 +10280,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Sikar",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "5",
@@ -10838,7 +10299,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Sirohi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -10858,7 +10318,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Tonk",
 			"active": "82",
 			"activeyesterday": "82",
 			"confirmed": "115",
@@ -10878,7 +10337,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Udaipur",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "5",
@@ -10898,7 +10356,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Other State",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "2",
@@ -10918,7 +10375,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Other State",
 			"active": "36",
 			"activeyesterday": "36",
 			"confirmed": "61",
@@ -10938,7 +10394,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Other State",
 			"active": "-2",
 			"activeyesterday": "",
 			"confirmed": "2",
@@ -10958,7 +10413,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "East District",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -10978,7 +10432,6 @@
 			"statecode": "SK"
 		},
 		{
-			"_chk2m": "North District",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -10998,7 +10451,6 @@
 			"statecode": "SK"
 		},
 		{
-			"_chk2m": "South District",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -11018,7 +10470,6 @@
 			"statecode": "SK"
 		},
 		{
-			"_chk2m": "West District",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -11038,7 +10489,6 @@
 			"statecode": "SK"
 		},
 		{
-			"_chk2m": "Ariyalur",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "5",
@@ -11058,7 +10508,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Chengalpattu",
 			"active": "55",
 			"activeyesterday": "55",
 			"confirmed": "55",
@@ -11078,7 +10527,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Chennai",
 			"active": "429",
 			"activeyesterday": "429",
 			"confirmed": "528",
@@ -11098,7 +10546,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Coimbatore",
 			"active": "66",
 			"activeyesterday": "66",
 			"confirmed": "141",
@@ -11118,7 +10565,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Cuddalore",
 			"active": "26",
 			"activeyesterday": "26",
 			"confirmed": "26",
@@ -11138,7 +10584,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Dharmapuri",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -11158,7 +10603,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Dindigul",
 			"active": "80",
 			"activeyesterday": "80",
 			"confirmed": "80",
@@ -11178,7 +10622,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Erode",
 			"active": "70",
 			"activeyesterday": "70",
 			"confirmed": "70",
@@ -11198,7 +10641,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Kallakurichi",
 			"active": "6",
 			"activeyesterday": "6",
 			"confirmed": "6",
@@ -11218,7 +10660,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Kancheepuram",
 			"active": "18",
 			"activeyesterday": "18",
 			"confirmed": "18",
@@ -11238,7 +10679,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Kanyakumari",
 			"active": "16",
 			"activeyesterday": "16",
 			"confirmed": "16",
@@ -11258,7 +10698,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Karur",
 			"active": "41",
 			"activeyesterday": "41",
 			"confirmed": "41",
@@ -11278,7 +10717,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Krishnagiri",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -11298,7 +10736,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Madurai",
 			"active": "47",
 			"activeyesterday": "47",
 			"confirmed": "75",
@@ -11318,7 +10755,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Nagapattinam",
 			"active": "44",
 			"activeyesterday": "44",
 			"confirmed": "44",
@@ -11338,7 +10774,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Namakkal",
 			"active": "59",
 			"activeyesterday": "59",
 			"confirmed": "59",
@@ -11358,7 +10793,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Perambalur",
 			"active": "7",
 			"activeyesterday": "7",
 			"confirmed": "7",
@@ -11378,7 +10812,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Pudukkottai",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -11398,7 +10831,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Ramanathapuram",
 			"active": "15",
 			"activeyesterday": "15",
 			"confirmed": "15",
@@ -11418,7 +10850,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Ranipet",
 			"active": "38",
 			"activeyesterday": "38",
 			"confirmed": "38",
@@ -11438,7 +10869,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Salem",
 			"active": "21",
 			"activeyesterday": "21",
 			"confirmed": "31",
@@ -11458,7 +10888,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Sivaganga",
 			"active": "6",
 			"activeyesterday": "6",
 			"confirmed": "12",
@@ -11478,7 +10907,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Tenkasi",
 			"active": "35",
 			"activeyesterday": "35",
 			"confirmed": "35",
@@ -11498,7 +10926,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Thanjavur",
 			"active": "53",
 			"activeyesterday": "53",
 			"confirmed": "54",
@@ -11518,7 +10945,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "The Nilgiris",
 			"active": "9",
 			"activeyesterday": "9",
 			"confirmed": "9",
@@ -11538,7 +10964,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Theni",
 			"active": "26",
 			"activeyesterday": "26",
 			"confirmed": "44",
@@ -11558,7 +10983,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Thiruvallur",
 			"active": "54",
 			"activeyesterday": "54",
 			"confirmed": "54",
@@ -11578,7 +11002,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Thiruvarur",
 			"active": "14",
 			"activeyesterday": "14",
 			"confirmed": "30",
@@ -11598,7 +11021,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Thoothukkudi",
 			"active": "20",
 			"activeyesterday": "20",
 			"confirmed": "27",
@@ -11618,7 +11040,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Tiruchirappalli",
 			"active": "18",
 			"activeyesterday": "18",
 			"confirmed": "51",
@@ -11638,7 +11059,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Tirunelveli",
 			"active": "35",
 			"activeyesterday": "35",
 			"confirmed": "65",
@@ -11658,7 +11078,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Tirupathur",
 			"active": "18",
 			"activeyesterday": "18",
 			"confirmed": "18",
@@ -11678,7 +11097,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Tiruppur",
 			"active": "112",
 			"activeyesterday": "112",
 			"confirmed": "112",
@@ -11698,7 +11116,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Tiruvannamalai",
 			"active": "11",
 			"activeyesterday": "11",
 			"confirmed": "11",
@@ -11718,7 +11135,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Vellore",
 			"active": "23",
 			"activeyesterday": "23",
 			"confirmed": "23",
@@ -11738,7 +11154,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Viluppuram",
 			"active": "33",
 			"activeyesterday": "33",
 			"confirmed": "51",
@@ -11758,7 +11173,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Virudhunagar",
 			"active": "32",
 			"activeyesterday": "32",
 			"confirmed": "32",
@@ -11778,7 +11192,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Adilabad",
 			"active": "16",
 			"activeyesterday": "16",
 			"confirmed": "16",
@@ -11798,7 +11211,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Bhadradri Kothagudem",
 			"active": "4",
 			"activeyesterday": "4",
 			"confirmed": "4",
@@ -11818,7 +11230,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Hyderabad",
 			"active": "543",
 			"activeyesterday": "543",
 			"confirmed": "543",
@@ -11838,7 +11249,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Jagtial",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "3",
@@ -11858,7 +11268,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Jangoan",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "3",
@@ -11878,7 +11287,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Jayashankar Bhupalapally",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "3",
@@ -11898,7 +11306,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Jogulamba Gadwal",
 			"active": "38",
 			"activeyesterday": "38",
 			"confirmed": "38",
@@ -11918,7 +11325,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Kamareddy",
 			"active": "11",
 			"activeyesterday": "11",
 			"confirmed": "11",
@@ -11938,7 +11344,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Karimnagar",
 			"active": "19",
 			"activeyesterday": "19",
 			"confirmed": "19",
@@ -11958,7 +11363,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Khammam",
 			"active": "7",
 			"activeyesterday": "7",
 			"confirmed": "7",
@@ -11978,7 +11382,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Komaram Bheem",
 			"active": "4",
 			"activeyesterday": "4",
 			"confirmed": "4",
@@ -11998,7 +11401,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Mahabubabad",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -12018,7 +11420,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Mahabubnagar",
 			"active": "11",
 			"activeyesterday": "11",
 			"confirmed": "11",
@@ -12038,7 +11439,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Mancherial",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -12058,7 +11458,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Medak",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "5",
@@ -12078,7 +11477,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Medchal Malkajgiri",
 			"active": "8",
 			"activeyesterday": "8",
 			"confirmed": "8",
@@ -12098,7 +11496,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Mulugu",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "2",
@@ -12118,7 +11515,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Nagarkurnool",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "2",
@@ -12138,7 +11534,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Nalgonda",
 			"active": "15",
 			"activeyesterday": "15",
 			"confirmed": "15",
@@ -12158,7 +11553,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Narayanpet",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -12178,7 +11572,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Nirmal",
 			"active": "17",
 			"activeyesterday": "17",
 			"confirmed": "17",
@@ -12198,7 +11591,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Nizamabad",
 			"active": "59",
 			"activeyesterday": "59",
 			"confirmed": "59",
@@ -12218,7 +11610,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Peddapalli",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "2",
@@ -12238,7 +11629,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Rajanna Sircilla",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "3",
@@ -12258,7 +11648,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Ranga Reddy",
 			"active": "26",
 			"activeyesterday": "26",
 			"confirmed": "26",
@@ -12278,7 +11667,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Sangareddy",
 			"active": "7",
 			"activeyesterday": "7",
 			"confirmed": "7",
@@ -12298,7 +11686,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Siddipet",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -12318,7 +11705,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Suryapet",
 			"active": "46",
 			"activeyesterday": "46",
 			"confirmed": "46",
@@ -12338,7 +11724,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Vikarabad",
 			"active": "37",
 			"activeyesterday": "37",
 			"confirmed": "37",
@@ -12358,7 +11743,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Wanaparthy",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -12378,7 +11762,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Warangal Rural",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -12398,7 +11781,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Warangal Urban",
 			"active": "22",
 			"activeyesterday": "22",
 			"confirmed": "22",
@@ -12418,7 +11800,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Yadadri Bhuvanagiri",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -12438,7 +11819,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Dhalai",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -12458,7 +11838,6 @@
 			"statecode": "TR"
 		},
 		{
-			"_chk2m": "Gomati",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -12478,7 +11857,6 @@
 			"statecode": "TR"
 		},
 		{
-			"_chk2m": "Khowai",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -12498,7 +11876,6 @@
 			"statecode": "TR"
 		},
 		{
-			"_chk2m": "North Tripura",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -12518,7 +11895,6 @@
 			"statecode": "TR"
 		},
 		{
-			"_chk2m": "Sipahijala",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -12538,7 +11914,6 @@
 			"statecode": "TR"
 		},
 		{
-			"_chk2m": "South Tripura",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -12558,7 +11933,6 @@
 			"statecode": "TR"
 		},
 		{
-			"_chk2m": "Unokoti",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -12578,7 +11952,6 @@
 			"statecode": "TR"
 		},
 		{
-			"_chk2m": "West Tripura",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -12598,7 +11971,6 @@
 			"statecode": "TR"
 		},
 		{
-			"_chk2m": "Agra",
 			"active": "313",
 			"activeyesterday": "313",
 			"confirmed": "372",
@@ -12618,7 +11990,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Aligarh",
 			"active": "12",
 			"activeyesterday": "12",
 			"confirmed": "13",
@@ -12638,7 +12009,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Ambedkar Nagar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -12658,7 +12028,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Amethi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -12678,7 +12047,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Amroha",
 			"active": "25",
 			"activeyesterday": "25",
 			"confirmed": "25",
@@ -12698,7 +12066,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Auraiya",
 			"active": "10",
 			"activeyesterday": "10",
 			"confirmed": "10",
@@ -12718,7 +12085,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Azamgarh",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "8",
@@ -12738,7 +12104,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Baghpat",
 			"active": "14",
 			"activeyesterday": "14",
 			"confirmed": "15",
@@ -12758,7 +12123,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Bahraich",
 			"active": "9",
 			"activeyesterday": "9",
 			"confirmed": "9",
@@ -12778,7 +12142,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Ballia",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -12798,7 +12161,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Balrampur",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -12818,7 +12180,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Banda",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "3",
@@ -12838,7 +12199,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Barabanki",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -12858,7 +12218,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Bareilly",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "6",
@@ -12878,7 +12237,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Basti",
 			"active": "17",
 			"activeyesterday": "17",
 			"confirmed": "23",
@@ -12898,7 +12256,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Bhadohi",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -12918,7 +12275,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Bijnor",
 			"active": "29",
 			"activeyesterday": "29",
 			"confirmed": "29",
@@ -12938,7 +12294,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Budaun",
 			"active": "13",
 			"activeyesterday": "13",
 			"confirmed": "14",
@@ -12958,7 +12313,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Bulandshahr",
 			"active": "32",
 			"activeyesterday": "32",
 			"confirmed": "38",
@@ -12978,7 +12332,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Chandauli",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -12998,7 +12351,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Chitrakoot",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -13018,7 +12370,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Deoria",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -13038,7 +12389,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Etah",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "3",
@@ -13058,7 +12408,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Etawah",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "2",
@@ -13078,7 +12427,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Farrukhabad",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -13098,7 +12446,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Fatehpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -13118,7 +12465,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Firozabad",
 			"active": "79",
 			"activeyesterday": "79",
 			"confirmed": "83",
@@ -13138,7 +12484,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Gautam Buddha Nagar",
 			"active": "46",
 			"activeyesterday": "46",
 			"confirmed": "117",
@@ -13158,7 +12503,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Ghaziabad",
 			"active": "42",
 			"activeyesterday": "42",
 			"confirmed": "58",
@@ -13178,7 +12522,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Ghazipur",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "6",
@@ -13198,7 +12541,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Gonda",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -13218,7 +12560,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Gorakhpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -13238,7 +12579,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Hamirpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -13258,7 +12598,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Hapur",
 			"active": "25",
 			"activeyesterday": "25",
 			"confirmed": "25",
@@ -13278,7 +12617,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Hardoi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "2",
@@ -13298,7 +12636,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Hathras",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "4",
@@ -13318,7 +12655,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Jalaun",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -13338,7 +12674,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Jaunpur",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "5",
@@ -13358,7 +12693,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Jhansi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -13378,7 +12712,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Kannauj",
 			"active": "7",
 			"activeyesterday": "7",
 			"confirmed": "7",
@@ -13398,7 +12731,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Kanpur Dehat",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -13418,7 +12750,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Kanpur Nagar",
 			"active": "160",
 			"activeyesterday": "160",
 			"confirmed": "170",
@@ -13438,7 +12769,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Kasganj",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "3",
@@ -13458,7 +12788,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Kaushambi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "2",
@@ -13478,7 +12807,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Lakhimpur Kheri",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "4",
@@ -13498,7 +12826,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Kushinagar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -13518,7 +12845,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Lalitpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -13538,7 +12864,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Lucknow",
 			"active": "163",
 			"activeyesterday": "163",
 			"confirmed": "194",
@@ -13558,7 +12883,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Mahoba",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -13578,7 +12902,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Maharajganj",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "6",
@@ -13598,7 +12921,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Mainpuri",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "5",
@@ -13618,7 +12940,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Mathura",
 			"active": "10",
 			"activeyesterday": "10",
 			"confirmed": "10",
@@ -13638,7 +12959,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Mau",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -13658,7 +12978,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Meerut",
 			"active": "48",
 			"activeyesterday": "48",
 			"confirmed": "89",
@@ -13678,7 +12997,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Mirzapur",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "3",
@@ -13698,7 +13016,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Moradabad",
 			"active": "94",
 			"activeyesterday": "94",
 			"confirmed": "101",
@@ -13718,7 +13035,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Muzaffarnagar",
 			"active": "15",
 			"activeyesterday": "15",
 			"confirmed": "18",
@@ -13738,7 +13054,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Pilibhit",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "2",
@@ -13758,7 +13073,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Pratapgarh",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "6",
@@ -13778,7 +13092,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Prayagraj",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "4",
@@ -13798,7 +13111,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Rae Bareli",
 			"active": "43",
 			"activeyesterday": "43",
 			"confirmed": "43",
@@ -13818,7 +13130,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Rampur",
 			"active": "16",
 			"activeyesterday": "16",
 			"confirmed": "20",
@@ -13838,7 +13149,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Saharanpur",
 			"active": "171",
 			"activeyesterday": "171",
 			"confirmed": "181",
@@ -13858,7 +13168,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Sambhal",
 			"active": "13",
 			"activeyesterday": "13",
 			"confirmed": "13",
@@ -13878,7 +13187,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Sant Kabir Nagar",
 			"active": "21",
 			"activeyesterday": "21",
 			"confirmed": "21",
@@ -13898,7 +13206,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Shahjahanpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -13918,7 +13225,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Shamli",
 			"active": "9",
 			"activeyesterday": "9",
 			"confirmed": "27",
@@ -13938,7 +13244,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Shrawasti",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "5",
@@ -13958,7 +13263,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Siddharthnagar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -13978,7 +13282,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Sitapur",
 			"active": "8",
 			"activeyesterday": "8",
 			"confirmed": "20",
@@ -13998,7 +13301,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Sonbhadra",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14018,7 +13320,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Sultanpur",
 			"active": "3",
 			"activeyesterday": "3",
 			"confirmed": "3",
@@ -14038,7 +13339,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Unnao",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -14058,7 +13358,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Varanasi",
 			"active": "28",
 			"activeyesterday": "28",
 			"confirmed": "37",
@@ -14078,7 +13377,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Ayodhya",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -14098,7 +13396,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Almora",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -14118,7 +13415,6 @@
 			"statecode": "UT"
 		},
 		{
-			"_chk2m": "Bageshwar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14138,7 +13434,6 @@
 			"statecode": "UT"
 		},
 		{
-			"_chk2m": "Chamoli",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14158,7 +13453,6 @@
 			"statecode": "UT"
 		},
 		{
-			"_chk2m": "Champawat",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14178,7 +13472,6 @@
 			"statecode": "UT"
 		},
 		{
-			"_chk2m": "Dehradun",
 			"active": "14",
 			"activeyesterday": "14",
 			"confirmed": "25",
@@ -14198,7 +13491,6 @@
 			"statecode": "UT"
 		},
 		{
-			"_chk2m": "Haridwar",
 			"active": "7",
 			"activeyesterday": "7",
 			"confirmed": "7",
@@ -14218,7 +13510,6 @@
 			"statecode": "UT"
 		},
 		{
-			"_chk2m": "Nainital",
 			"active": "4",
 			"activeyesterday": "4",
 			"confirmed": "10",
@@ -14238,7 +13529,6 @@
 			"statecode": "UT"
 		},
 		{
-			"_chk2m": "Pauri Garhwal",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "1",
@@ -14258,7 +13548,6 @@
 			"statecode": "UT"
 		},
 		{
-			"_chk2m": "Pithoragarh",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14278,7 +13567,6 @@
 			"statecode": "UT"
 		},
 		{
-			"_chk2m": "Rudraprayag",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14298,7 +13586,6 @@
 			"statecode": "UT"
 		},
 		{
-			"_chk2m": "Tehri Garhwal",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14318,7 +13605,6 @@
 			"statecode": "UT"
 		},
 		{
-			"_chk2m": "Udham Singh Nagar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "4",
@@ -14338,7 +13624,6 @@
 			"statecode": "UT"
 		},
 		{
-			"_chk2m": "Uttarkashi",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14358,7 +13643,6 @@
 			"statecode": "UT"
 		},
 		{
-			"_chk2m": "Alipurduar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14378,7 +13662,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Bankura",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14398,7 +13681,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Birbhum",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14418,7 +13700,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Cooch Behar",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14438,7 +13719,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Dakshin Dinajpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14458,7 +13738,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Darjeeling",
 			"active": "4",
 			"activeyesterday": "4",
 			"confirmed": "4",
@@ -14478,7 +13757,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Hooghly",
 			"active": "12",
 			"activeyesterday": "12",
 			"confirmed": "12",
@@ -14498,7 +13776,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Howrah",
 			"active": "79",
 			"activeyesterday": "79",
 			"confirmed": "79",
@@ -14518,7 +13795,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Jalpaiguri",
 			"active": "5",
 			"activeyesterday": "5",
 			"confirmed": "5",
@@ -14538,7 +13814,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Jhargram",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14558,7 +13833,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Kalimpong",
 			"active": "7",
 			"activeyesterday": "7",
 			"confirmed": "7",
@@ -14578,7 +13852,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Kolkata",
 			"active": "184",
 			"activeyesterday": "184",
 			"confirmed": "184",
@@ -14598,7 +13871,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Maldah",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14618,7 +13890,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Purba Medinipur",
 			"active": "22",
 			"activeyesterday": "22",
 			"confirmed": "22",
@@ -14638,7 +13909,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Paschim Medinipur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14658,7 +13928,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Murshidabad",
 			"active": "2",
 			"activeyesterday": "2",
 			"confirmed": "2",
@@ -14678,7 +13947,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Nadia",
 			"active": "6",
 			"activeyesterday": "6",
 			"confirmed": "6",
@@ -14698,7 +13966,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "North 24 Parganas",
 			"active": "47",
 			"activeyesterday": "47",
 			"confirmed": "47",
@@ -14718,7 +13985,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Paschim Bardhaman",
 			"active": "7",
 			"activeyesterday": "7",
 			"confirmed": "7",
@@ -14738,7 +14004,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Purba Bardhaman",
 			"active": "1",
 			"activeyesterday": "1",
 			"confirmed": "1",
@@ -14758,7 +14023,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Purulia",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14778,7 +14042,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "South 24 Parganas",
 			"active": "12",
 			"activeyesterday": "12",
 			"confirmed": "12",
@@ -14798,7 +14061,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Uttar Dinajpur",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "",
@@ -14818,7 +14080,6 @@
 			"statecode": "WB"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -14838,7 +14099,6 @@
 			"statecode": "AN"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -14858,7 +14118,6 @@
 			"statecode": "AP"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -14878,7 +14137,6 @@
 			"statecode": "AR"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "-20",
 			"activeyesterday": "-20",
 			"confirmed": "1",
@@ -14898,7 +14156,6 @@
 			"statecode": "AS"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -14918,7 +14175,6 @@
 			"statecode": "BR"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -14938,7 +14194,6 @@
 			"statecode": "CH"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -14958,7 +14213,6 @@
 			"statecode": "CT"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -14978,7 +14232,6 @@
 			"statecode": "DN"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -14998,7 +14251,6 @@
 			"statecode": "DD"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "1199",
 			"activeyesterday": "1199",
 			"confirmed": "2130",
@@ -15018,7 +14270,6 @@
 			"statecode": "DL"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15038,7 +14289,6 @@
 			"statecode": "GA"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15058,7 +14308,6 @@
 			"statecode": "GJ"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15078,7 +14327,6 @@
 			"statecode": "HR"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15098,7 +14346,6 @@
 			"statecode": "HP"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15118,7 +14365,6 @@
 			"statecode": "JK"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15138,7 +14384,6 @@
 			"statecode": "JH"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15158,7 +14403,6 @@
 			"statecode": "KA"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15178,7 +14422,6 @@
 			"statecode": "KL"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15198,7 +14441,6 @@
 			"statecode": "LA"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15218,7 +14460,6 @@
 			"statecode": "LD"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15238,7 +14479,6 @@
 			"statecode": "MP"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "-112",
 			"activeyesterday": "-112",
 			"confirmed": "0",
@@ -15258,7 +14498,6 @@
 			"statecode": "MH"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15278,7 +14517,6 @@
 			"statecode": "MN"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "1",
 			"activeyesterday": "4",
 			"confirmed": "1",
@@ -15298,7 +14536,6 @@
 			"statecode": "ML"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15318,7 +14555,6 @@
 			"statecode": "MZ"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15338,7 +14574,6 @@
 			"statecode": "NL"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15358,7 +14593,6 @@
 			"statecode": "OR"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "-4",
 			"activeyesterday": "-4",
 			"confirmed": "0",
@@ -15378,7 +14612,6 @@
 			"statecode": "PY"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "2",
 			"confirmed": "0",
@@ -15398,7 +14631,6 @@
 			"statecode": "PB"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "-2",
 			"activeyesterday": "0",
 			"confirmed": "-2",
@@ -15418,7 +14650,6 @@
 			"statecode": "RJ"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15438,7 +14669,6 @@
 			"statecode": "SK"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "-703",
 			"activeyesterday": "-703",
 			"confirmed": "0",
@@ -15458,7 +14688,6 @@
 			"statecode": "TN"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "-255",
 			"activeyesterday": "-255",
 			"confirmed": "86",
@@ -15478,7 +14707,6 @@
 			"statecode": "TG"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15498,7 +14726,6 @@
 			"statecode": "TR"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
@@ -15518,7 +14745,6 @@
 			"statecode": "UP"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "3",
@@ -15538,7 +14764,6 @@
 			"statecode": "UT"
 		},
 		{
-			"_chk2m": "Unknown",
 			"active": "98",
 			"activeyesterday": "98",
 			"confirmed": "223",
