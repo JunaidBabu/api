@@ -149,7 +149,7 @@
           "recovered": 0
         }
       },
-      "Y.S.R.": {
+      "Y.S.R Kadapa": {
         "active": 30,
         "confirmed": 58,
         "deceased": 0,
@@ -302,7 +302,7 @@
           "recovered": 0
         }
       },
-      "South Salmara Mancachar": {
+      "South Salmara Mankachar": {
         "active": 0,
         "confirmed": 1,
         "deceased": 0,
@@ -313,7 +313,7 @@
           "recovered": 0
         }
       },
-      "Unknown": {
+      "Tenkasi": {
         "active": -20,
         "confirmed": 1,
         "deceased": 0,
@@ -450,7 +450,7 @@
           "recovered": 0
         }
       },
-      "Kaimur Bhabua": {
+      "Kaimur": {
         "active": 14,
         "confirmed": 14,
         "deceased": 0,
@@ -816,7 +816,7 @@
   },
   "Gujarat": {
     "districtData": {
-      "Ahmadabad": {
+      "Ahmedabad": {
         "active": 1937,
         "confirmed": 2181,
         "deceased": 104,
@@ -849,7 +849,7 @@
           "recovered": 0
         }
       },
-      "Banas Kantha": {
+      "Banaskantha": {
         "active": 27,
         "confirmed": 28,
         "deceased": 0,
@@ -893,7 +893,7 @@
           "recovered": 0
         }
       },
-      "Chota Udaipur": {
+      "Chhota Udepur": {
         "active": 10,
         "confirmed": 13,
         "deceased": 0,
@@ -948,7 +948,7 @@
           "recovered": 0
         }
       },
-      "Kachchh": {
+      "Kutch": {
         "active": 2,
         "confirmed": 6,
         "deceased": 1,
@@ -970,7 +970,7 @@
           "recovered": 0
         }
       },
-      "Mahesana": {
+      "Mehsana": {
         "active": 5,
         "confirmed": 7,
         "deceased": 0,
@@ -1025,7 +1025,7 @@
           "recovered": 0
         }
       },
-      "Panch Mahals": {
+      "Panchmahal": {
         "active": 15,
         "confirmed": 17,
         "deceased": 2,
@@ -1069,7 +1069,7 @@
           "recovered": 0
         }
       },
-      "Sabar Kantha": {
+      "Sabarkantha": {
         "active": 1,
         "confirmed": 3,
         "deceased": 0,
@@ -1173,7 +1173,7 @@
           "recovered": 0
         }
       },
-      "Charki Dadri": {
+      "Charkhi Dadri": {
         "active": 0,
         "confirmed": 1,
         "deceased": 0,
@@ -1360,7 +1360,7 @@
           "recovered": 0
         }
       },
-      "Italians": {
+      "Other State": {
         "active": 0,
         "confirmed": 14,
         "deceased": 0,
@@ -1705,7 +1705,7 @@
           "recovered": 0
         }
       },
-      "Kodarma": {
+      "Koderma": {
         "active": 1,
         "confirmed": 1,
         "deceased": 0,
@@ -1787,7 +1787,7 @@
           "recovered": 0
         }
       },
-      "Bengaluru": {
+      "Bengaluru Urban": {
         "active": 71,
         "confirmed": 133,
         "deceased": 5,
@@ -2451,7 +2451,7 @@
           "recovered": 0
         }
       },
-      "Other Region": {
+      "Other State": {
         "active": 2,
         "confirmed": 2,
         "deceased": 0,
@@ -2467,7 +2467,7 @@
   },
   "Maharashtra": {
     "districtData": {
-      "Ahmadnagar": {
+      "Ahmednagar": {
         "active": 12,
         "confirmed": 36,
         "deceased": 2,
@@ -2511,7 +2511,7 @@
           "recovered": 0
         }
       },
-      "Bid": {
+      "Beed": {
         "active": 0,
         "confirmed": 1,
         "deceased": 0,
@@ -2522,7 +2522,7 @@
           "recovered": 0
         }
       },
-      "Buldana": {
+      "Buldhana": {
         "active": 6,
         "confirmed": 21,
         "deceased": 1,
@@ -2555,7 +2555,7 @@
           "recovered": 0
         }
       },
-      "Gondiya": {
+      "Gondia": {
         "active": 0,
         "confirmed": 1,
         "deceased": 0,
@@ -2720,7 +2720,7 @@
           "recovered": 0
         }
       },
-      "Raigarh": {
+      "Raigad": {
         "active": 38,
         "confirmed": 57,
         "deceased": 1,
@@ -2819,7 +2819,7 @@
           "recovered": 0
         }
       },
-      "Other States": {
+      "Other State": {
         "active": 23,
         "confirmed": 25,
         "deceased": 2,
@@ -2905,7 +2905,7 @@
   },
   "Odisha": {
     "districtData": {
-      "Baleshwar": {
+      "Balasore": {
         "active": 10,
         "confirmed": 10,
         "deceased": 0,
@@ -2949,7 +2949,7 @@
           "recovered": 0
         }
       },
-      "Jajapur": {
+      "Jajpur": {
         "active": 17,
         "confirmed": 18,
         "deceased": 0,
@@ -3338,7 +3338,7 @@
           "recovered": 0
         }
       },
-      "Chittaurgarh": {
+      "Chittorgarh": {
         "active": 1,
         "confirmed": 1,
         "deceased": 0,
@@ -3371,7 +3371,7 @@
           "recovered": 0
         }
       },
-      "Dhaulpur": {
+      "Dholpur": {
         "active": 4,
         "confirmed": 5,
         "deceased": 0,
@@ -3569,29 +3569,7 @@
           "recovered": 0
         }
       },
-      "Italians": {
-        "active": 0,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 2,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Evacuees": {
-        "active": 36,
-        "confirmed": 61,
-        "deceased": 0,
-        "recovered": 25,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Others state": {
+      "Other State": {
         "active": -2,
         "confirmed": 2,
         "deceased": 2,
@@ -3728,7 +3706,7 @@
           "recovered": 0
         }
       },
-      "Kanniyakumari": {
+      "Kanyakumari": {
         "active": 16,
         "confirmed": 16,
         "deceased": 0,
@@ -4052,7 +4030,7 @@
           "recovered": 0
         }
       },
-      "Jagitial": {
+      "Jagtial": {
         "active": 3,
         "confirmed": 3,
         "deceased": 0,
@@ -4074,7 +4052,7 @@
           "recovered": 0
         }
       },
-      "Jayashankar": {
+      "Jayashankar Bhupalapally": {
         "active": 3,
         "confirmed": 3,
         "deceased": 0,
@@ -4129,7 +4107,7 @@
           "recovered": 0
         }
       },
-      "Kumuram Bheem Asifabad": {
+      "Komaram Bheem": {
         "active": 4,
         "confirmed": 4,
         "deceased": 0,
@@ -4469,7 +4447,7 @@
           "recovered": 0
         }
       },
-      "Bara Banki": {
+      "Barabanki": {
         "active": 0,
         "confirmed": 1,
         "deceased": 0,
@@ -4744,7 +4722,7 @@
           "recovered": 0
         }
       },
-      "Mahrajganj": {
+      "Maharajganj": {
         "active": 0,
         "confirmed": 6,
         "deceased": 0,
@@ -5161,7 +5139,7 @@
           "recovered": 0
         }
       },
-      "Medinipur East": {
+      "Purba Medinipur": {
         "active": 22,
         "confirmed": 22,
         "deceased": 0,
