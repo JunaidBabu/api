@@ -178,7 +178,7 @@ Patient Number,State Patient Number,Date Announced,Estimated Onset Date,Age Brac
 177,,19/03/2020,,24,F,Raipur,Raipur,Chhattisgarh,CT,Recovered,Travelled from UK,,India,Imported,19/03/2020,https://twitter.com/PTI_News/status/1240516523183071232,https://www.indiatoday.in/india/story/raipur-woman-battles-coronavirus-stigma-gets-tested-1663446-2020-04-05,,Travel History to UK
 178,,19/03/2020,,,M,Noida,Gautam Buddha Nagar,Uttar Pradesh,UP,Hospitalized,Travelled from Japan. HCL Emp,,India,Imported,19/03/2020,https://twitter.com/ANINewsUP/status/1240526916517388288,,,"HCL Emp, Returned from International trip"
 179,,19/03/2020,,,,Lucknow,Lucknow,Uttar Pradesh,UP,Hospitalized,Travelled from UK,,India,Imported,19/03/2020,https://twitter.com/ANINewsUP/status/1240536879742644224,https://www.livemint.com/news/india/coronavirus-update-two-more-cases-reported-in-lucknow-11584602501673.html,,Travel history to UK
-180,,19/03/2020,,,,Lakhimpur kheri,Kheri,Uttar Pradesh,UP,Hospitalized,Travelled from Turkey,,India,Imported,19/03/2020,https://twitter.com/ANINewsUP/status/1240536879742644224,https://www.livemint.com/news/india/coronavirus-update-two-more-cases-reported-in-lucknow-11584602501673.html,,Travel history to Turkey
+180,,19/03/2020,,,,Lakhimpur Kheri,Lakhimpur Kheri,Uttar Pradesh,UP,Hospitalized,Travelled from Turkey,,India,Imported,19/03/2020,https://twitter.com/ANINewsUP/status/1240536879742644224,https://www.livemint.com/news/india/coronavirus-update-two-more-cases-reported-in-lucknow-11584602501673.html,,Travel history to Turkey
 181,TN-P3,19/03/2020,,21,M,Chennai,Chennai,Tamil Nadu,TN,Recovered,"Travelled from Dublin, Ireland on 17/3",,India,Imported,28/03/2020,https://twitter.com/vijayabaskarofl/status/1240587219791839238?s=21,https://twitter.com/Vijayabaskarofl/status/1243603053682573314?s=19,,"Returned from Dublin, Ireland on 17/3"
 182,PJ-P2,19/03/2020,,70,M,Banga,Shahid Bhagat Singh Nagar,Punjab,PB,Deceased,Travelled from Germany via Italy,,India,Imported,19/03/2020,https://www.indiatoday.in/india/story/coronavirus-news-live-updates-india-italy-america-confirmed-cases-china-wuhan-1657218-2020-03-19#60067,https://www.latestly.com/india/news/baldev-singh-who-died-due-to-covid-19-in-punjab-met-hundreds-district-admin-locks-down-village-1621476.html,https://punjabupdate.com/media-bulletin-21-03-2020-covid-19-punjab-total-number-of-positive-cases-rise-to-13.html,Arrived from Germany via Italy
 183,KL-KS-P3,19/03/2020,,47,M,Eriyal,Kasaragod,Kerala,KL,Hospitalized,Travelled from Dubai via Kozhikode Air India Express IX 344,,India,Imported,19/03/2020,https://twitter.com/PTI_News/status/1240635321198370816?s=09,https://www.facebook.com/CollectorKKD/posts/2593786640858100,,Arrived from Dubai via Kozhikode
@@ -3727,7 +3727,7 @@ Patient Number,State Patient Number,Date Announced,Estimated Onset Date,Age Brac
 3717,,05/04/2020,,75,F,,Ahmedabad,Gujarat,GJ,Hospitalized,Local Transmission,,India,Local,05/04/2020,https://gujcovid19.gujarat.gov.in/,https://gujcovid19.gujarat.gov.in/uploads/05-pressbrief0504052020111759895.pdf,,
 3718,,05/04/2020,,34,F,,Bhavnagar,Gujarat,GJ,Hospitalized,Local Transmission,,India,Local,05/04/2020,https://gujcovid19.gujarat.gov.in/,https://gujcovid19.gujarat.gov.in/uploads/05-pressbrief0504052020111759895.pdf,,
 3719,,05/04/2020,,26,M,,Bhavnagar,Gujarat,GJ,Hospitalized,Local Transmission,,India,Local,05/04/2020,https://gujcovid19.gujarat.gov.in/,https://gujcovid19.gujarat.gov.in/uploads/05-pressbrief0504052020111759895.pdf,,
-3720,,05/04/2020,,60,M,,Chhota Udepur,Gujarat,GJ,Hospitalized,Travelled to Delhi,E0,,Local,05/04/2020,https://gujcovid19.gujarat.gov.in/,https://gujcovid19.gujarat.gov.in/uploads/05-pressbrief0504052020111759895.pdf,,
+3720,,05/04/2020,,60,M,,Chhota Udaipur,Gujarat,GJ,Hospitalized,Travelled to Delhi,E0,,Local,05/04/2020,https://gujcovid19.gujarat.gov.in/,https://gujcovid19.gujarat.gov.in/uploads/05-pressbrief0504052020111759895.pdf,,
 3721,,05/04/2020,,54,M,,Vadodara,Gujarat,GJ,Hospitalized,Local Transmission,,India,Local,05/04/2020,https://gujcovid19.gujarat.gov.in/,https://gujcovid19.gujarat.gov.in/uploads/05-pressbrief0504052020111759895.pdf,,
 3722,,05/04/2020,,40,F,,Surat,Gujarat,GJ,Hospitalized,Local Transmission,,India,Local,05/04/2020,https://gujcovid19.gujarat.gov.in/,https://gujcovid19.gujarat.gov.in/uploads/05-pressbrief0504052020111759895.pdf,,
 3723,,05/04/2020,,34,M,,Surat,Gujarat,GJ,Hospitalized,Local Transmission,,India,Local,05/04/2020,https://gujcovid19.gujarat.gov.in/,https://gujcovid19.gujarat.gov.in/uploads/05-pressbrief0504052020111759895.pdf,,
@@ -4139,9 +4139,9 @@ Patient Number,State Patient Number,Date Announced,Estimated Onset Date,Age Brac
 4139,,05/04/2020,,,,,Ghaziabad,Uttar Pradesh,UP,Hospitalized,Details Awaited,,,,05/04/2020,UP State bulletin,,,
 4140,,05/04/2020,,,,,Ghaziabad,Uttar Pradesh,UP,Hospitalized,Details Awaited,,,,05/04/2020,UP State bulletin,,,
 4141,,05/04/2020,,,,,Ghaziabad,Uttar Pradesh,UP,Hospitalized,Details Awaited,,,,05/04/2020,UP State bulletin,,,
-4142,,05/04/2020,,,,,Kheri,Uttar Pradesh,UP,Hospitalized,Details Awaited,,,,05/04/2020,UP State bulletin,,,
-4143,,05/04/2020,,,,,Kheri,Uttar Pradesh,UP,Hospitalized,Details Awaited,,,,05/04/2020,UP State bulletin,,,
-4144,,05/04/2020,,,,,Kheri,Uttar Pradesh,UP,Hospitalized,Details Awaited,,,,05/04/2020,UP State bulletin,,,
+4142,,05/04/2020,,,,,Lakhimpur Kheri,Uttar Pradesh,UP,Hospitalized,Details Awaited,,,,05/04/2020,UP State bulletin,,,
+4143,,05/04/2020,,,,,Lakhimpur Kheri,Uttar Pradesh,UP,Hospitalized,Details Awaited,,,,05/04/2020,UP State bulletin,,,
+4144,,05/04/2020,,,,,Lakhimpur Kheri,Uttar Pradesh,UP,Hospitalized,Details Awaited,,,,05/04/2020,UP State bulletin,,,
 4145,,05/04/2020,,,,,Varanasi,Uttar Pradesh,UP,Hospitalized,Details Awaited,,,,05/04/2020,UP State bulletin,,,
 4146,,05/04/2020,,,,,Varanasi,Uttar Pradesh,UP,Deceased,Details Awaited,,,,05/04/2020,UP State bulletin,,,
 4147,,05/04/2020,,,,,Shamli,Uttar Pradesh,UP,Hospitalized,Travelled to Delhi,E0,,Local,05/04/2020,UP State bulletin,,,
@@ -6035,7 +6035,7 @@ Patient Number,State Patient Number,Date Announced,Estimated Onset Date,Age Brac
 6034,,09/04/2020,,,,,Ahmedabad,Gujarat,GJ,Hospitalized,Details awaited,,India,,09/04/2020,https://twitter.com/ANI/status/1248120599282700288,https://twitter.com/PIBAhmedabad/status/1248126735008370688,,
 6035,,09/04/2020,,,,,Surat,Gujarat,GJ,Hospitalized,Details awaited,,India,,09/04/2020,https://twitter.com/ANI/status/1248120599282700288,https://twitter.com/PIBAhmedabad/status/1248126735008370688,,
 6036,,09/04/2020,,,,,Vadodara,Gujarat,GJ,Hospitalized,Details awaited,,India,,09/04/2020,https://twitter.com/ANI/status/1248120599282700288,https://twitter.com/PIBAhmedabad/status/1248126735008370688,,
-6037,,09/04/2020,,,,,Chhota Udepur,Gujarat,GJ,Hospitalized,Details awaited,,India,,09/04/2020,https://twitter.com/ANI/status/1248120599282700288,https://twitter.com/PIBAhmedabad/status/1248126735008370688,,
+6037,,09/04/2020,,,,,Chhota Udaipur,Gujarat,GJ,Hospitalized,Details awaited,,India,,09/04/2020,https://twitter.com/ANI/status/1248120599282700288,https://twitter.com/PIBAhmedabad/status/1248126735008370688,,
 6038,,09/04/2020,,,,,Anand,Gujarat,GJ,Hospitalized,Details awaited,,India,,09/04/2020,https://twitter.com/ANI/status/1248120599282700288,https://twitter.com/PIBAhmedabad/status/1248126735008370688,,
 6039,,09/04/2020,,,,,Dahod,Gujarat,GJ,Hospitalized,Details awaited,,India,,09/04/2020,https://twitter.com/ANI/status/1248120599282700288,https://twitter.com/PIBAhmedabad/status/1248126735008370688,,
 6040,,09/04/2020,,15,M,,Begusarai,Bihar,BR,Hospitalized,Details awaited,,,,09/04/2020,https://twitter.com/sanjayjavin/status/1248124958183575556,,,
@@ -8061,7 +8061,7 @@ Patient Number,State Patient Number,Date Announced,Estimated Onset Date,Age Brac
 8060,,11/04/2020,,,M,,Vadodara,Gujarat,GJ,Hospitalized,Details awaited,,,,11/04/2020,https://twitter.com/PIBAhmedabad/status/1248984762225774595,,,
 8061,,11/04/2020,,,M,,Bharuch,Gujarat,GJ,Hospitalized,Details awaited,,,,11/04/2020,https://twitter.com/PIBAhmedabad/status/1248984762225774595,,,
 8062,,11/04/2020,,,M,,Gandhinagar,Gujarat,GJ,Hospitalized,Details awaited,,,,11/04/2020,https://twitter.com/PIBAhmedabad/status/1248984762225774595,,,
-8063,,11/04/2020,,,M,,Chhota Udepur,Gujarat,GJ,Hospitalized,Details awaited,,,,11/04/2020,https://twitter.com/PIBAhmedabad/status/1248984762225774595,,,
+8063,,11/04/2020,,,M,,Chhota Udaipur,Gujarat,GJ,Hospitalized,Details awaited,,,,11/04/2020,https://twitter.com/PIBAhmedabad/status/1248984762225774595,,,
 8064,,11/04/2020,,,,,,Delhi,DL,Hospitalized,Details awaited,,,,11/04/2020,https://twitter.com/CMODelhi/status/1248996095436308482,,,
 8065,,11/04/2020,,,,,,Delhi,DL,Hospitalized,Details awaited,,,,11/04/2020,https://twitter.com/CMODelhi/status/1248996095436308482,,,
 8066,,11/04/2020,,,,,,Delhi,DL,Hospitalized,Details awaited,,,,11/04/2020,https://twitter.com/CMODelhi/status/1248996095436308482,,,
@@ -10965,8 +10965,8 @@ Patient Number,State Patient Number,Date Announced,Estimated Onset Date,Age Brac
 10964,,14/04/2020,,,M,,Anand,Gujarat,GJ,Hospitalized,Details awaited,,,,14/04/2020,https://twitter.com/PIBAhmedabad/status/1250069127743537155?s=19,,,
 10965,,14/04/2020,,,M,,Bhavnagar,Gujarat,GJ,Hospitalized,Details awaited,,,,14/04/2020,https://twitter.com/PIBAhmedabad/status/1250069127743537155?s=19,,,
 10966,,14/04/2020,,,M,,Bhavnagar,Gujarat,GJ,Hospitalized,Details awaited,,,,14/04/2020,https://twitter.com/PIBAhmedabad/status/1250069127743537155?s=19,,,
-10967,,14/04/2020,,,M,,Chhota Udepur,Gujarat,GJ,Hospitalized,Details awaited,,,,14/04/2020,https://twitter.com/PIBAhmedabad/status/1250069127743537155?s=19,,,
-10968,,14/04/2020,,,F,,Chhota Udepur,Gujarat,GJ,Hospitalized,Details awaited,,,,14/04/2020,https://twitter.com/PIBAhmedabad/status/1250069127743537155?s=19,,,
+10967,,14/04/2020,,,M,,Chhota Udaipur,Gujarat,GJ,Hospitalized,Details awaited,,,,14/04/2020,https://twitter.com/PIBAhmedabad/status/1250069127743537155?s=19,,,
+10968,,14/04/2020,,,F,,Chhota Udaipur,Gujarat,GJ,Hospitalized,Details awaited,,,,14/04/2020,https://twitter.com/PIBAhmedabad/status/1250069127743537155?s=19,,,
 10969,,14/04/2020,,,F,,Vadodara,Gujarat,GJ,Hospitalized,Details awaited,,,,14/04/2020,https://twitter.com/PIBAhmedabad/status/1250069127743537155?s=19,,,
 10970,,14/04/2020,,,F,,Vadodara,Gujarat,GJ,Hospitalized,Details awaited,,,,14/04/2020,https://twitter.com/PIBAhmedabad/status/1250069127743537155?s=19,,,
 10971,,14/04/2020,,,F,,Vadodara,Gujarat,GJ,Hospitalized,Details awaited,,,,14/04/2020,https://twitter.com/PIBAhmedabad/status/1250069127743537155?s=19,,,
@@ -13549,7 +13549,7 @@ Patient Number,State Patient Number,Date Announced,Estimated Onset Date,Age Brac
 13548,,17/04/2020,,,F,,Bharuch,Gujarat,GJ,Hospitalized,Details awaited,,,,17/04/2020,https://twitter.com/PIBAhmedabad/status/1251027313967366144,,,
 13549,,17/04/2020,,,F,,Bharuch,Gujarat,GJ,Hospitalized,Details awaited,,,,17/04/2020,https://twitter.com/PIBAhmedabad/status/1251027313967366144,,,
 13550,,17/04/2020,,,F,,Bharuch,Gujarat,GJ,Hospitalized,Details awaited,,,,17/04/2020,https://twitter.com/PIBAhmedabad/status/1251027313967366144,,,
-13551,,17/04/2020,,,F,,Chhota Udepur,Gujarat,GJ,Hospitalized,Details awaited,,,,17/04/2020,https://twitter.com/PIBAhmedabad/status/1251027313967366144,,,
+13551,,17/04/2020,,,F,,Chhota Udaipur,Gujarat,GJ,Hospitalized,Details awaited,,,,17/04/2020,https://twitter.com/PIBAhmedabad/status/1251027313967366144,,,
 13552,,17/04/2020,,,F,,Vadodara,Gujarat,GJ,Hospitalized,Details awaited,,,,17/04/2020,https://twitter.com/PIBAhmedabad/status/1251027313967366144,,,
 13553,,17/04/2020,,,M,,Vadodara,Gujarat,GJ,Hospitalized,Details awaited,,,,17/04/2020,https://twitter.com/PIBAhmedabad/status/1251027313967366144,,,
 13554,,17/04/2020,,,M,,Mahisagar,Gujarat,GJ,Hospitalized,Details awaited,,,,17/04/2020,https://twitter.com/PIBAhmedabad/status/1251027313967366144,,,
@@ -15950,7 +15950,7 @@ Patient Number,State Patient Number,Date Announced,Estimated Onset Date,Age Brac
 15947,,19/04/2020,,,M,,Bhavnagar,Gujarat,GJ,Hospitalized,Details awaited,,,,19/04/2020,https://twitter.com/PIBAhmedabad/status/1251751634364960769,,,
 15948,,19/04/2020,,,F,,Bhavnagar,Gujarat,GJ,Hospitalized,Details awaited,,,,19/04/2020,https://twitter.com/PIBAhmedabad/status/1251751634364960769,,,
 15949,,19/04/2020,,,M,,Botad,Gujarat,GJ,Hospitalized,Details awaited,,,,19/04/2020,https://twitter.com/PIBAhmedabad/status/1251751634364960769,,,
-15950,,19/04/2020,,,M,,Chhota Udepur,Gujarat,GJ,Hospitalized,Details awaited,,,,19/04/2020,https://twitter.com/PIBAhmedabad/status/1251751634364960769,,,
+15950,,19/04/2020,,,M,,Chhota Udaipur,Gujarat,GJ,Hospitalized,Details awaited,,,,19/04/2020,https://twitter.com/PIBAhmedabad/status/1251751634364960769,,,
 15951,,19/04/2020,,,F,,Anand,Gujarat,GJ,Hospitalized,Details awaited,,,,19/04/2020,https://twitter.com/PIBAhmedabad/status/1251751634364960769,,,
 15952,,19/04/2020,,,M,,Banaskantha,Gujarat,GJ,Hospitalized,Details awaited,,,,19/04/2020,https://twitter.com/PIBAhmedabad/status/1251751634364960769,,,
 15953,,19/04/2020,,,F,,Banaskantha,Gujarat,GJ,Hospitalized,Details awaited,,,,19/04/2020,https://twitter.com/PIBAhmedabad/status/1251751634364960769,,,

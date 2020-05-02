@@ -313,7 +313,7 @@
           "recovered": 0
         }
       },
-      "Tenkasi": {
+      "Unknown": {
         "active": -20,
         "confirmed": 1,
         "deceased": 0,
@@ -893,7 +893,7 @@
           "recovered": 0
         }
       },
-      "Chhota Udepur": {
+      "Chhota Udaipur": {
         "active": 10,
         "confirmed": 13,
         "deceased": 0,
