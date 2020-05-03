@@ -137,6 +137,7 @@
 			"statecode": "KA"
 		},
 		{
+			"_clrrx": "Mumbai",
 			"agebracket": "85",
 			"city": "Mumbai",
 			"date": "29/03/2020",
@@ -154,6 +155,7 @@
 			"statecode": "MH"
 		},
 		{
+			"_clrrx": "Mumbai",
 			"agebracket": "80",
 			"city": "Mumbai",
 			"date": "29/03/2020",
@@ -171,6 +173,7 @@
 			"statecode": "MH"
 		},
 		{
+			"_clrrx": "Mumbai Suburban",
 			"agebracket": "86",
 			"city": "Ghatkopar",
 			"date": "29/03/2020",
@@ -188,6 +191,7 @@
 			"statecode": "MH"
 		},
 		{
+			"_clrrx": "Mumbai",
 			"agebracket": "",
 			"city": "",
 			"date": "29/03/2020",
@@ -205,6 +209,7 @@
 			"statecode": "MH"
 		},
 		{
+			"_clrrx": "Mumbai",
 			"agebracket": "",
 			"city": "",
 			"date": "29/03/2020",
@@ -222,6 +227,7 @@
 			"statecode": "MH"
 		},
 		{
+			"_clrrx": "Thane",
 			"agebracket": "",
 			"city": "",
 			"date": "29/03/2020",
