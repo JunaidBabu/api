@@ -149,7 +149,7 @@
           "recovered": 0
         }
       },
-      "Y.S.R Kadapa": {
+      "Y.S.R. Kadapa": {
         "active": 30,
         "confirmed": 58,
         "deceased": 0,
@@ -1458,7 +1458,7 @@
           "recovered": 0
         }
       },
-      "Badgam": {
+      "Budgam": {
         "active": 5,
         "confirmed": 14,
         "deceased": 0,
@@ -1469,7 +1469,7 @@
           "recovered": 0
         }
       },
-      "Bandipore": {
+      "Bandipora": {
         "active": 100,
         "confirmed": 124,
         "deceased": 1,
@@ -1480,7 +1480,7 @@
           "recovered": 0
         }
       },
-      "Baramula": {
+      "Baramulla": {
         "active": 42,
         "confirmed": 62,
         "deceased": 3,
@@ -1601,7 +1601,7 @@
           "recovered": 0
         }
       },
-      "Shupiyan": {
+      "Shopiyan": {
         "active": 52,
         "confirmed": 63,
         "deceased": 0,
@@ -3091,7 +3091,7 @@
           "recovered": 0
         }
       },
-      "Firozpur": {
+      "Ferozepur": {
         "active": 1,
         "confirmed": 1,
         "deceased": 0,
@@ -3849,7 +3849,7 @@
           "recovered": 0
         }
       },
-      "The Nilgiris": {
+      "Nilgiris": {
         "active": 9,
         "confirmed": 9,
         "deceased": 0,
@@ -4041,7 +4041,7 @@
           "recovered": 0
         }
       },
-      "Jangoan": {
+      "Jangaon": {
         "active": 3,
         "confirmed": 3,
         "deceased": 0,
