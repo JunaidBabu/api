@@ -5020,12 +5020,12 @@
         }
       },
       "Unknown": {
-        "active": 16,
-        "confirmed": 16,
+        "active": 18,
+        "confirmed": 18,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 16,
+          "confirmed": 18,
           "deceased": 0,
           "recovered": 0
         }

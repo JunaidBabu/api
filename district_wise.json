@@ -15501,14 +15501,14 @@
 			"statecode": "TR"
 		},
 		{
-			"active": "16",
+			"active": "18",
 			"activeyesterday": "0",
-			"confirmed": "16",
+			"confirmed": "18",
 			"confirmedyesterday": "0",
 			"deceased": "0",
 			"deceasedyesterday": "0",
-			"deltaactive": "16",
-			"deltaconfirmed": "16",
+			"deltaactive": "18",
+			"deltaconfirmed": "18",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",
