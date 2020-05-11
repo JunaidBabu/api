@@ -15401,14 +15401,14 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "-2",
+			"active": "8",
 			"activeyesterday": "0",
-			"confirmed": "-2",
+			"confirmed": "8",
 			"confirmedyesterday": "0",
 			"deceased": "0",
 			"deceasedyesterday": "0",
-			"deltaactive": "-2",
-			"deltaconfirmed": "-2",
+			"deltaactive": "8",
+			"deltaconfirmed": "8",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",
