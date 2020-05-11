@@ -721,11 +721,11 @@
 			"totalrecovered": "2466"
 		},
 		{
-			"dailyconfirmed": "1580",
+			"dailyconfirmed": "1582",
 			"dailydeceased": "38",
 			"dailyrecovered": "388",
 			"date": "19 April ",
-			"totalconfirmed": "17311",
+			"totalconfirmed": "17313",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -734,7 +734,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "20 April ",
-			"totalconfirmed": "17311",
+			"totalconfirmed": "17313",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -743,7 +743,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "21 April ",
-			"totalconfirmed": "17311",
+			"totalconfirmed": "17313",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -752,7 +752,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "22 April ",
-			"totalconfirmed": "17311",
+			"totalconfirmed": "17313",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -761,7 +761,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "23 April ",
-			"totalconfirmed": "17311",
+			"totalconfirmed": "17313",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -770,15 +770,15 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "24 April ",
-			"totalconfirmed": "17311",
+			"totalconfirmed": "17313",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		}
 	],
 	"statewise": [
 		{
-			"active": "13897",
-			"confirmed": "17311",
+			"active": "13899",
+			"confirmed": "17313",
 			"deaths": "560",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -972,8 +972,8 @@
 			"statenotes": "1 death in Ambala unaccounted."
 		},
 		{
-			"active": "191",
-			"confirmed": "244",
+			"active": "193",
+			"confirmed": "246",
 			"deaths": "16",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
