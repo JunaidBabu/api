@@ -159,6 +159,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 4,
+        "confirmed": 4,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 4,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "AP"
