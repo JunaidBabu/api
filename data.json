@@ -694,11 +694,11 @@
 			"totalrecovered": "1509"
 		},
 		{
-			"dailyconfirmed": "1061",
+			"dailyconfirmed": "1063",
 			"dailydeceased": "26",
 			"dailyrecovered": "258",
 			"date": "16 April ",
-			"totalconfirmed": "13434",
+			"totalconfirmed": "13436",
 			"totaldeceased": "449",
 			"totalrecovered": "1767"
 		},
@@ -707,7 +707,7 @@
 			"dailydeceased": "38",
 			"dailyrecovered": "273",
 			"date": "17 April ",
-			"totalconfirmed": "14356",
+			"totalconfirmed": "14358",
 			"totaldeceased": "487",
 			"totalrecovered": "2040"
 		},
@@ -716,16 +716,16 @@
 			"dailydeceased": "35",
 			"dailyrecovered": "426",
 			"date": "18 April ",
-			"totalconfirmed": "15731",
+			"totalconfirmed": "15733",
 			"totaldeceased": "522",
 			"totalrecovered": "2466"
 		},
 		{
-			"dailyconfirmed": "1582",
+			"dailyconfirmed": "1586",
 			"dailydeceased": "38",
 			"dailyrecovered": "388",
 			"date": "19 April ",
-			"totalconfirmed": "17313",
+			"totalconfirmed": "17319",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -734,7 +734,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "20 April ",
-			"totalconfirmed": "17313",
+			"totalconfirmed": "17319",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -743,7 +743,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "21 April ",
-			"totalconfirmed": "17313",
+			"totalconfirmed": "17319",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -752,7 +752,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "22 April ",
-			"totalconfirmed": "17313",
+			"totalconfirmed": "17319",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -761,7 +761,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "23 April ",
-			"totalconfirmed": "17313",
+			"totalconfirmed": "17319",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -770,15 +770,15 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "24 April ",
-			"totalconfirmed": "17313",
+			"totalconfirmed": "17319",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		}
 	],
 	"statewise": [
 		{
-			"active": "13899",
-			"confirmed": "17313",
+			"active": "13905",
+			"confirmed": "17319",
 			"deaths": "560",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -868,8 +868,8 @@
 			"statenotes": ""
 		},
 		{
-			"active": "956",
-			"confirmed": "1100",
+			"active": "962",
+			"confirmed": "1106",
 			"deaths": "17",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
