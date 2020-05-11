@@ -712,20 +712,20 @@
 			"totalrecovered": "2040"
 		},
 		{
-			"dailyconfirmed": "1375",
+			"dailyconfirmed": "1377",
 			"dailydeceased": "35",
 			"dailyrecovered": "426",
 			"date": "18 April ",
-			"totalconfirmed": "15733",
+			"totalconfirmed": "15735",
 			"totaldeceased": "522",
 			"totalrecovered": "2466"
 		},
 		{
-			"dailyconfirmed": "1586",
+			"dailyconfirmed": "1590",
 			"dailydeceased": "38",
 			"dailyrecovered": "388",
 			"date": "19 April ",
-			"totalconfirmed": "17319",
+			"totalconfirmed": "17325",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -734,7 +734,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "20 April ",
-			"totalconfirmed": "17319",
+			"totalconfirmed": "17325",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -743,7 +743,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "21 April ",
-			"totalconfirmed": "17319",
+			"totalconfirmed": "17325",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -752,7 +752,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "22 April ",
-			"totalconfirmed": "17319",
+			"totalconfirmed": "17325",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -761,7 +761,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "23 April ",
-			"totalconfirmed": "17319",
+			"totalconfirmed": "17325",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -770,15 +770,15 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "24 April ",
-			"totalconfirmed": "17319",
+			"totalconfirmed": "17325",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		}
 	],
 	"statewise": [
 		{
-			"active": "13905",
-			"confirmed": "17319",
+			"active": "13911",
+			"confirmed": "17325",
 			"deaths": "560",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -868,8 +868,8 @@
 			"statenotes": ""
 		},
 		{
-			"active": "962",
-			"confirmed": "1106",
+			"active": "968",
+			"confirmed": "1112",
 			"deaths": "17",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
