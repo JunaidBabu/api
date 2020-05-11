@@ -15221,14 +15221,14 @@
 			"statecode": "LD"
 		},
 		{
-			"active": "0",
+			"active": "6",
 			"activeyesterday": "0",
-			"confirmed": "0",
+			"confirmed": "6",
 			"confirmedyesterday": "0",
 			"deceased": "0",
 			"deceasedyesterday": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "6",
+			"deltaconfirmed": "6",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",
