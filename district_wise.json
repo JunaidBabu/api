@@ -14841,14 +14841,14 @@
 			"statecode": "AN"
 		},
 		{
-			"active": "4",
+			"active": "3",
 			"activeyesterday": "0",
-			"confirmed": "4",
+			"confirmed": "3",
 			"confirmedyesterday": "0",
 			"deceased": "0",
 			"deceasedyesterday": "0",
-			"deltaactive": "4",
-			"deltaconfirmed": "4",
+			"deltaactive": "3",
+			"deltaconfirmed": "3",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",
