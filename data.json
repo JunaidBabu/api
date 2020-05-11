@@ -712,11 +712,11 @@
 			"totalrecovered": "2040"
 		},
 		{
-			"dailyconfirmed": "1373",
+			"dailyconfirmed": "1375",
 			"dailydeceased": "35",
 			"dailyrecovered": "426",
 			"date": "18 April ",
-			"totalconfirmed": "15729",
+			"totalconfirmed": "15731",
 			"totaldeceased": "522",
 			"totalrecovered": "2466"
 		},
@@ -725,7 +725,7 @@
 			"dailydeceased": "38",
 			"dailyrecovered": "388",
 			"date": "19 April ",
-			"totalconfirmed": "17309",
+			"totalconfirmed": "17311",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -734,7 +734,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "20 April ",
-			"totalconfirmed": "17309",
+			"totalconfirmed": "17311",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -743,7 +743,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "21 April ",
-			"totalconfirmed": "17309",
+			"totalconfirmed": "17311",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -752,7 +752,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "22 April ",
-			"totalconfirmed": "17309",
+			"totalconfirmed": "17311",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -761,7 +761,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "23 April ",
-			"totalconfirmed": "17309",
+			"totalconfirmed": "17311",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -770,15 +770,15 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "24 April ",
-			"totalconfirmed": "17309",
+			"totalconfirmed": "17311",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		}
 	],
 	"statewise": [
 		{
-			"active": "13895",
-			"confirmed": "17309",
+			"active": "13897",
+			"confirmed": "17311",
 			"deaths": "560",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -855,8 +855,8 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1206",
-			"confirmed": "1409",
+			"active": "1208",
+			"confirmed": "1411",
 			"deaths": "72",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",

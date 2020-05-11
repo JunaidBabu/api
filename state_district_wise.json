@@ -161,12 +161,12 @@
         }
       },
       "Unknown": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -2474,12 +2474,12 @@
         }
       },
       "Unknown": {
-        "active": 12,
-        "confirmed": 12,
+        "active": 20,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 12,
+          "confirmed": 20,
           "deceased": 0,
           "recovered": 0
         }
