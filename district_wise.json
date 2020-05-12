@@ -15241,14 +15241,14 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "-112",
+			"active": "-111",
 			"activeyesterday": "-112",
-			"confirmed": "0",
+			"confirmed": "1",
 			"confirmedyesterday": "0",
 			"deceased": "0",
 			"deceasedyesterday": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",

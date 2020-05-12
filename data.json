@@ -658,47 +658,47 @@
 			"totalrecovered": "972"
 		},
 		{
-			"dailyconfirmed": "758",
+			"dailyconfirmed": "760",
 			"dailydeceased": "42",
 			"dailyrecovered": "114",
 			"date": "12 April ",
-			"totalconfirmed": "9211",
+			"totalconfirmed": "9213",
 			"totaldeceased": "332",
 			"totalrecovered": "1086"
 		},
 		{
-			"dailyconfirmed": "1243",
+			"dailyconfirmed": "1245",
 			"dailydeceased": "27",
 			"dailyrecovered": "112",
 			"date": "13 April ",
-			"totalconfirmed": "10454",
+			"totalconfirmed": "10458",
 			"totaldeceased": "359",
 			"totalrecovered": "1198"
 		},
 		{
-			"dailyconfirmed": "1033",
+			"dailyconfirmed": "1035",
 			"dailydeceased": "37",
 			"dailyrecovered": "167",
 			"date": "14 April ",
-			"totalconfirmed": "11487",
+			"totalconfirmed": "11493",
 			"totaldeceased": "396",
 			"totalrecovered": "1365"
 		},
 		{
-			"dailyconfirmed": "886",
+			"dailyconfirmed": "888",
 			"dailydeceased": "27",
 			"dailyrecovered": "144",
 			"date": "15 April ",
-			"totalconfirmed": "12373",
+			"totalconfirmed": "12381",
 			"totaldeceased": "423",
 			"totalrecovered": "1509"
 		},
 		{
-			"dailyconfirmed": "1063",
+			"dailyconfirmed": "1065",
 			"dailydeceased": "26",
 			"dailyrecovered": "258",
 			"date": "16 April ",
-			"totalconfirmed": "13436",
+			"totalconfirmed": "13446",
 			"totaldeceased": "449",
 			"totalrecovered": "1767"
 		},
@@ -707,25 +707,25 @@
 			"dailydeceased": "38",
 			"dailyrecovered": "273",
 			"date": "17 April ",
-			"totalconfirmed": "14358",
+			"totalconfirmed": "14368",
 			"totaldeceased": "487",
 			"totalrecovered": "2040"
 		},
 		{
-			"dailyconfirmed": "1379",
+			"dailyconfirmed": "1383",
 			"dailydeceased": "35",
 			"dailyrecovered": "426",
 			"date": "18 April ",
-			"totalconfirmed": "15737",
+			"totalconfirmed": "15751",
 			"totaldeceased": "522",
 			"totalrecovered": "2466"
 		},
 		{
-			"dailyconfirmed": "1600",
+			"dailyconfirmed": "1614",
 			"dailydeceased": "38",
 			"dailyrecovered": "388",
 			"date": "19 April ",
-			"totalconfirmed": "17337",
+			"totalconfirmed": "17365",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -734,7 +734,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "20 April ",
-			"totalconfirmed": "17337",
+			"totalconfirmed": "17365",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -743,7 +743,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "21 April ",
-			"totalconfirmed": "17337",
+			"totalconfirmed": "17365",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -752,7 +752,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "22 April ",
-			"totalconfirmed": "17337",
+			"totalconfirmed": "17365",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -761,7 +761,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "23 April ",
-			"totalconfirmed": "17337",
+			"totalconfirmed": "17365",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		},
@@ -770,15 +770,15 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "24 April ",
-			"totalconfirmed": "17337",
+			"totalconfirmed": "17365",
 			"totaldeceased": "560",
 			"totalrecovered": "2854"
 		}
 	],
 	"statewise": [
 		{
-			"active": "13923",
-			"confirmed": "17337",
+			"active": "13951",
+			"confirmed": "17365",
 			"deaths": "560",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -790,8 +790,8 @@
 			"statenotes": ""
 		},
 		{
-			"active": "3482",
-			"confirmed": "4212",
+			"active": "3510",
+			"confirmed": "4240",
 			"deaths": "223",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",

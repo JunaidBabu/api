@@ -17338,17 +17338,31 @@ Patient Number,State Patient Number,Date Announced,Estimated Onset Date,Age Brac
 ,,18/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,1
 ,,19/04/2020,,,,,Ahmednagar,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,1
 ,,19/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-1
-,,19/04/2020,,,,,Solapur,,,,,,,,,,,,,1
-,,19/04/2020,,,,,,,,,,,,,,,,,,-1
-,,19/04/2020,,,,,Kolhapur,,,,,,,,,,,,,1
-,,19/04/2020,,,,,,,,,,,,,,,,,,-1
-,,18/04/2020,,,,,Aurangabad,,,,,,,,,,,,,1
-,,18/04/2020,,,,,,,,,,,,,,,,,,-1
-,,19/04/2020,,,,,Aurangabad,,,,,,,,,,,,,1
-,,19/04/2020,,,,,,,,,,,,,,,,,,-1
-,,19/04/2020,,,,,Jalna,,,,,,,,,,,,,-1
-,,19/04/2020,,,,,,,,,,,,,,,,,,1
-,,19/04/2020,,,,,Akola,,,,,,,,,,,,,1
-,,19/04/2020,,,,,,,,,,,,,,,,,,
-,,19/04/2020,,,,,Yavatmal,,,,,,,,,,,,,
-,,19/04/2020,,,,,,,,,,,,,,,,,,
+,,19/04/2020,,,,,Solapur,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,1
+,,19/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-1
+,,19/04/2020,,,,,Kolhapur,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,1
+,,19/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-1
+,,18/04/2020,,,,,Aurangabad,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,1
+,,18/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-1
+,,19/04/2020,,,,,Aurangabad,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,1
+,,19/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-1
+,,19/04/2020,,,,,Jalna,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-1
+,,19/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,1
+,,19/04/2020,,,,,Akola,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,1
+,,19/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-1
+,,19/04/2020,,,,,Yavatmal,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,1
+,,19/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-1
+,,12/04/2020,,,,,Nagpur,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,14
+,,12/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-14
+,,13/04/2020,,,,,Nagpur,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-8
+,,13/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,8
+,,14/04/2020,,,,,Nagpur,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,4
+,,14/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-4
+,,15/04/2020,,,,,Nagpur,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-10
+,,15/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,10
+,,16/04/2020,,,,,Nagpur,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,2
+,,16/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-2
+,,18/04/2020,,,,,Nagpur,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,1
+,,18/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-1
+,,19/04/2020,,,,,Nagpur,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,10
+,,19/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-10

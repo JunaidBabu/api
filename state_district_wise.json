@@ -2862,6 +2862,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": -111,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 112,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "MH"
