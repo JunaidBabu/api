@@ -2864,12 +2864,12 @@
         }
       },
       "Unknown": {
-        "active": -111,
-        "confirmed": 1,
+        "active": 68,
+        "confirmed": 180,
         "deceased": 0,
         "recovered": 112,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 180,
           "deceased": 0,
           "recovered": 0
         }
