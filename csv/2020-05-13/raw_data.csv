@@ -17326,3 +17326,29 @@ Patient Number,State Patient Number,Date Announced,Estimated Onset Date,Age Brac
 ,,19/04/2020,,,,,,Uttar Pradesh,UP,Hospitalized,Correction for district count,,,,,,,,,1
 ,,19/04/2020,,,,,Shamli,Uttar Pradesh,UP,Hospitalized,Correction for district count,,,,,,,,,3
 ,,19/04/2020,,,,,,Uttar Pradesh,UP,Hospitalized,Correction for district count,,,,,,,,,-3
+,,19/04/2020,,,,,Mumbai,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,456
+,,19/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-456
+,,19/04/2020,,,,,Thane,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,7
+,,19/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-7
+,,19/04/2020,,,,,Raigad,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-2
+,,19/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,2
+,,19/04/2020,,,,,Nashik,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,34
+,,19/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-34
+,,18/04/2020,,,,,Ahmednagar,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-1
+,,18/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,1
+,,19/04/2020,,,,,Ahmednagar,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,1
+,,19/04/2020,,,,,,Maharashtra,MH,Hospitalized,Correction for district count,,,,,,,,,-1
+,,19/04/2020,,,,,Solapur,,,,,,,,,,,,,1
+,,19/04/2020,,,,,,,,,,,,,,,,,,-1
+,,19/04/2020,,,,,Kolhapur,,,,,,,,,,,,,1
+,,19/04/2020,,,,,,,,,,,,,,,,,,-1
+,,18/04/2020,,,,,Aurangabad,,,,,,,,,,,,,1
+,,18/04/2020,,,,,,,,,,,,,,,,,,-1
+,,19/04/2020,,,,,Aurangabad,,,,,,,,,,,,,1
+,,19/04/2020,,,,,,,,,,,,,,,,,,-1
+,,19/04/2020,,,,,Jalna,,,,,,,,,,,,,-1
+,,19/04/2020,,,,,,,,,,,,,,,,,,1
+,,19/04/2020,,,,,Akola,,,,,,,,,,,,,1
+,,19/04/2020,,,,,,,,,,,,,,,,,,
+,,19/04/2020,,,,,Yavatmal,,,,,,,,,,,,,
+,,19/04/2020,,,,,,,,,,,,,,,,,,
